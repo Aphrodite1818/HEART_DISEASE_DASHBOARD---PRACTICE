@@ -3,3 +3,5 @@ numpy
 plotly-express
 streamlit
 ipykernel
+matplotlib
+seaborn
