@@ -1,0 +1,2182 @@
+age,Country,State,sex,Gender,cp,trestbps,chol,fbs,restecg,thalachh,exang,oldpeak,slope,ca,thal,Diagnosis,target
+63,South Africa,KwaZulu-Natal,1,Female,3,145,233,1,0,150,0,2.3,0,0,1,Positive,1
+37,Russia,Krasnodar,1,Female,2,130,250,0,1,187,0,3.5,0,0,2,Positive,1
+41,United Kingdom,Wales,0,Male,1,130,204,0,0,172,0,1.4,2,0,2,Positive,1
+56,Germany,North Rhine-Westphalia,1,Female,1,120,236,0,1,178,0,0.8,2,0,2,Positive,1
+57,Mexico,Mexico City,0,Male,0,120,354,0,1,163,1,0.6,2,0,2,Positive,1
+57,United Kingdom,Scotland,1,Female,0,140,192,0,1,148,0,0.4,1,0,1,Positive,1
+56,India,Kerala,0,Male,1,140,294,0,0,153,0,1.3,1,0,2,Positive,1
+44,China,Guangdong,1,Female,1,120,263,0,1,173,0,0.0,2,0,3,Positive,1
+52,India,Tamil Nadu,1,Female,2,172,199,1,1,162,0,0.5,2,0,3,Positive,1
+57,Germany,Bavaria,1,Female,2,150,168,0,1,174,0,1.6,2,0,2,Positive,1
+54,South Africa,KwaZulu-Natal,1,Female,0,140,239,0,1,160,0,1.2,2,0,2,Positive,1
+48,Brazil,Bahia,0,Male,2,130,275,0,1,139,0,0.2,2,0,2,Positive,1
+49,Mexico,Nuevo León,1,Female,1,130,266,0,1,171,0,0.6,2,0,2,Positive,1
+64,Mexico,Mexico City,1,Female,3,110,211,0,0,144,1,1.8,1,0,2,Positive,1
+58,South Africa,Eastern Cape,0,Male,3,150,283,1,0,162,0,1.0,2,0,2,Positive,1
+50,Brazil,Bahia,0,Male,2,120,219,0,1,158,0,1.6,1,0,2,Positive,1
+58,China,Shanghai,0,Male,2,120,340,0,1,172,0,0.0,2,0,2,Positive,1
+66,Russia,Saint Petersburg,0,Male,3,150,226,0,1,114,0,2.6,0,0,2,Positive,1
+43,United States,West Virginia,1,Female,0,150,247,0,1,171,0,1.5,2,0,2,Positive,1
+69,China,Guangdong,0,Male,3,140,239,0,1,151,0,1.8,2,2,2,Positive,1
+59,Mexico,Jalisco,1,Female,0,135,234,0,1,161,0,0.5,1,0,3,Positive,1
+44,Ukraine,Dnipro,1,Female,2,130,233,0,1,179,1,0.4,2,0,2,Positive,1
+42,Mexico,Mexico City,1,Female,0,140,226,0,1,178,0,0.0,2,0,2,Positive,1
+61,Mexico,Jalisco,1,Female,2,150,243,1,1,137,1,1.0,1,0,2,Positive,1
+40,China,Beijing,1,Female,3,140,199,0,1,178,1,1.4,2,0,3,Positive,1
+71,United Kingdom,Scotland,0,Male,1,160,302,0,1,162,0,0.4,2,2,2,Positive,1
+59,Brazil,São Paulo,1,Female,2,150,212,1,1,157,0,1.6,2,0,2,Positive,1
+51,China,Beijing,1,Female,2,110,175,0,1,123,0,0.6,2,0,2,Positive,1
+65,Germany,North Rhine-Westphalia,0,Male,2,140,417,1,0,157,0,0.8,2,1,2,Positive,1
+53,United States,Mississippi,1,Female,2,130,197,1,0,152,0,1.2,0,0,2,Positive,1
+41,Ukraine,Kyiv,0,Male,1,105,198,0,1,168,0,0.0,2,1,2,Positive,1
+65,Russia,Krasnodar,1,Female,0,120,177,0,1,140,0,0.4,2,0,3,Positive,1
+44,Brazil,Bahia,1,Female,1,130,219,0,0,188,0,0.0,2,0,2,Positive,1
+54,Mexico,Jalisco,1,Female,2,125,273,0,0,152,0,0.5,0,1,2,Positive,1
+51,India,Kerala,1,Female,3,125,213,0,0,125,1,1.4,2,1,2,Positive,1
+46,Brazil,São Paulo,0,Male,2,142,177,0,0,160,1,1.4,0,0,2,Positive,1
+54,India,Tamil Nadu,0,Male,2,135,304,1,1,170,0,0.0,2,0,2,Positive,1
+54,South Africa,KwaZulu-Natal,1,Female,2,150,232,0,0,165,0,1.6,2,0,3,Positive,1
+65,Germany,North Rhine-Westphalia,0,Male,2,155,269,0,1,148,0,0.8,2,0,2,Positive,1
+65,Ukraine,Kharkiv,0,Male,2,160,360,0,0,151,0,0.8,2,0,2,Positive,1
+51,Mexico,Jalisco,0,Male,2,140,308,0,0,142,0,1.5,2,1,2,Positive,1
+48,India,Tamil Nadu,1,Female,1,130,245,0,0,180,0,0.2,1,0,2,Positive,1
+45,China,Guangdong,1,Female,0,104,208,0,0,148,1,3.0,1,0,2,Positive,1
+53,Russia,Krasnodar,0,Male,0,130,264,0,0,143,0,0.4,1,0,2,Positive,1
+39,Russia,Saint Petersburg,1,Female,2,140,321,0,0,182,0,0.0,2,0,2,Positive,1
+52,Ukraine,Kyiv,1,Female,1,120,325,0,1,172,0,0.2,2,0,2,Positive,1
+44,Russia,Saint Petersburg,1,Female,2,140,235,0,0,180,0,0.0,2,0,2,Positive,1
+47,Germany,North Rhine-Westphalia,1,Female,2,138,257,0,0,156,0,0.0,2,0,2,Positive,1
+53,Germany,Saxony,0,Male,2,128,216,0,0,115,0,0.0,2,0,0,Positive,1
+53,Mexico,Jalisco,0,Male,0,138,234,0,0,160,0,0.0,2,0,2,Positive,1
+51,United Kingdom,Wales,0,Male,2,130,256,0,0,149,0,0.5,2,0,2,Positive,1
+66,United Kingdom,Wales,1,Female,0,120,302,0,0,151,0,0.4,1,0,2,Positive,1
+62,India,Kerala,1,Female,2,130,231,0,1,146,0,1.8,1,3,3,Positive,1
+44,Germany,North Rhine-Westphalia,0,Male,2,108,141,0,1,175,0,0.6,1,0,2,Positive,1
+63,South Africa,Eastern Cape,0,Male,2,135,252,0,0,172,0,0.0,2,0,2,Positive,1
+52,India,Tamil Nadu,1,Female,1,134,201,0,1,158,0,0.8,2,1,2,Positive,1
+48,United Kingdom,Scotland,1,Female,0,122,222,0,0,186,0,0.0,2,0,2,Positive,1
+45,United States,Mississippi,1,Female,0,115,260,0,0,185,0,0.0,2,0,2,Positive,1
+34,Ukraine,Kyiv,1,Female,3,118,182,0,0,174,0,0.0,2,0,2,Positive,1
+57,Mexico,Jalisco,0,Male,0,128,303,0,0,159,0,0.0,2,1,2,Positive,1
+71,United Kingdom,England,0,Male,2,110,265,1,0,130,0,0.0,2,1,2,Positive,1
+54,United Kingdom,England,1,Female,1,108,309,0,1,156,0,0.0,2,0,3,Positive,1
+52,Brazil,Bahia,1,Female,3,118,186,0,0,190,0,0.0,1,0,1,Positive,1
+41,Mexico,Nuevo León,1,Female,1,135,203,0,1,132,0,0.0,1,0,1,Positive,1
+58,United States,Alabama,1,Female,2,140,211,1,0,165,0,0.0,2,0,2,Positive,1
+35,India,Kerala,0,Male,0,138,183,0,1,182,0,1.4,2,0,2,Positive,1
+51,India,Tamil Nadu,1,Female,2,100,222,0,1,143,1,1.2,1,0,2,Positive,1
+45,China,Shanghai,0,Male,1,130,234,0,0,175,0,0.6,1,0,2,Positive,1
+44,China,Beijing,1,Female,1,120,220,0,1,170,0,0.0,2,0,2,Positive,1
+62,Germany,North Rhine-Westphalia,0,Male,0,124,209,0,1,163,0,0.0,2,0,2,Positive,1
+54,Ukraine,Dnipro,1,Female,2,120,258,0,0,147,0,0.4,1,0,3,Positive,1
+51,South Africa,KwaZulu-Natal,1,Female,2,94,227,0,1,154,1,0.0,2,1,3,Positive,1
+29,Germany,North Rhine-Westphalia,1,Female,1,130,204,0,0,202,0,0.0,2,0,2,Positive,1
+51,Germany,Bavaria,1,Female,0,140,261,0,0,186,1,0.0,2,0,2,Positive,1
+43,Germany,North Rhine-Westphalia,0,Male,2,122,213,0,1,165,0,0.2,1,0,2,Positive,1
+55,United States,Mississippi,0,Male,1,135,250,0,0,161,0,1.4,1,0,2,Positive,1
+51,United States,Mississippi,1,Female,2,125,245,1,0,166,0,2.4,1,0,2,Positive,1
+59,China,Guangdong,1,Female,1,140,221,0,1,164,1,0.0,2,0,2,Positive,1
+52,United Kingdom,Scotland,1,Female,1,128,205,1,1,184,0,0.0,2,0,2,Positive,1
+58,United States,Mississippi,1,Female,2,105,240,0,0,154,1,0.6,1,0,3,Positive,1
+41,Germany,Bavaria,1,Female,2,112,250,0,1,179,0,0.0,2,0,2,Positive,1
+45,Brazil,São Paulo,1,Female,1,128,308,0,0,170,0,0.0,2,0,2,Positive,1
+60,India,Tamil Nadu,0,Male,2,102,318,0,1,160,0,0.0,2,1,2,Positive,1
+52,Germany,Bavaria,1,Female,3,152,298,1,1,178,0,1.2,1,0,3,Positive,1
+42,Mexico,Mexico City,0,Male,0,102,265,0,0,122,0,0.6,1,0,2,Positive,1
+67,China,Shanghai,0,Male,2,115,564,0,0,160,0,1.6,1,0,3,Positive,1
+68,Ukraine,Kharkiv,1,Female,2,118,277,0,1,151,0,1.0,2,1,3,Positive,1
+46,United States,Alabama,1,Female,1,101,197,1,1,156,0,0.0,2,0,3,Positive,1
+54,Russia,Krasnodar,0,Male,2,110,214,0,1,158,0,1.6,1,0,2,Positive,1
+58,South Africa,Eastern Cape,0,Male,0,100,248,0,0,122,0,1.0,1,0,2,Positive,1
+48,Germany,Saxony,1,Female,2,124,255,1,1,175,0,0.0,2,2,2,Positive,1
+57,Russia,Moscow Oblast,1,Female,0,132,207,0,1,168,1,0.0,2,0,3,Positive,1
+52,United States,Alabama,1,Female,2,138,223,0,1,169,0,0.0,2,4,2,Positive,1
+54,China,Shanghai,0,Male,1,132,288,1,0,159,1,0.0,2,1,2,Positive,1
+45,Germany,Saxony,0,Male,1,112,160,0,1,138,0,0.0,1,0,2,Positive,1
+53,Russia,Moscow Oblast,1,Female,0,142,226,0,0,111,1,0.0,2,0,3,Positive,1
+62,Brazil,Bahia,0,Male,0,140,394,0,0,157,0,1.2,1,0,2,Positive,1
+52,India,Tamil Nadu,1,Female,0,108,233,1,1,147,0,0.1,2,3,3,Positive,1
+43,Brazil,Bahia,1,Female,2,130,315,0,1,162,0,1.9,2,1,2,Positive,1
+53,United States,West Virginia,1,Female,2,130,246,1,0,173,0,0.0,2,3,2,Positive,1
+42,South Africa,Eastern Cape,1,Female,3,148,244,0,0,178,0,0.8,2,2,2,Positive,1
+59,China,Beijing,1,Female,3,178,270,0,0,145,0,4.2,0,0,3,Positive,1
+63,Ukraine,Kharkiv,0,Male,1,140,195,0,1,179,0,0.0,2,2,2,Positive,1
+42,Brazil,Bahia,1,Female,2,120,240,1,1,194,0,0.8,0,0,3,Positive,1
+50,United States,West Virginia,1,Female,2,129,196,0,1,163,0,0.0,2,0,2,Positive,1
+68,United States,West Virginia,0,Male,2,120,211,0,0,115,0,1.5,1,0,2,Positive,1
+69,United Kingdom,Scotland,1,Female,3,160,234,1,0,131,0,0.1,1,1,2,Positive,1
+45,Mexico,Mexico City,0,Male,0,138,236,0,0,152,1,0.2,1,0,2,Positive,1
+50,Russia,Krasnodar,0,Male,1,120,244,0,1,162,0,1.1,2,0,2,Positive,1
+50,United States,Mississippi,0,Male,0,110,254,0,0,159,0,0.0,2,0,2,Positive,1
+64,Brazil,São Paulo,0,Male,0,180,325,0,1,154,1,0.0,2,0,2,Positive,1
+57,United Kingdom,Wales,1,Female,2,150,126,1,1,173,0,0.2,2,1,3,Positive,1
+64,Germany,Bavaria,0,Male,2,140,313,0,1,133,0,0.2,2,0,3,Positive,1
+43,Ukraine,Kyiv,1,Female,0,110,211,0,1,161,0,0.0,2,0,3,Positive,1
+55,South Africa,Eastern Cape,1,Female,1,130,262,0,1,155,0,0.0,2,0,2,Positive,1
+37,China,Shanghai,0,Male,2,120,215,0,1,170,0,0.0,2,0,2,Positive,1
+41,China,Guangdong,1,Female,2,130,214,0,0,168,0,2.0,1,0,2,Positive,1
+56,Germany,North Rhine-Westphalia,1,Female,3,120,193,0,0,162,0,1.9,1,0,3,Positive,1
+46,China,Beijing,0,Male,1,105,204,0,1,172,0,0.0,2,0,2,Positive,1
+46,United Kingdom,Scotland,0,Male,0,138,243,0,0,152,1,0.0,1,0,2,Positive,1
+64,Brazil,São Paulo,0,Male,0,130,303,0,1,122,0,2.0,1,2,2,Positive,1
+59,Germany,North Rhine-Westphalia,1,Female,0,138,271,0,0,182,0,0.0,2,0,2,Positive,1
+41,Mexico,Mexico City,0,Male,2,112,268,0,0,172,1,0.0,2,0,2,Positive,1
+54,India,Tamil Nadu,0,Male,2,108,267,0,0,167,0,0.0,2,0,2,Positive,1
+39,United Kingdom,England,0,Male,2,94,199,0,1,179,0,0.0,2,0,2,Positive,1
+34,Ukraine,Kyiv,0,Male,1,118,210,0,1,192,0,0.7,2,0,2,Positive,1
+47,Germany,Bavaria,1,Female,0,112,204,0,1,143,0,0.1,2,0,2,Positive,1
+67,United States,Alabama,0,Male,2,152,277,0,1,172,0,0.0,2,1,2,Positive,1
+52,India,Goa,0,Male,2,136,196,0,0,169,0,0.1,1,0,2,Positive,1
+74,Russia,Moscow Oblast,0,Male,1,120,269,0,0,121,1,0.2,2,1,2,Positive,1
+54,Russia,Krasnodar,0,Male,2,160,201,0,1,163,0,0.0,2,1,2,Positive,1
+49,United Kingdom,England,0,Male,1,134,271,0,1,162,0,0.0,1,0,2,Positive,1
+42,China,Guangdong,1,Female,1,120,295,0,1,162,0,0.0,2,0,2,Positive,1
+41,Brazil,São Paulo,1,Female,1,110,235,0,1,153,0,0.0,2,0,2,Positive,1
+41,Russia,Saint Petersburg,0,Male,1,126,306,0,1,163,0,0.0,2,0,2,Positive,1
+49,China,Guangdong,0,Male,0,130,269,0,1,163,0,0.0,2,0,2,Positive,1
+60,Mexico,Jalisco,0,Male,2,120,178,1,1,96,0,0.0,2,0,2,Positive,1
+62,Mexico,Mexico City,1,Female,1,128,208,1,0,140,0,0.0,2,0,2,Positive,1
+57,Ukraine,Kyiv,1,Female,0,110,201,0,1,126,1,1.5,1,0,1,Positive,1
+64,Russia,Saint Petersburg,1,Female,0,128,263,0,1,105,1,0.2,1,1,3,Positive,1
+51,United Kingdom,Scotland,0,Male,2,120,295,0,0,157,0,0.6,2,0,2,Positive,1
+43,South Africa,Eastern Cape,1,Female,0,115,303,0,1,181,0,1.2,1,0,2,Positive,1
+42,Brazil,Rio de Janeiro,0,Male,2,120,209,0,1,173,0,0.0,1,0,2,Positive,1
+67,India,Goa,0,Male,0,106,223,0,1,142,0,0.3,2,2,2,Positive,1
+76,India,Tamil Nadu,0,Male,2,140,197,0,2,116,0,1.1,1,0,2,Positive,1
+70,United States,West Virginia,1,Female,1,156,245,0,0,143,0,0.0,2,0,2,Positive,1
+44,United States,Mississippi,0,Male,2,118,242,0,1,149,0,0.3,1,1,2,Positive,1
+60,Russia,Moscow Oblast,0,Male,3,150,240,0,1,171,0,0.9,2,0,2,Positive,1
+44,Ukraine,Dnipro,1,Female,2,120,226,0,1,169,0,0.0,2,0,2,Positive,1
+42,India,Kerala,1,Female,2,130,180,0,1,150,0,0.0,2,0,2,Positive,1
+66,United Kingdom,Wales,1,Female,0,160,228,0,0,138,0,2.3,2,0,1,Positive,1
+71,China,Guangdong,0,Male,0,112,149,0,1,125,0,1.6,1,0,2,Positive,1
+64,Mexico,Mexico City,1,Female,3,170,227,0,0,155,0,0.6,1,0,3,Positive,1
+66,Mexico,Nuevo León,0,Male,2,146,278,0,0,152,0,0.0,1,1,2,Positive,1
+39,Brazil,Bahia,0,Male,2,138,220,0,1,152,0,0.0,1,0,2,Positive,1
+58,Mexico,Mexico City,0,Male,0,130,197,0,1,131,0,0.6,1,0,2,Positive,1
+47,Germany,Saxony,1,Female,2,130,253,0,1,179,0,0.0,2,0,2,Positive,1
+35,Russia,Saint Petersburg,1,Female,1,122,192,0,1,174,0,0.0,2,0,2,Positive,1
+58,Mexico,Mexico City,1,Female,1,125,220,0,1,144,0,0.4,1,4,3,Positive,1
+56,Mexico,Jalisco,1,Female,1,130,221,0,0,163,0,0.0,2,0,3,Positive,1
+56,Germany,Bavaria,1,Female,1,120,240,0,1,169,0,0.0,0,0,2,Positive,1
+55,China,Shanghai,0,Male,1,132,342,0,1,166,0,1.2,2,0,2,Positive,1
+41,South Africa,Gauteng,1,Female,1,120,157,0,1,182,0,0.0,2,0,2,Positive,1
+38,United States,West Virginia,1,Female,2,138,175,0,1,173,0,0.0,2,4,2,Positive,1
+38,United States,West Virginia,1,Female,2,138,175,0,1,173,0,0.0,2,4,2,Positive,1
+67,United Kingdom,Wales,1,Female,0,160,286,0,0,108,1,1.5,1,3,2,Negative,0
+67,China,Beijing,1,Female,0,120,229,0,0,129,1,2.6,1,2,3,Negative,0
+62,South Africa,Gauteng,0,Male,0,140,268,0,0,160,0,3.6,0,2,2,Negative,0
+63,Mexico,Nuevo León,1,Female,0,130,254,0,0,147,0,1.4,1,1,3,Negative,0
+53,United Kingdom,Scotland,1,Female,0,140,203,1,0,155,1,3.1,0,0,3,Negative,0
+56,United States,West Virginia,1,Female,2,130,256,1,0,142,1,0.6,1,1,1,Negative,0
+48,Mexico,Nuevo León,1,Female,1,110,229,0,1,168,0,1.0,0,0,3,Negative,0
+58,Ukraine,Kyiv,1,Female,1,120,284,0,0,160,0,1.8,1,0,2,Negative,0
+58,Mexico,Nuevo León,1,Female,2,132,224,0,0,173,0,3.2,2,2,3,Negative,0
+60,Ukraine,Kharkiv,1,Female,0,130,206,0,0,132,1,2.4,1,2,3,Negative,0
+40,Ukraine,Dnipro,1,Female,0,110,167,0,0,114,1,2.0,1,0,3,Negative,0
+60,United States,Alabama,1,Female,0,117,230,1,1,160,1,1.4,2,2,3,Negative,0
+64,Brazil,Rio de Janeiro,1,Female,2,140,335,0,1,158,0,0.0,2,0,2,Negative,0
+43,China,Shanghai,1,Female,0,120,177,0,0,120,1,2.5,1,0,3,Negative,0
+57,Germany,Bavaria,1,Female,0,150,276,0,0,112,1,0.6,1,1,1,Negative,0
+55,China,Shanghai,1,Female,0,132,353,0,1,132,1,1.2,1,1,3,Negative,0
+65,South Africa,Eastern Cape,0,Male,0,150,225,0,0,114,0,1.0,1,3,3,Negative,0
+61,Mexico,Jalisco,0,Male,0,130,330,0,0,169,0,0.0,2,0,2,Negative,0
+58,Russia,Moscow Oblast,1,Female,2,112,230,0,0,165,0,2.5,1,1,3,Negative,0
+50,Ukraine,Kyiv,1,Female,0,150,243,0,0,128,0,2.6,1,0,3,Negative,0
+44,India,Tamil Nadu,1,Female,0,112,290,0,0,153,0,0.0,2,1,2,Negative,0
+60,Russia,Moscow Oblast,1,Female,0,130,253,0,1,144,1,1.4,2,1,3,Negative,0
+54,Russia,Krasnodar,1,Female,0,124,266,0,0,109,1,2.2,1,1,3,Negative,0
+50,Mexico,Nuevo León,1,Female,2,140,233,0,1,163,0,0.6,1,1,3,Negative,0
+41,United States,Alabama,1,Female,0,110,172,0,0,158,0,0.0,2,0,3,Negative,0
+51,Russia,Moscow Oblast,0,Male,0,130,305,0,1,142,1,1.2,1,0,3,Negative,0
+58,Germany,Saxony,1,Female,0,128,216,0,0,131,1,2.2,1,3,3,Negative,0
+54,Germany,Bavaria,1,Female,0,120,188,0,1,113,0,1.4,1,1,3,Negative,0
+60,China,Beijing,1,Female,0,145,282,0,0,142,1,2.8,1,2,3,Negative,0
+60,United Kingdom,England,1,Female,2,140,185,0,0,155,0,3.0,1,0,2,Negative,0
+59,Russia,Moscow Oblast,1,Female,0,170,326,0,0,140,1,3.4,0,0,3,Negative,0
+46,Brazil,São Paulo,1,Female,2,150,231,0,1,147,0,3.6,1,0,2,Negative,0
+67,United States,Alabama,1,Female,0,125,254,1,1,163,0,0.2,1,2,3,Negative,0
+62,South Africa,Eastern Cape,1,Female,0,120,267,0,1,99,1,1.8,1,2,3,Negative,0
+65,Russia,Saint Petersburg,1,Female,0,110,248,0,0,158,0,0.6,2,2,1,Negative,0
+44,Russia,Krasnodar,1,Female,0,110,197,0,0,177,0,0.0,2,1,2,Negative,0
+60,South Africa,Gauteng,1,Female,0,125,258,0,0,141,1,2.8,1,1,3,Negative,0
+58,United States,West Virginia,1,Female,0,150,270,0,0,111,1,0.8,2,0,3,Negative,0
+68,China,Beijing,1,Female,2,180,274,1,0,150,1,1.6,1,0,3,Negative,0
+62,China,Shanghai,0,Male,0,160,164,0,0,145,0,6.2,0,3,3,Negative,0
+52,Ukraine,Kyiv,1,Female,0,128,255,0,1,161,1,0.0,2,1,3,Negative,0
+59,South Africa,Eastern Cape,1,Female,0,110,239,0,0,142,1,1.2,1,1,3,Negative,0
+60,Russia,Saint Petersburg,0,Male,0,150,258,0,0,157,0,2.6,1,2,3,Negative,0
+49,Brazil,Rio de Janeiro,1,Female,2,120,188,0,1,139,0,2.0,1,3,3,Negative,0
+59,China,Beijing,1,Female,0,140,177,0,1,162,1,0.0,2,1,3,Negative,0
+57,South Africa,Gauteng,1,Female,2,128,229,0,0,150,0,0.4,1,1,3,Negative,0
+61,Germany,Bavaria,1,Female,0,120,260,0,1,140,1,3.6,1,1,3,Negative,0
+39,Russia,Krasnodar,1,Female,0,118,219,0,1,140,0,1.2,1,0,3,Negative,0
+61,India,Goa,0,Male,0,145,307,0,0,146,1,1.0,1,0,3,Negative,0
+56,India,Kerala,1,Female,0,125,249,1,0,144,1,1.2,1,1,2,Negative,0
+43,Germany,North Rhine-Westphalia,0,Male,0,132,341,1,0,136,1,3.0,1,0,3,Negative,0
+62,Ukraine,Dnipro,0,Male,2,130,263,0,1,97,0,1.2,1,1,3,Negative,0
+63,Russia,Moscow Oblast,1,Female,0,130,330,1,0,132,1,1.8,2,3,3,Negative,0
+65,South Africa,KwaZulu-Natal,1,Female,0,135,254,0,0,127,0,2.8,1,1,3,Negative,0
+48,United States,West Virginia,1,Female,0,130,256,1,0,150,1,0.0,2,2,3,Negative,0
+63,United Kingdom,England,0,Male,0,150,407,0,0,154,0,4.0,1,3,3,Negative,0
+55,United States,West Virginia,1,Female,0,140,217,0,1,111,1,5.6,0,0,3,Negative,0
+65,United Kingdom,England,1,Female,3,138,282,1,0,174,0,1.4,1,1,2,Negative,0
+56,Russia,Saint Petersburg,0,Male,0,200,288,1,0,133,1,4.0,0,2,3,Negative,0
+54,Germany,Saxony,1,Female,0,110,239,0,1,126,1,2.8,1,1,3,Negative,0
+70,South Africa,KwaZulu-Natal,1,Female,0,145,174,0,1,125,1,2.6,0,0,3,Negative,0
+62,United Kingdom,Wales,1,Female,1,120,281,0,0,103,0,1.4,1,1,3,Negative,0
+35,South Africa,Gauteng,1,Female,0,120,198,0,1,130,1,1.6,1,0,3,Negative,0
+59,Brazil,São Paulo,1,Female,3,170,288,0,0,159,0,0.2,1,0,3,Negative,0
+64,India,Tamil Nadu,1,Female,2,125,309,0,1,131,1,1.8,1,0,3,Negative,0
+47,South Africa,Gauteng,1,Female,2,108,243,0,1,152,0,0.0,2,0,2,Negative,0
+57,Mexico,Mexico City,1,Female,0,165,289,1,0,124,0,1.0,1,3,3,Negative,0
+55,China,Shanghai,1,Female,0,160,289,0,0,145,1,0.8,1,1,3,Negative,0
+64,India,Kerala,1,Female,0,120,246,0,0,96,1,2.2,0,1,2,Negative,0
+70,Mexico,Mexico City,1,Female,0,130,322,0,0,109,0,2.4,1,3,2,Negative,0
+51,United States,Alabama,1,Female,0,140,299,0,1,173,1,1.6,2,0,3,Negative,0
+58,Russia,Moscow Oblast,1,Female,0,125,300,0,0,171,0,0.0,2,2,3,Negative,0
+60,Ukraine,Kharkiv,1,Female,0,140,293,0,0,170,0,1.2,1,2,3,Negative,0
+77,Germany,North Rhine-Westphalia,1,Female,0,125,304,0,0,162,1,0.0,2,3,2,Negative,0
+35,Mexico,Jalisco,1,Female,0,126,282,0,0,156,1,0.0,2,0,3,Negative,0
+70,Ukraine,Kharkiv,1,Female,2,160,269,0,1,112,1,2.9,1,1,3,Negative,0
+59,South Africa,Eastern Cape,0,Male,0,174,249,0,1,143,1,0.0,1,0,2,Negative,0
+64,Germany,Saxony,1,Female,0,145,212,0,0,132,0,2.0,1,2,1,Negative,0
+57,Brazil,Bahia,1,Female,0,152,274,0,1,88,1,1.2,1,1,3,Negative,0
+56,Germany,Bavaria,1,Female,0,132,184,0,0,105,1,2.1,1,1,1,Negative,0
+48,Russia,Krasnodar,1,Female,0,124,274,0,0,166,0,0.5,1,0,3,Negative,0
+56,Mexico,Nuevo León,0,Male,0,134,409,0,0,150,1,1.9,1,2,3,Negative,0
+66,United States,Mississippi,1,Female,1,160,246,0,1,120,1,0.0,1,3,1,Negative,0
+54,Russia,Saint Petersburg,1,Female,1,192,283,0,0,195,0,0.0,2,1,3,Negative,0
+69,United States,Mississippi,1,Female,2,140,254,0,0,146,0,2.0,1,3,3,Negative,0
+51,Ukraine,Kyiv,1,Female,0,140,298,0,1,122,1,4.2,1,3,3,Negative,0
+43,Mexico,Mexico City,1,Female,0,132,247,1,0,143,1,0.1,1,4,3,Negative,0
+62,United States,Mississippi,0,Male,0,138,294,1,1,106,0,1.9,1,3,2,Negative,0
+67,Ukraine,Dnipro,1,Female,0,100,299,0,0,125,1,0.9,1,2,2,Negative,0
+59,China,Shanghai,1,Female,3,160,273,0,0,125,0,0.0,2,0,2,Negative,0
+45,Germany,Bavaria,1,Female,0,142,309,0,0,147,1,0.0,1,3,3,Negative,0
+58,South Africa,Gauteng,1,Female,0,128,259,0,0,130,1,3.0,1,2,3,Negative,0
+50,United Kingdom,England,1,Female,0,144,200,0,0,126,1,0.9,1,0,3,Negative,0
+62,Brazil,Rio de Janeiro,0,Male,0,150,244,0,1,154,1,1.4,1,0,2,Negative,0
+38,Russia,Krasnodar,1,Female,3,120,231,0,1,182,1,3.8,1,0,3,Negative,0
+66,Ukraine,Kyiv,0,Male,0,178,228,1,1,165,1,1.0,1,2,3,Negative,0
+52,United Kingdom,Wales,1,Female,0,112,230,0,1,160,0,0.0,2,1,2,Negative,0
+53,India,Tamil Nadu,1,Female,0,123,282,0,1,95,1,2.0,1,2,3,Negative,0
+63,United Kingdom,England,0,Male,0,108,269,0,1,169,1,1.8,1,2,2,Negative,0
+54,India,Kerala,1,Female,0,110,206,0,0,108,1,0.0,1,1,2,Negative,0
+66,United Kingdom,Scotland,1,Female,0,112,212,0,0,132,1,0.1,2,1,2,Negative,0
+55,South Africa,Gauteng,0,Male,0,180,327,0,2,117,1,3.4,1,0,2,Negative,0
+49,Mexico,Jalisco,1,Female,2,118,149,0,0,126,0,0.8,2,3,2,Negative,0
+54,Germany,North Rhine-Westphalia,1,Female,0,122,286,0,0,116,1,3.2,1,2,2,Negative,0
+56,India,Kerala,1,Female,0,130,283,1,0,103,1,1.6,0,0,3,Negative,0
+46,United Kingdom,Wales,1,Female,0,120,249,0,0,144,0,0.8,2,0,3,Negative,0
+61,China,Beijing,1,Female,3,134,234,0,1,145,0,2.6,1,2,2,Negative,0
+67,Mexico,Jalisco,1,Female,0,120,237,0,1,71,0,1.0,1,0,2,Negative,0
+58,Russia,Krasnodar,1,Female,0,100,234,0,1,156,0,0.1,2,1,3,Negative,0
+47,China,Guangdong,1,Female,0,110,275,0,0,118,1,1.0,1,1,2,Negative,0
+52,Brazil,São Paulo,1,Female,0,125,212,0,1,168,0,1.0,2,2,3,Negative,0
+58,Ukraine,Kharkiv,1,Female,0,146,218,0,1,105,0,2.0,1,1,3,Negative,0
+57,Brazil,Bahia,1,Female,1,124,261,0,1,141,0,0.3,2,0,3,Negative,0
+58,Russia,Saint Petersburg,0,Male,1,136,319,1,0,152,0,0.0,2,2,2,Negative,0
+61,China,Shanghai,1,Female,0,138,166,0,0,125,1,3.6,1,1,2,Negative,0
+42,Brazil,Bahia,1,Female,0,136,315,0,1,125,1,1.8,1,0,1,Negative,0
+52,South Africa,Eastern Cape,1,Female,0,128,204,1,1,156,1,1.0,1,0,0,Negative,0
+59,South Africa,Eastern Cape,1,Female,2,126,218,1,1,134,0,2.2,1,1,1,Negative,0
+40,United Kingdom,Wales,1,Female,0,152,223,0,1,181,0,0.0,2,0,3,Negative,0
+61,China,Beijing,1,Female,0,140,207,0,0,138,1,1.9,2,1,3,Negative,0
+46,South Africa,Eastern Cape,1,Female,0,140,311,0,1,120,1,1.8,1,2,3,Negative,0
+59,India,Kerala,1,Female,3,134,204,0,1,162,0,0.8,2,2,2,Negative,0
+57,Russia,Moscow Oblast,1,Female,1,154,232,0,0,164,0,0.0,2,1,2,Negative,0
+57,United Kingdom,Scotland,1,Female,0,110,335,0,1,143,1,3.0,1,1,3,Negative,0
+55,Germany,Bavaria,0,Male,0,128,205,0,2,130,1,2.0,1,1,3,Negative,0
+61,United States,Alabama,1,Female,0,148,203,0,1,161,0,0.0,2,1,3,Negative,0
+58,Mexico,Mexico City,1,Female,0,114,318,0,2,140,0,4.4,0,3,1,Negative,0
+58,Ukraine,Kharkiv,0,Male,0,170,225,1,0,146,1,2.8,1,2,1,Negative,0
+67,Ukraine,Dnipro,1,Female,2,152,212,0,0,150,0,0.8,1,0,3,Negative,0
+44,Ukraine,Kyiv,1,Female,0,120,169,0,1,144,1,2.8,0,0,1,Negative,0
+63,Mexico,Mexico City,1,Female,0,140,187,0,0,144,1,4.0,2,2,3,Negative,0
+63,India,Goa,0,Male,0,124,197,0,1,136,1,0.0,1,0,2,Negative,0
+59,Germany,Bavaria,1,Female,0,164,176,1,0,90,0,1.0,1,2,1,Negative,0
+57,South Africa,Eastern Cape,0,Male,0,140,241,0,1,123,1,0.2,1,0,3,Negative,0
+45,Ukraine,Kyiv,1,Female,3,110,264,0,1,132,0,1.2,1,0,3,Negative,0
+68,Ukraine,Kharkiv,1,Female,0,144,193,1,1,141,0,3.4,1,2,3,Negative,0
+57,China,Guangdong,1,Female,0,130,131,0,1,115,1,1.2,1,1,3,Negative,0
+57,United Kingdom,Wales,0,Male,1,130,236,0,0,174,0,0.0,1,1,2,Negative,0
+52,Ukraine,Kharkiv,1,Female,0,125,212,0,1,168,0,1.0,2,2,3,Negative,0
+53,India,Kerala,1,Female,0,140,203,1,0,155,1,3.1,0,0,3,Negative,0
+70,United Kingdom,England,1,Female,0,145,174,0,1,125,1,2.6,0,0,3,Negative,0
+61,United Kingdom,England,1,Female,0,148,203,0,1,161,0,0.0,2,1,3,Negative,0
+62,China,Guangdong,0,Male,0,138,294,1,1,106,0,1.9,1,3,2,Negative,0
+58,Ukraine,Kyiv,0,Male,0,100,248,0,0,122,0,1.0,1,0,2,Positive,1
+58,India,Tamil Nadu,1,Female,0,114,318,0,2,140,0,4.4,0,3,1,Negative,0
+55,United Kingdom,Scotland,1,Female,0,160,289,0,0,145,1,0.8,1,1,3,Negative,0
+46,China,Guangdong,1,Female,0,120,249,0,0,144,0,0.8,2,0,3,Negative,0
+54,Germany,North Rhine-Westphalia,1,Female,0,122,286,0,0,116,1,3.2,1,2,2,Negative,0
+71,Brazil,São Paulo,0,Male,0,112,149,0,1,125,0,1.6,1,0,2,Positive,1
+43,India,Goa,0,Male,0,132,341,1,0,136,1,3.0,1,0,3,Negative,0
+34,South Africa,Eastern Cape,0,Male,1,118,210,0,1,192,0,0.7,2,0,2,Positive,1
+51,China,Guangdong,1,Female,0,140,298,0,1,122,1,4.2,1,3,3,Negative,0
+52,South Africa,Eastern Cape,1,Female,0,128,204,1,1,156,1,1.0,1,0,0,Negative,0
+34,Russia,Saint Petersburg,0,Male,1,118,210,0,1,192,0,0.7,2,0,2,Positive,1
+51,India,Tamil Nadu,0,Male,2,140,308,0,0,142,0,1.5,2,1,2,Positive,1
+54,United Kingdom,Scotland,1,Female,0,124,266,0,0,109,1,2.2,1,1,3,Negative,0
+50,United Kingdom,England,0,Male,1,120,244,0,1,162,0,1.1,2,0,2,Positive,1
+58,United States,Mississippi,1,Female,2,140,211,1,0,165,0,0.0,2,0,2,Positive,1
+60,Mexico,Jalisco,1,Female,2,140,185,0,0,155,0,3.0,1,0,2,Negative,0
+67,Russia,Moscow Oblast,0,Male,0,106,223,0,1,142,0,0.3,2,2,2,Positive,1
+45,Germany,Bavaria,1,Female,0,104,208,0,0,148,1,3.0,1,0,2,Positive,1
+63,Ukraine,Dnipro,0,Male,2,135,252,0,0,172,0,0.0,2,0,2,Positive,1
+42,Ukraine,Kyiv,0,Male,2,120,209,0,1,173,0,0.0,1,0,2,Positive,1
+61,Mexico,Nuevo León,0,Male,0,145,307,0,0,146,1,1.0,1,0,3,Negative,0
+44,Russia,Moscow Oblast,1,Female,2,130,233,0,1,179,1,0.4,2,0,2,Positive,1
+58,South Africa,KwaZulu-Natal,0,Male,1,136,319,1,0,152,0,0.0,2,2,2,Negative,0
+56,Ukraine,Dnipro,1,Female,2,130,256,1,0,142,1,0.6,1,1,1,Negative,0
+55,United Kingdom,Wales,0,Male,0,180,327,0,2,117,1,3.4,1,0,2,Negative,0
+44,Russia,Saint Petersburg,1,Female,0,120,169,0,1,144,1,2.8,0,0,1,Negative,0
+50,China,Guangdong,0,Male,1,120,244,0,1,162,0,1.1,2,0,2,Positive,1
+57,Brazil,São Paulo,1,Female,0,130,131,0,1,115,1,1.2,1,1,3,Negative,0
+70,South Africa,KwaZulu-Natal,1,Female,2,160,269,0,1,112,1,2.9,1,1,3,Negative,0
+50,Brazil,Rio de Janeiro,1,Female,2,129,196,0,1,163,0,0.0,2,0,2,Positive,1
+46,United Kingdom,England,1,Female,2,150,231,0,1,147,0,3.6,1,0,2,Negative,0
+51,Germany,Saxony,1,Female,3,125,213,0,0,125,1,1.4,2,1,2,Positive,1
+59,Germany,Saxony,1,Female,0,138,271,0,0,182,0,0.0,2,0,2,Positive,1
+64,India,Goa,1,Female,0,128,263,0,1,105,1,0.2,1,1,3,Positive,1
+57,Mexico,Nuevo León,1,Female,2,128,229,0,0,150,0,0.4,1,1,3,Negative,0
+65,Russia,Krasnodar,0,Male,2,160,360,0,0,151,0,0.8,2,0,2,Positive,1
+54,United States,West Virginia,1,Female,2,120,258,0,0,147,0,0.4,1,0,3,Positive,1
+61,China,Shanghai,0,Male,0,130,330,0,0,169,0,0.0,2,0,2,Negative,0
+46,Mexico,Nuevo León,1,Female,0,120,249,0,0,144,0,0.8,2,0,3,Negative,0
+55,Ukraine,Dnipro,0,Male,1,132,342,0,1,166,0,1.2,2,0,2,Positive,1
+42,Brazil,São Paulo,1,Female,0,140,226,0,1,178,0,0.0,2,0,2,Positive,1
+41,Mexico,Mexico City,1,Female,1,135,203,0,1,132,0,0.0,1,0,1,Positive,1
+66,Germany,Saxony,0,Male,0,178,228,1,1,165,1,1.0,1,2,3,Negative,0
+66,Mexico,Jalisco,0,Male,2,146,278,0,0,152,0,0.0,1,1,2,Positive,1
+60,India,Kerala,1,Female,0,117,230,1,1,160,1,1.4,2,2,3,Negative,0
+58,Mexico,Jalisco,0,Male,3,150,283,1,0,162,0,1.0,2,0,2,Positive,1
+57,China,Shanghai,0,Male,0,140,241,0,1,123,1,0.2,1,0,3,Negative,0
+38,Mexico,Nuevo León,1,Female,2,138,175,0,1,173,0,0.0,2,4,2,Positive,1
+49,India,Kerala,1,Female,2,120,188,0,1,139,0,2.0,1,3,3,Negative,0
+55,Russia,Krasnodar,1,Female,0,140,217,0,1,111,1,5.6,0,0,3,Negative,0
+55,India,Goa,1,Female,0,140,217,0,1,111,1,5.6,0,0,3,Negative,0
+56,India,Tamil Nadu,1,Female,3,120,193,0,0,162,0,1.9,1,0,3,Positive,1
+48,Russia,Moscow Oblast,1,Female,1,130,245,0,0,180,0,0.2,1,0,2,Positive,1
+67,Mexico,Nuevo León,1,Female,2,152,212,0,0,150,0,0.8,1,0,3,Negative,0
+57,South Africa,Eastern Cape,1,Female,1,154,232,0,0,164,0,0.0,2,1,2,Negative,0
+29,Brazil,Rio de Janeiro,1,Female,1,130,204,0,0,202,0,0.0,2,0,2,Positive,1
+66,Mexico,Mexico City,0,Male,2,146,278,0,0,152,0,0.0,1,1,2,Positive,1
+67,China,Beijing,1,Female,0,100,299,0,0,125,1,0.9,1,2,2,Negative,0
+59,Germany,North Rhine-Westphalia,1,Female,2,150,212,1,1,157,0,1.6,2,0,2,Positive,1
+29,South Africa,Gauteng,1,Female,1,130,204,0,0,202,0,0.0,2,0,2,Positive,1
+59,China,Beijing,1,Female,3,170,288,0,0,159,0,0.2,1,0,3,Negative,0
+53,United Kingdom,Scotland,1,Female,2,130,197,1,0,152,0,1.2,0,0,2,Positive,1
+42,South Africa,Gauteng,1,Female,0,136,315,0,1,125,1,1.8,1,0,1,Negative,0
+37,Russia,Moscow Oblast,0,Male,2,120,215,0,1,170,0,0.0,2,0,2,Positive,1
+62,Mexico,Nuevo León,0,Male,0,160,164,0,0,145,0,6.2,0,3,3,Negative,0
+59,Germany,Saxony,1,Female,0,170,326,0,0,140,1,3.4,0,0,3,Negative,0
+61,Brazil,Rio de Janeiro,1,Female,0,140,207,0,0,138,1,1.9,2,1,3,Negative,0
+56,South Africa,KwaZulu-Natal,1,Female,0,125,249,1,0,144,1,1.2,1,1,2,Negative,0
+59,Mexico,Mexico City,1,Female,0,140,177,0,1,162,1,0.0,2,1,3,Negative,0
+48,South Africa,Eastern Cape,1,Female,0,130,256,1,0,150,1,0.0,2,2,3,Negative,0
+47,India,Kerala,1,Female,2,138,257,0,0,156,0,0.0,2,0,2,Positive,1
+48,China,Guangdong,1,Female,2,124,255,1,1,175,0,0.0,2,2,2,Positive,1
+63,Russia,Saint Petersburg,1,Female,0,140,187,0,0,144,1,4.0,2,2,3,Negative,0
+52,United States,Mississippi,1,Female,1,134,201,0,1,158,0,0.8,2,1,2,Positive,1
+52,Germany,Saxony,1,Female,1,134,201,0,1,158,0,0.8,2,1,2,Positive,1
+50,South Africa,KwaZulu-Natal,1,Female,2,140,233,0,1,163,0,0.6,1,1,3,Negative,0
+49,India,Kerala,1,Female,2,118,149,0,0,126,0,0.8,2,3,2,Negative,0
+46,China,Beijing,1,Female,2,150,231,0,1,147,0,3.6,1,0,2,Negative,0
+38,South Africa,Gauteng,1,Female,2,138,175,0,1,173,0,0.0,2,4,2,Positive,1
+37,United States,West Virginia,0,Male,2,120,215,0,1,170,0,0.0,2,0,2,Positive,1
+44,Germany,Bavaria,1,Female,1,120,220,0,1,170,0,0.0,2,0,2,Positive,1
+58,United States,West Virginia,1,Female,2,140,211,1,0,165,0,0.0,2,0,2,Positive,1
+59,Mexico,Mexico City,0,Male,0,174,249,0,1,143,1,0.0,1,0,2,Negative,0
+62,United Kingdom,England,0,Male,0,140,268,0,0,160,0,3.6,0,2,2,Negative,0
+68,Germany,Saxony,1,Female,0,144,193,1,1,141,0,3.4,1,2,3,Negative,0
+54,United Kingdom,Scotland,0,Male,2,108,267,0,0,167,0,0.0,2,0,2,Positive,1
+62,United States,Mississippi,0,Male,0,124,209,0,1,163,0,0.0,2,0,2,Positive,1
+63,Ukraine,Kharkiv,1,Female,0,140,187,0,0,144,1,4.0,2,2,3,Negative,0
+44,India,Tamil Nadu,1,Female,0,120,169,0,1,144,1,2.8,0,0,1,Negative,0
+62,Ukraine,Kyiv,1,Female,1,128,208,1,0,140,0,0.0,2,0,2,Positive,1
+45,South Africa,KwaZulu-Natal,0,Male,0,138,236,0,0,152,1,0.2,1,0,2,Positive,1
+57,United Kingdom,Wales,0,Male,0,128,303,0,0,159,0,0.0,2,1,2,Positive,1
+53,Brazil,Rio de Janeiro,1,Female,0,123,282,0,1,95,1,2.0,1,2,3,Negative,0
+65,Brazil,Bahia,1,Female,0,110,248,0,0,158,0,0.6,2,2,1,Negative,0
+76,Germany,Bavaria,0,Male,2,140,197,0,2,116,0,1.1,1,0,2,Positive,1
+43,South Africa,Eastern Cape,0,Male,2,122,213,0,1,165,0,0.2,1,0,2,Positive,1
+57,South Africa,Eastern Cape,1,Female,2,150,126,1,1,173,0,0.2,2,1,3,Positive,1
+54,South Africa,KwaZulu-Natal,1,Female,1,108,309,0,1,156,0,0.0,2,0,3,Positive,1
+47,India,Tamil Nadu,1,Female,2,138,257,0,0,156,0,0.0,2,0,2,Positive,1
+52,Ukraine,Kyiv,1,Female,3,118,186,0,0,190,0,0.0,1,0,1,Positive,1
+47,Ukraine,Kyiv,1,Female,0,110,275,0,0,118,1,1.0,1,1,2,Negative,0
+51,Brazil,Rio de Janeiro,1,Female,0,140,299,0,1,173,1,1.6,2,0,3,Negative,0
+62,Brazil,Rio de Janeiro,1,Female,1,120,281,0,0,103,0,1.4,1,1,3,Negative,0
+40,Germany,North Rhine-Westphalia,1,Female,0,152,223,0,1,181,0,0.0,2,0,3,Negative,0
+54,United Kingdom,Scotland,1,Female,0,110,206,0,0,108,1,0.0,1,1,2,Negative,0
+44,United States,Mississippi,1,Female,0,110,197,0,0,177,0,0.0,2,1,2,Negative,0
+53,Germany,North Rhine-Westphalia,1,Female,0,142,226,0,0,111,1,0.0,2,0,3,Positive,1
+48,Brazil,São Paulo,1,Female,0,130,256,1,0,150,1,0.0,2,2,3,Negative,0
+57,China,Shanghai,1,Female,0,110,335,0,1,143,1,3.0,1,1,3,Negative,0
+59,Mexico,Nuevo León,1,Female,2,126,218,1,1,134,0,2.2,1,1,1,Negative,0
+61,Russia,Saint Petersburg,0,Male,0,145,307,0,0,146,1,1.0,1,0,3,Negative,0
+63,Brazil,Bahia,1,Female,0,130,254,0,0,147,0,1.4,1,1,3,Negative,0
+43,Ukraine,Dnipro,1,Female,0,120,177,0,0,120,1,2.5,1,0,3,Negative,0
+29,United Kingdom,Wales,1,Female,1,130,204,0,0,202,0,0.0,2,0,2,Positive,1
+42,Germany,North Rhine-Westphalia,1,Female,1,120,295,0,1,162,0,0.0,2,0,2,Positive,1
+54,Russia,Moscow Oblast,1,Female,1,108,309,0,1,156,0,0.0,2,0,3,Positive,1
+44,Germany,Bavaria,1,Female,0,120,169,0,1,144,1,2.8,0,0,1,Negative,0
+60,India,Tamil Nadu,1,Female,0,145,282,0,0,142,1,2.8,1,2,3,Negative,0
+65,China,Beijing,0,Male,2,140,417,1,0,157,0,0.8,2,1,2,Positive,1
+61,Mexico,Jalisco,1,Female,0,120,260,0,1,140,1,3.6,1,1,3,Negative,0
+60,India,Kerala,0,Male,3,150,240,0,1,171,0,0.9,2,0,2,Positive,1
+66,Germany,North Rhine-Westphalia,1,Female,0,120,302,0,0,151,0,0.4,1,0,2,Positive,1
+53,United States,West Virginia,1,Female,2,130,197,1,0,152,0,1.2,0,0,2,Positive,1
+52,China,Beijing,1,Female,2,138,223,0,1,169,0,0.0,2,4,2,Positive,1
+57,United States,Alabama,1,Female,0,140,192,0,1,148,0,0.4,1,0,1,Positive,1
+60,Mexico,Jalisco,0,Male,3,150,240,0,1,171,0,0.9,2,0,2,Positive,1
+51,China,Guangdong,0,Male,2,130,256,0,0,149,0,0.5,2,0,2,Positive,1
+41,United States,Mississippi,1,Female,1,135,203,0,1,132,0,0.0,1,0,1,Positive,1
+50,South Africa,KwaZulu-Natal,1,Female,2,129,196,0,1,163,0,0.0,2,0,2,Positive,1
+54,United States,Alabama,1,Female,1,108,309,0,1,156,0,0.0,2,0,3,Positive,1
+58,Germany,Saxony,0,Male,0,170,225,1,0,146,1,2.8,1,2,1,Negative,0
+55,China,Shanghai,0,Male,1,132,342,0,1,166,0,1.2,2,0,2,Positive,1
+64,Germany,Saxony,0,Male,0,180,325,0,1,154,1,0.0,2,0,2,Positive,1
+47,Mexico,Jalisco,1,Female,2,138,257,0,0,156,0,0.0,2,0,2,Positive,1
+41,Mexico,Jalisco,1,Female,1,110,235,0,1,153,0,0.0,2,0,2,Positive,1
+57,Brazil,São Paulo,1,Female,0,152,274,0,1,88,1,1.2,1,1,3,Negative,0
+63,China,Shanghai,0,Male,0,124,197,0,1,136,1,0.0,1,0,2,Negative,0
+61,Ukraine,Dnipro,1,Female,3,134,234,0,1,145,0,2.6,1,2,2,Negative,0
+34,Brazil,Bahia,1,Female,3,118,182,0,0,174,0,0.0,2,0,2,Positive,1
+47,India,Tamil Nadu,1,Female,0,112,204,0,1,143,0,0.1,2,0,2,Positive,1
+40,Germany,Bavaria,1,Female,0,110,167,0,0,114,1,2.0,1,0,3,Negative,0
+51,China,Beijing,0,Male,2,120,295,0,0,157,0,0.6,2,0,2,Positive,1
+41,Germany,Bavaria,1,Female,0,110,172,0,0,158,0,0.0,2,0,3,Negative,0
+52,South Africa,KwaZulu-Natal,1,Female,3,152,298,1,1,178,0,1.2,1,0,3,Positive,1
+39,United States,Mississippi,1,Female,2,140,321,0,0,182,0,0.0,2,0,2,Positive,1
+58,Brazil,Bahia,1,Female,0,114,318,0,2,140,0,4.4,0,3,1,Negative,0
+54,South Africa,Gauteng,1,Female,1,192,283,0,0,195,0,0.0,2,1,3,Negative,0
+58,India,Tamil Nadu,1,Female,0,125,300,0,0,171,0,0.0,2,2,3,Negative,0
+54,Germany,North Rhine-Westphalia,1,Female,2,120,258,0,0,147,0,0.4,1,0,3,Positive,1
+63,China,Shanghai,1,Female,0,130,330,1,0,132,1,1.8,2,3,3,Negative,0
+54,United Kingdom,England,1,Female,1,108,309,0,1,156,0,0.0,2,0,3,Positive,1
+40,Ukraine,Kyiv,1,Female,3,140,199,0,1,178,1,1.4,2,0,3,Positive,1
+54,China,Guangdong,1,Female,2,120,258,0,0,147,0,0.4,1,0,3,Positive,1
+67,India,Goa,0,Male,2,115,564,0,0,160,0,1.6,1,0,3,Positive,1
+41,South Africa,KwaZulu-Natal,1,Female,1,120,157,0,1,182,0,0.0,2,0,2,Positive,1
+77,Mexico,Mexico City,1,Female,0,125,304,0,0,162,1,0.0,2,3,2,Negative,0
+51,Brazil,Bahia,1,Female,2,100,222,0,1,143,1,1.2,1,0,2,Positive,1
+77,United States,Alabama,1,Female,0,125,304,0,0,162,1,0.0,2,3,2,Negative,0
+48,Ukraine,Kyiv,1,Female,0,124,274,0,0,166,0,0.5,1,0,3,Negative,0
+56,India,Tamil Nadu,1,Female,0,125,249,1,0,144,1,1.2,1,1,2,Negative,0
+59,Germany,Saxony,1,Female,0,170,326,0,0,140,1,3.4,0,0,3,Negative,0
+56,Mexico,Jalisco,1,Female,0,132,184,0,0,105,1,2.1,1,1,1,Negative,0
+57,Brazil,Rio de Janeiro,0,Male,0,120,354,0,1,163,1,0.6,2,0,2,Positive,1
+43,China,Beijing,1,Female,2,130,315,0,1,162,0,1.9,2,1,2,Positive,1
+45,Brazil,São Paulo,0,Male,1,112,160,0,1,138,0,0.0,1,0,2,Positive,1
+43,Ukraine,Kyiv,1,Female,0,150,247,0,1,171,0,1.5,2,0,2,Positive,1
+56,Russia,Krasnodar,1,Female,0,130,283,1,0,103,1,1.6,0,0,3,Negative,0
+56,Mexico,Mexico City,1,Female,1,120,240,0,1,169,0,0.0,0,0,2,Positive,1
+39,Germany,Bavaria,0,Male,2,94,199,0,1,179,0,0.0,2,0,2,Positive,1
+54,Mexico,Nuevo León,1,Female,0,110,239,0,1,126,1,2.8,1,1,3,Negative,0
+56,Brazil,Rio de Janeiro,0,Male,0,200,288,1,0,133,1,4.0,0,2,3,Negative,0
+56,Mexico,Mexico City,1,Female,0,130,283,1,0,103,1,1.6,0,0,3,Negative,0
+64,Ukraine,Dnipro,1,Female,0,120,246,0,0,96,1,2.2,0,1,2,Negative,0
+44,China,Shanghai,1,Female,0,110,197,0,0,177,0,0.0,2,1,2,Negative,0
+56,Brazil,Rio de Janeiro,0,Male,0,134,409,0,0,150,1,1.9,1,2,3,Negative,0
+63,Ukraine,Dnipro,1,Female,0,140,187,0,0,144,1,4.0,2,2,3,Negative,0
+64,Russia,Moscow Oblast,1,Female,3,110,211,0,0,144,1,1.8,1,0,2,Positive,1
+60,Ukraine,Dnipro,1,Female,0,140,293,0,0,170,0,1.2,1,2,3,Negative,0
+42,South Africa,KwaZulu-Natal,1,Female,2,130,180,0,1,150,0,0.0,2,0,2,Positive,1
+45,Russia,Krasnodar,1,Female,1,128,308,0,0,170,0,0.0,2,0,2,Positive,1
+57,Mexico,Mexico City,1,Female,0,165,289,1,0,124,0,1.0,1,3,3,Negative,0
+40,Russia,Krasnodar,1,Female,0,110,167,0,0,114,1,2.0,1,0,3,Negative,0
+56,Brazil,Bahia,1,Female,0,125,249,1,0,144,1,1.2,1,1,2,Negative,0
+63,Mexico,Nuevo León,1,Female,0,130,254,0,0,147,0,1.4,1,1,3,Negative,0
+64,Ukraine,Kyiv,1,Female,2,125,309,0,1,131,1,1.8,1,0,3,Negative,0
+41,Germany,Saxony,1,Female,2,112,250,0,1,179,0,0.0,2,0,2,Positive,1
+56,South Africa,Eastern Cape,1,Female,1,130,221,0,0,163,0,0.0,2,0,3,Positive,1
+67,India,Kerala,0,Male,2,115,564,0,0,160,0,1.6,1,0,3,Positive,1
+69,India,Kerala,1,Female,3,160,234,1,0,131,0,0.1,1,1,2,Positive,1
+67,Russia,Krasnodar,1,Female,0,160,286,0,0,108,1,1.5,1,3,2,Negative,0
+59,Ukraine,Dnipro,1,Female,2,150,212,1,1,157,0,1.6,2,0,2,Positive,1
+58,China,Shanghai,1,Female,0,100,234,0,1,156,0,0.1,2,1,3,Negative,0
+45,Mexico,Mexico City,1,Female,0,115,260,0,0,185,0,0.0,2,0,2,Positive,1
+60,India,Tamil Nadu,0,Male,2,102,318,0,1,160,0,0.0,2,1,2,Positive,1
+50,Russia,Saint Petersburg,1,Female,0,144,200,0,0,126,1,0.9,1,0,3,Negative,0
+62,South Africa,Eastern Cape,0,Male,0,124,209,0,1,163,0,0.0,2,0,2,Positive,1
+34,Russia,Krasnodar,1,Female,3,118,182,0,0,174,0,0.0,2,0,2,Positive,1
+52,Russia,Krasnodar,1,Female,3,152,298,1,1,178,0,1.2,1,0,3,Positive,1
+64,Germany,Bavaria,1,Female,3,170,227,0,0,155,0,0.6,1,0,3,Positive,1
+66,Germany,Saxony,0,Male,2,146,278,0,0,152,0,0.0,1,1,2,Positive,1
+42,United Kingdom,Scotland,1,Female,3,148,244,0,0,178,0,0.8,2,2,2,Positive,1
+59,Russia,Saint Petersburg,1,Female,2,126,218,1,1,134,0,2.2,1,1,1,Negative,0
+41,Germany,Saxony,1,Female,2,112,250,0,1,179,0,0.0,2,0,2,Positive,1
+38,United States,Mississippi,1,Female,2,138,175,0,1,173,0,0.0,2,4,2,Positive,1
+62,Ukraine,Kyiv,1,Female,1,120,281,0,0,103,0,1.4,1,1,3,Negative,0
+42,Ukraine,Dnipro,1,Female,2,120,240,1,1,194,0,0.8,0,0,3,Positive,1
+67,India,Goa,1,Female,0,100,299,0,0,125,1,0.9,1,2,2,Negative,0
+50,United States,Mississippi,1,Female,0,150,243,0,0,128,0,2.6,1,0,3,Negative,0
+43,Russia,Krasnodar,1,Female,2,130,315,0,1,162,0,1.9,2,1,2,Positive,1
+45,United Kingdom,Wales,1,Female,1,128,308,0,0,170,0,0.0,2,0,2,Positive,1
+49,Brazil,Rio de Janeiro,1,Female,1,130,266,0,1,171,0,0.6,2,0,2,Positive,1
+65,Ukraine,Kyiv,1,Female,0,135,254,0,0,127,0,2.8,1,1,3,Negative,0
+41,South Africa,KwaZulu-Natal,1,Female,1,120,157,0,1,182,0,0.0,2,0,2,Positive,1
+46,United States,Mississippi,1,Female,0,140,311,0,1,120,1,1.8,1,2,3,Negative,0
+54,South Africa,Gauteng,1,Female,0,122,286,0,0,116,1,3.2,1,2,2,Negative,0
+57,South Africa,Gauteng,0,Male,1,130,236,0,0,174,0,0.0,1,1,2,Negative,0
+63,South Africa,Gauteng,1,Female,0,130,254,0,0,147,0,1.4,1,1,3,Negative,0
+64,China,Beijing,1,Female,3,110,211,0,0,144,1,1.8,1,0,2,Positive,1
+39,United Kingdom,England,0,Male,2,94,199,0,1,179,0,0.0,2,0,2,Positive,1
+51,United States,Mississippi,1,Female,0,140,261,0,0,186,1,0.0,2,0,2,Positive,1
+54,Mexico,Mexico City,1,Female,2,150,232,0,0,165,0,1.6,2,0,3,Positive,1
+49,United Kingdom,England,1,Female,2,118,149,0,0,126,0,0.8,2,3,2,Negative,0
+44,South Africa,Eastern Cape,0,Male,2,118,242,0,1,149,0,0.3,1,1,2,Positive,1
+52,South Africa,Eastern Cape,1,Female,1,128,205,1,1,184,0,0.0,2,0,2,Positive,1
+66,South Africa,Gauteng,0,Male,0,178,228,1,1,165,1,1.0,1,2,3,Negative,0
+58,Mexico,Jalisco,1,Female,0,125,300,0,0,171,0,0.0,2,2,3,Negative,0
+56,United States,Mississippi,1,Female,1,120,236,0,1,178,0,0.8,2,0,2,Positive,1
+60,India,Kerala,1,Female,0,125,258,0,0,141,1,2.8,1,1,3,Negative,0
+41,South Africa,Gauteng,0,Male,1,126,306,0,1,163,0,0.0,2,0,2,Positive,1
+49,Brazil,Rio de Janeiro,0,Male,0,130,269,0,1,163,0,0.0,2,0,2,Positive,1
+64,Germany,North Rhine-Westphalia,1,Female,3,170,227,0,0,155,0,0.6,1,0,3,Positive,1
+49,South Africa,Gauteng,1,Female,2,118,149,0,0,126,0,0.8,2,3,2,Negative,0
+57,Ukraine,Kharkiv,1,Female,1,124,261,0,1,141,0,0.3,2,0,3,Negative,0
+60,Mexico,Mexico City,1,Female,0,117,230,1,1,160,1,1.4,2,2,3,Negative,0
+62,United Kingdom,Wales,0,Male,0,150,244,0,1,154,1,1.4,1,0,2,Negative,0
+54,United States,Mississippi,0,Male,1,132,288,1,0,159,1,0.0,2,1,2,Positive,1
+67,United Kingdom,England,1,Female,2,152,212,0,0,150,0,0.8,1,0,3,Negative,0
+38,South Africa,Gauteng,1,Female,2,138,175,0,1,173,0,0.0,2,4,2,Positive,1
+60,United Kingdom,England,1,Female,2,140,185,0,0,155,0,3.0,1,0,2,Negative,0
+51,South Africa,KwaZulu-Natal,1,Female,2,125,245,1,0,166,0,2.4,1,0,2,Positive,1
+44,Russia,Krasnodar,1,Female,1,130,219,0,0,188,0,0.0,2,0,2,Positive,1
+54,United Kingdom,England,1,Female,1,192,283,0,0,195,0,0.0,2,1,3,Negative,0
+46,China,Guangdong,1,Female,0,140,311,0,1,120,1,1.8,1,2,3,Negative,0
+39,India,Goa,0,Male,2,138,220,0,1,152,0,0.0,1,0,2,Positive,1
+42,Brazil,São Paulo,1,Female,2,130,180,0,1,150,0,0.0,2,0,2,Positive,1
+47,South Africa,KwaZulu-Natal,1,Female,0,110,275,0,0,118,1,1.0,1,1,2,Negative,0
+45,Brazil,São Paulo,0,Male,1,112,160,0,1,138,0,0.0,1,0,2,Positive,1
+55,Mexico,Jalisco,1,Female,0,132,353,0,1,132,1,1.2,1,1,3,Negative,0
+57,Mexico,Jalisco,1,Female,0,165,289,1,0,124,0,1.0,1,3,3,Negative,0
+35,Russia,Saint Petersburg,1,Female,0,120,198,0,1,130,1,1.6,1,0,3,Negative,0
+62,United States,Alabama,0,Male,0,140,394,0,0,157,0,1.2,1,0,2,Positive,1
+35,China,Shanghai,0,Male,0,138,183,0,1,182,0,1.4,2,0,2,Positive,1
+64,Brazil,Rio de Janeiro,0,Male,0,180,325,0,1,154,1,0.0,2,0,2,Positive,1
+38,South Africa,KwaZulu-Natal,1,Female,3,120,231,0,1,182,1,3.8,1,0,3,Negative,0
+66,Germany,North Rhine-Westphalia,1,Female,0,120,302,0,0,151,0,0.4,1,0,2,Positive,1
+44,Germany,North Rhine-Westphalia,1,Female,2,120,226,0,1,169,0,0.0,2,0,2,Positive,1
+54,South Africa,Gauteng,1,Female,2,150,232,0,0,165,0,1.6,2,0,3,Positive,1
+48,Germany,Bavaria,1,Female,0,122,222,0,0,186,0,0.0,2,0,2,Positive,1
+55,Germany,North Rhine-Westphalia,0,Male,1,132,342,0,1,166,0,1.2,2,0,2,Positive,1
+58,United States,West Virginia,0,Male,0,170,225,1,0,146,1,2.8,1,2,1,Negative,0
+45,Brazil,Rio de Janeiro,1,Female,0,104,208,0,0,148,1,3.0,1,0,2,Positive,1
+53,South Africa,KwaZulu-Natal,1,Female,0,123,282,0,1,95,1,2.0,1,2,3,Negative,0
+67,Germany,North Rhine-Westphalia,1,Female,0,120,237,0,1,71,0,1.0,1,0,2,Negative,0
+58,United States,Mississippi,1,Female,2,132,224,0,0,173,0,3.2,2,2,3,Negative,0
+71,India,Kerala,0,Male,2,110,265,1,0,130,0,0.0,2,1,2,Positive,1
+43,Ukraine,Dnipro,1,Female,0,110,211,0,1,161,0,0.0,2,0,3,Positive,1
+44,United States,West Virginia,1,Female,1,120,263,0,1,173,0,0.0,2,0,3,Positive,1
+39,United States,West Virginia,0,Male,2,138,220,0,1,152,0,0.0,1,0,2,Positive,1
+54,United States,West Virginia,1,Female,0,110,206,0,0,108,1,0.0,1,1,2,Negative,0
+66,India,Kerala,1,Female,0,160,228,0,0,138,0,2.3,2,0,1,Positive,1
+56,Brazil,Bahia,1,Female,0,130,283,1,0,103,1,1.6,0,0,3,Negative,0
+57,South Africa,Eastern Cape,1,Female,0,132,207,0,1,168,1,0.0,2,0,3,Positive,1
+44,Brazil,São Paulo,1,Female,1,130,219,0,0,188,0,0.0,2,0,2,Positive,1
+55,India,Kerala,1,Female,0,160,289,0,0,145,1,0.8,1,1,3,Negative,0
+41,United Kingdom,England,0,Male,1,105,198,0,1,168,0,0.0,2,1,2,Positive,1
+45,Brazil,Bahia,0,Male,1,130,234,0,0,175,0,0.6,1,0,2,Positive,1
+35,China,Guangdong,1,Female,1,122,192,0,1,174,0,0.0,2,0,2,Positive,1
+41,China,Guangdong,0,Male,1,130,204,0,0,172,0,1.4,2,0,2,Positive,1
+64,South Africa,Gauteng,1,Female,3,110,211,0,0,144,1,1.8,1,0,2,Positive,1
+58,Brazil,São Paulo,1,Female,2,132,224,0,0,173,0,3.2,2,2,3,Negative,0
+71,Ukraine,Kyiv,0,Male,2,110,265,1,0,130,0,0.0,2,1,2,Positive,1
+64,United Kingdom,Scotland,0,Male,2,140,313,0,1,133,0,0.2,2,0,3,Positive,1
+71,Brazil,São Paulo,0,Male,1,160,302,0,1,162,0,0.4,2,2,2,Positive,1
+58,Ukraine,Dnipro,0,Male,2,120,340,0,1,172,0,0.0,2,0,2,Positive,1
+40,Germany,Saxony,1,Female,0,152,223,0,1,181,0,0.0,2,0,3,Negative,0
+52,Mexico,Nuevo León,1,Female,2,138,223,0,1,169,0,0.0,2,4,2,Positive,1
+58,United States,Alabama,1,Female,0,128,259,0,0,130,1,3.0,1,2,3,Negative,0
+61,Russia,Krasnodar,1,Female,2,150,243,1,1,137,1,1.0,1,0,2,Positive,1
+59,Russia,Saint Petersburg,1,Female,2,150,212,1,1,157,0,1.6,2,0,2,Positive,1
+56,United States,Alabama,0,Male,0,200,288,1,0,133,1,4.0,0,2,3,Negative,0
+67,United Kingdom,England,1,Female,0,100,299,0,0,125,1,0.9,1,2,2,Negative,0
+67,United States,Mississippi,1,Female,0,120,237,0,1,71,0,1.0,1,0,2,Negative,0
+58,United Kingdom,Wales,1,Female,0,150,270,0,0,111,1,0.8,2,0,3,Negative,0
+35,United States,West Virginia,1,Female,1,122,192,0,1,174,0,0.0,2,0,2,Positive,1
+52,Mexico,Mexico City,1,Female,1,120,325,0,1,172,0,0.2,2,0,2,Positive,1
+46,Germany,Saxony,0,Male,1,105,204,0,1,172,0,0.0,2,0,2,Positive,1
+51,South Africa,KwaZulu-Natal,1,Female,2,94,227,0,1,154,1,0.0,2,1,3,Positive,1
+55,United States,Mississippi,0,Male,1,132,342,0,1,166,0,1.2,2,0,2,Positive,1
+60,Mexico,Jalisco,1,Female,0,145,282,0,0,142,1,2.8,1,2,3,Negative,0
+52,Germany,North Rhine-Westphalia,0,Male,2,136,196,0,0,169,0,0.1,1,0,2,Positive,1
+62,Germany,Saxony,1,Female,0,120,267,0,1,99,1,1.8,1,2,3,Negative,0
+44,Ukraine,Kyiv,0,Male,2,118,242,0,1,149,0,0.3,1,1,2,Positive,1
+44,United Kingdom,Scotland,1,Female,1,120,220,0,1,170,0,0.0,2,0,2,Positive,1
+59,Mexico,Mexico City,1,Female,2,126,218,1,1,134,0,2.2,1,1,1,Negative,0
+56,South Africa,Gauteng,0,Male,1,140,294,0,0,153,0,1.3,1,0,2,Positive,1
+61,Ukraine,Kyiv,1,Female,0,120,260,0,1,140,1,3.6,1,1,3,Negative,0
+48,Germany,Saxony,1,Female,0,130,256,1,0,150,1,0.0,2,2,3,Negative,0
+70,Russia,Saint Petersburg,1,Female,2,160,269,0,1,112,1,2.9,1,1,3,Negative,0
+74,India,Tamil Nadu,0,Male,1,120,269,0,0,121,1,0.2,2,1,2,Positive,1
+40,Mexico,Mexico City,1,Female,3,140,199,0,1,178,1,1.4,2,0,3,Positive,1
+42,China,Guangdong,1,Female,3,148,244,0,0,178,0,0.8,2,2,2,Positive,1
+64,Brazil,Rio de Janeiro,0,Male,2,140,313,0,1,133,0,0.2,2,0,3,Positive,1
+63,South Africa,Eastern Cape,0,Male,2,135,252,0,0,172,0,0.0,2,0,2,Positive,1
+59,Brazil,Rio de Janeiro,1,Female,0,140,177,0,1,162,1,0.0,2,1,3,Negative,0
+53,Germany,Bavaria,0,Male,2,128,216,0,0,115,0,0.0,2,0,0,Positive,1
+53,United Kingdom,Scotland,0,Male,0,130,264,0,0,143,0,0.4,1,0,2,Positive,1
+48,Ukraine,Kyiv,0,Male,2,130,275,0,1,139,0,0.2,2,0,2,Positive,1
+45,India,Goa,1,Female,0,142,309,0,0,147,1,0.0,1,3,3,Negative,0
+66,Germany,Saxony,1,Female,1,160,246,0,1,120,1,0.0,1,3,1,Negative,0
+48,Ukraine,Kyiv,1,Female,1,130,245,0,0,180,0,0.2,1,0,2,Positive,1
+56,Brazil,Bahia,0,Male,1,140,294,0,0,153,0,1.3,1,0,2,Positive,1
+54,United States,Mississippi,1,Female,1,192,283,0,0,195,0,0.0,2,1,3,Negative,0
+57,Germany,Saxony,1,Female,0,150,276,0,0,112,1,0.6,1,1,1,Negative,0
+70,China,Shanghai,1,Female,0,130,322,0,0,109,0,2.4,1,3,2,Negative,0
+53,Germany,North Rhine-Westphalia,0,Male,2,128,216,0,0,115,0,0.0,2,0,0,Positive,1
+37,United Kingdom,Wales,0,Male,2,120,215,0,1,170,0,0.0,2,0,2,Positive,1
+63,China,Beijing,0,Male,0,108,269,0,1,169,1,1.8,1,2,2,Negative,0
+37,Ukraine,Dnipro,1,Female,2,130,250,0,1,187,0,3.5,0,0,2,Positive,1
+54,United States,West Virginia,0,Male,2,110,214,0,1,158,0,1.6,1,0,2,Positive,1
+60,Germany,Saxony,1,Female,0,130,206,0,0,132,1,2.4,1,2,3,Negative,0
+58,Ukraine,Kharkiv,1,Female,0,150,270,0,0,111,1,0.8,2,0,3,Negative,0
+57,Ukraine,Kyiv,1,Female,2,150,126,1,1,173,0,0.2,2,1,3,Positive,1
+54,Germany,North Rhine-Westphalia,1,Female,2,125,273,0,0,152,0,0.5,0,1,2,Positive,1
+56,United Kingdom,England,1,Female,2,130,256,1,0,142,1,0.6,1,1,1,Negative,0
+60,South Africa,KwaZulu-Natal,1,Female,0,130,253,0,1,144,1,1.4,2,1,3,Negative,0
+38,Russia,Moscow Oblast,1,Female,2,138,175,0,1,173,0,0.0,2,4,2,Positive,1
+44,United Kingdom,Wales,1,Female,2,120,226,0,1,169,0,0.0,2,0,2,Positive,1
+65,South Africa,KwaZulu-Natal,0,Male,2,155,269,0,1,148,0,0.8,2,0,2,Positive,1
+52,Ukraine,Kyiv,1,Female,2,172,199,1,1,162,0,0.5,2,0,3,Positive,1
+41,Brazil,Bahia,1,Female,1,120,157,0,1,182,0,0.0,2,0,2,Positive,1
+66,United States,Mississippi,1,Female,1,160,246,0,1,120,1,0.0,1,3,1,Negative,0
+50,Brazil,São Paulo,1,Female,0,150,243,0,0,128,0,2.6,1,0,3,Negative,0
+54,China,Shanghai,0,Male,2,108,267,0,0,167,0,0.0,2,0,2,Positive,1
+43,Germany,Bavaria,1,Female,0,132,247,1,0,143,1,0.1,1,4,3,Negative,0
+62,India,Tamil Nadu,0,Male,2,130,263,0,1,97,0,1.2,1,1,3,Negative,0
+66,Mexico,Nuevo León,1,Female,0,120,302,0,0,151,0,0.4,1,0,2,Positive,1
+50,India,Kerala,1,Female,0,144,200,0,0,126,1,0.9,1,0,3,Negative,0
+57,Mexico,Jalisco,1,Female,0,110,335,0,1,143,1,3.0,1,1,3,Negative,0
+57,United Kingdom,England,1,Female,0,110,201,0,1,126,1,1.5,1,0,1,Positive,1
+57,Mexico,Mexico City,1,Female,1,124,261,0,1,141,0,0.3,2,0,3,Negative,0
+46,United Kingdom,England,0,Male,0,138,243,0,0,152,1,0.0,1,0,2,Positive,1
+59,Mexico,Nuevo León,1,Female,0,164,176,1,0,90,0,1.0,1,2,1,Negative,0
+67,China,Shanghai,1,Female,0,160,286,0,0,108,1,1.5,1,3,2,Negative,0
+59,Germany,North Rhine-Westphalia,1,Female,3,134,204,0,1,162,0,0.8,2,2,2,Negative,0
+53,Ukraine,Dnipro,0,Male,2,128,216,0,0,115,0,0.0,2,0,0,Positive,1
+48,South Africa,Gauteng,1,Female,0,122,222,0,0,186,0,0.0,2,0,2,Positive,1
+62,Mexico,Jalisco,1,Female,2,130,231,0,1,146,0,1.8,1,3,3,Positive,1
+43,Ukraine,Kyiv,0,Male,2,122,213,0,1,165,0,0.2,1,0,2,Positive,1
+53,Ukraine,Dnipro,1,Female,2,130,246,1,0,173,0,0.0,2,3,2,Positive,1
+57,China,Beijing,0,Male,1,130,236,0,0,174,0,0.0,1,1,2,Negative,0
+53,United Kingdom,England,1,Female,2,130,246,1,0,173,0,0.0,2,3,2,Positive,1
+58,United Kingdom,Scotland,1,Female,2,112,230,0,0,165,0,2.5,1,1,3,Negative,0
+48,Germany,North Rhine-Westphalia,1,Female,1,110,229,0,1,168,0,1.0,0,0,3,Negative,0
+58,Russia,Krasnodar,1,Female,2,105,240,0,0,154,1,0.6,1,0,3,Positive,1
+51,Ukraine,Kharkiv,1,Female,2,110,175,0,1,123,0,0.6,2,0,2,Positive,1
+43,United States,Alabama,0,Male,0,132,341,1,0,136,1,3.0,1,0,3,Negative,0
+55,United States,West Virginia,1,Female,0,132,353,0,1,132,1,1.2,1,1,3,Negative,0
+54,Ukraine,Dnipro,0,Male,2,110,214,0,1,158,0,1.6,1,0,2,Positive,1
+58,Mexico,Jalisco,1,Female,1,120,284,0,0,160,0,1.8,1,0,2,Negative,0
+46,Brazil,São Paulo,0,Male,2,142,177,0,0,160,1,1.4,0,0,2,Positive,1
+66,India,Goa,1,Female,0,160,228,0,0,138,0,2.3,2,0,1,Positive,1
+59,South Africa,Gauteng,1,Female,1,140,221,0,1,164,1,0.0,2,0,2,Positive,1
+64,Russia,Saint Petersburg,0,Male,0,130,303,0,1,122,0,2.0,1,2,2,Positive,1
+67,Brazil,Bahia,1,Female,0,120,237,0,1,71,0,1.0,1,0,2,Negative,0
+52,China,Beijing,1,Female,3,118,186,0,0,190,0,0.0,1,0,1,Positive,1
+58,Germany,North Rhine-Westphalia,1,Female,0,146,218,0,1,105,0,2.0,1,1,3,Negative,0
+58,Russia,Saint Petersburg,1,Female,2,132,224,0,0,173,0,3.2,2,2,3,Negative,0
+59,United States,Mississippi,1,Female,0,110,239,0,0,142,1,1.2,1,1,3,Negative,0
+58,South Africa,Eastern Cape,1,Female,0,150,270,0,0,111,1,0.8,2,0,3,Negative,0
+35,Russia,Moscow Oblast,1,Female,0,126,282,0,0,156,1,0.0,2,0,3,Negative,0
+51,South Africa,Eastern Cape,1,Female,2,110,175,0,1,123,0,0.6,2,0,2,Positive,1
+42,Mexico,Jalisco,0,Male,2,120,209,0,1,173,0,0.0,1,0,2,Positive,1
+77,India,Goa,1,Female,0,125,304,0,0,162,1,0.0,2,3,2,Negative,0
+64,South Africa,Eastern Cape,1,Female,0,120,246,0,0,96,1,2.2,0,1,2,Negative,0
+63,China,Guangdong,1,Female,3,145,233,1,0,150,0,2.3,0,0,1,Positive,1
+58,United States,Mississippi,0,Male,1,136,319,1,0,152,0,0.0,2,2,2,Negative,0
+45,China,Shanghai,1,Female,3,110,264,0,1,132,0,1.2,1,0,3,Negative,0
+51,China,Shanghai,1,Female,2,110,175,0,1,123,0,0.6,2,0,2,Positive,1
+62,India,Tamil Nadu,0,Male,0,160,164,0,0,145,0,6.2,0,3,3,Negative,0
+63,Russia,Moscow Oblast,1,Female,0,130,330,1,0,132,1,1.8,2,3,3,Negative,0
+66,Germany,Bavaria,0,Male,2,146,278,0,0,152,0,0.0,1,1,2,Positive,1
+68,Mexico,Nuevo León,1,Female,2,180,274,1,0,150,1,1.6,1,0,3,Negative,0
+40,United Kingdom,Scotland,1,Female,0,110,167,0,0,114,1,2.0,1,0,3,Negative,0
+66,Mexico,Nuevo León,1,Female,0,160,228,0,0,138,0,2.3,2,0,1,Positive,1
+63,Brazil,São Paulo,1,Female,3,145,233,1,0,150,0,2.3,0,0,1,Positive,1
+49,United States,Alabama,1,Female,2,120,188,0,1,139,0,2.0,1,3,3,Negative,0
+71,India,Goa,0,Male,0,112,149,0,1,125,0,1.6,1,0,2,Positive,1
+70,India,Kerala,1,Female,1,156,245,0,0,143,0,0.0,2,0,2,Positive,1
+46,China,Shanghai,0,Male,1,105,204,0,1,172,0,0.0,2,0,2,Positive,1
+61,Ukraine,Kharkiv,1,Female,0,140,207,0,0,138,1,1.9,2,1,3,Negative,0
+56,India,Kerala,1,Female,2,130,256,1,0,142,1,0.6,1,1,1,Negative,0
+58,Germany,Bavaria,1,Female,2,140,211,1,0,165,0,0.0,2,0,2,Positive,1
+58,Brazil,Bahia,1,Female,0,100,234,0,1,156,0,0.1,2,1,3,Negative,0
+46,Germany,Saxony,0,Male,0,138,243,0,0,152,1,0.0,1,0,2,Positive,1
+46,United Kingdom,England,1,Female,2,150,231,0,1,147,0,3.6,1,0,2,Negative,0
+41,Brazil,Rio de Janeiro,0,Male,1,105,198,0,1,168,0,0.0,2,1,2,Positive,1
+56,South Africa,KwaZulu-Natal,1,Female,0,125,249,1,0,144,1,1.2,1,1,2,Negative,0
+57,India,Kerala,1,Female,0,150,276,0,0,112,1,0.6,1,1,1,Negative,0
+70,United States,West Virginia,1,Female,0,130,322,0,0,109,0,2.4,1,3,2,Negative,0
+59,United States,Mississippi,1,Female,3,170,288,0,0,159,0,0.2,1,0,3,Negative,0
+41,United States,Alabama,0,Male,1,130,204,0,0,172,0,1.4,2,0,2,Positive,1
+54,India,Goa,1,Female,2,125,273,0,0,152,0,0.5,0,1,2,Positive,1
+52,South Africa,KwaZulu-Natal,1,Female,2,138,223,0,1,169,0,0.0,2,4,2,Positive,1
+62,United States,Alabama,0,Male,0,124,209,0,1,163,0,0.0,2,0,2,Positive,1
+65,Ukraine,Kharkiv,0,Male,2,160,360,0,0,151,0,0.8,2,0,2,Positive,1
+57,United States,Mississippi,0,Male,0,128,303,0,0,159,0,0.0,2,1,2,Positive,1
+42,Mexico,Nuevo León,0,Male,0,102,265,0,0,122,0,0.6,1,0,2,Positive,1
+57,Germany,Saxony,0,Male,0,120,354,0,1,163,1,0.6,2,0,2,Positive,1
+58,South Africa,Eastern Cape,0,Male,1,136,319,1,0,152,0,0.0,2,2,2,Negative,0
+45,United States,West Virginia,1,Female,0,142,309,0,0,147,1,0.0,1,3,3,Negative,0
+51,China,Guangdong,0,Male,0,130,305,0,1,142,1,1.2,1,0,3,Negative,0
+54,Germany,Bavaria,0,Male,2,160,201,0,1,163,0,0.0,2,1,2,Positive,1
+57,Ukraine,Dnipro,1,Female,2,150,168,0,1,174,0,1.6,2,0,2,Positive,1
+43,Mexico,Nuevo León,1,Female,0,132,247,1,0,143,1,0.1,1,4,3,Negative,0
+47,Ukraine,Dnipro,1,Female,2,108,243,0,1,152,0,0.0,2,0,2,Negative,0
+67,United Kingdom,England,1,Female,2,152,212,0,0,150,0,0.8,1,0,3,Negative,0
+65,United Kingdom,Scotland,0,Male,0,150,225,0,0,114,0,1.0,1,3,3,Negative,0
+60,United States,West Virginia,0,Male,2,102,318,0,1,160,0,0.0,2,1,2,Positive,1
+37,Germany,North Rhine-Westphalia,1,Female,2,130,250,0,1,187,0,3.5,0,0,2,Positive,1
+41,South Africa,Gauteng,0,Male,2,112,268,0,0,172,1,0.0,2,0,2,Positive,1
+57,Brazil,Rio de Janeiro,0,Male,0,120,354,0,1,163,1,0.6,2,0,2,Positive,1
+59,Russia,Krasnodar,0,Male,0,174,249,0,1,143,1,0.0,1,0,2,Negative,0
+67,Germany,North Rhine-Westphalia,1,Female,0,120,229,0,0,129,1,2.6,1,2,3,Negative,0
+47,China,Beijing,1,Female,2,130,253,0,1,179,0,0.0,2,0,2,Positive,1
+58,South Africa,Gauteng,1,Female,1,120,284,0,0,160,0,1.8,1,0,2,Negative,0
+62,Mexico,Mexico City,0,Male,0,150,244,0,1,154,1,1.4,1,0,2,Negative,0
+60,India,Kerala,1,Female,0,140,293,0,0,170,0,1.2,1,2,3,Negative,0
+57,United States,West Virginia,1,Female,0,152,274,0,1,88,1,1.2,1,1,3,Negative,0
+57,Brazil,Rio de Janeiro,1,Female,2,150,168,0,1,174,0,1.6,2,0,2,Positive,1
+47,India,Tamil Nadu,1,Female,2,130,253,0,1,179,0,0.0,2,0,2,Positive,1
+52,Russia,Krasnodar,1,Female,1,128,205,1,1,184,0,0.0,2,0,2,Positive,1
+53,Russia,Moscow Oblast,1,Female,2,130,246,1,0,173,0,0.0,2,3,2,Positive,1
+55,Ukraine,Kharkiv,1,Female,0,160,289,0,0,145,1,0.8,1,1,3,Negative,0
+51,Russia,Saint Petersburg,0,Male,2,120,295,0,0,157,0,0.6,2,0,2,Positive,1
+52,Brazil,Rio de Janeiro,1,Female,0,112,230,0,1,160,0,0.0,2,1,2,Negative,0
+63,Ukraine,Kharkiv,0,Male,0,150,407,0,0,154,0,4.0,1,3,3,Negative,0
+49,Mexico,Nuevo León,0,Male,1,134,271,0,1,162,0,0.0,1,0,2,Positive,1
+66,Russia,Moscow Oblast,0,Male,0,178,228,1,1,165,1,1.0,1,2,3,Negative,0
+49,South Africa,Gauteng,0,Male,1,134,271,0,1,162,0,0.0,1,0,2,Positive,1
+65,Brazil,Bahia,0,Male,0,150,225,0,0,114,0,1.0,1,3,3,Negative,0
+69,United States,Alabama,1,Female,3,160,234,1,0,131,0,0.1,1,1,2,Positive,1
+47,China,Beijing,1,Female,2,108,243,0,1,152,0,0.0,2,0,2,Negative,0
+39,India,Goa,0,Male,2,138,220,0,1,152,0,0.0,1,0,2,Positive,1
+43,Ukraine,Kharkiv,1,Female,0,150,247,0,1,171,0,1.5,2,0,2,Positive,1
+51,Germany,North Rhine-Westphalia,1,Female,0,140,261,0,0,186,1,0.0,2,0,2,Positive,1
+69,Russia,Saint Petersburg,1,Female,2,140,254,0,0,146,0,2.0,1,3,3,Negative,0
+48,Mexico,Jalisco,1,Female,2,124,255,1,1,175,0,0.0,2,2,2,Positive,1
+52,China,Shanghai,1,Female,3,118,186,0,0,190,0,0.0,1,0,1,Positive,1
+43,Ukraine,Kharkiv,1,Female,0,110,211,0,1,161,0,0.0,2,0,3,Positive,1
+67,Brazil,Rio de Janeiro,0,Male,2,115,564,0,0,160,0,1.6,1,0,3,Positive,1
+38,China,Shanghai,1,Female,2,138,175,0,1,173,0,0.0,2,4,2,Positive,1
+44,Mexico,Mexico City,1,Female,1,130,219,0,0,188,0,0.0,2,0,2,Positive,1
+47,Mexico,Mexico City,1,Female,0,110,275,0,0,118,1,1.0,1,1,2,Negative,0
+61,China,Beijing,1,Female,2,150,243,1,1,137,1,1.0,1,0,2,Positive,1
+67,India,Goa,1,Female,0,160,286,0,0,108,1,1.5,1,3,2,Negative,0
+60,South Africa,Gauteng,0,Male,3,150,240,0,1,171,0,0.9,2,0,2,Positive,1
+64,United States,Mississippi,0,Male,2,140,313,0,1,133,0,0.2,2,0,3,Positive,1
+58,Russia,Moscow Oblast,0,Male,0,130,197,0,1,131,0,0.6,1,0,2,Positive,1
+41,China,Guangdong,1,Female,2,130,214,0,0,168,0,2.0,1,0,2,Positive,1
+48,Brazil,São Paulo,1,Female,1,110,229,0,1,168,0,1.0,0,0,3,Negative,0
+57,Russia,Moscow Oblast,1,Female,2,150,126,1,1,173,0,0.2,2,1,3,Positive,1
+57,Mexico,Jalisco,1,Female,0,165,289,1,0,124,0,1.0,1,3,3,Negative,0
+57,India,Kerala,1,Female,2,128,229,0,0,150,0,0.4,1,1,3,Negative,0
+39,India,Tamil Nadu,1,Female,2,140,321,0,0,182,0,0.0,2,0,2,Positive,1
+58,China,Guangdong,1,Female,0,128,216,0,0,131,1,2.2,1,3,3,Negative,0
+51,Mexico,Nuevo León,0,Male,0,130,305,0,1,142,1,1.2,1,0,3,Negative,0
+63,South Africa,Eastern Cape,0,Male,0,150,407,0,0,154,0,4.0,1,3,3,Negative,0
+51,Brazil,Rio de Janeiro,1,Female,0,140,298,0,1,122,1,4.2,1,3,3,Negative,0
+35,India,Goa,1,Female,1,122,192,0,1,174,0,0.0,2,0,2,Positive,1
+65,United Kingdom,Wales,1,Female,0,110,248,0,0,158,0,0.6,2,2,1,Negative,0
+62,Russia,Moscow Oblast,1,Female,1,120,281,0,0,103,0,1.4,1,1,3,Negative,0
+41,Ukraine,Kharkiv,1,Female,0,110,172,0,0,158,0,0.0,2,0,3,Negative,0
+65,Ukraine,Dnipro,1,Female,0,135,254,0,0,127,0,2.8,1,1,3,Negative,0
+54,Mexico,Nuevo León,0,Male,1,132,288,1,0,159,1,0.0,2,1,2,Positive,1
+61,Mexico,Mexico City,1,Female,2,150,243,1,1,137,1,1.0,1,0,2,Positive,1
+57,Russia,Krasnodar,0,Male,0,128,303,0,0,159,0,0.0,2,1,2,Positive,1
+57,South Africa,Gauteng,1,Female,2,150,168,0,1,174,0,1.6,2,0,2,Positive,1
+64,South Africa,Gauteng,1,Female,2,125,309,0,1,131,1,1.8,1,0,3,Negative,0
+55,Russia,Moscow Oblast,1,Female,0,132,353,0,1,132,1,1.2,1,1,3,Negative,0
+51,United Kingdom,England,1,Female,2,125,245,1,0,166,0,2.4,1,0,2,Positive,1
+59,China,Guangdong,1,Female,0,135,234,0,1,161,0,0.5,1,0,3,Positive,1
+68,South Africa,KwaZulu-Natal,1,Female,2,180,274,1,0,150,1,1.6,1,0,3,Negative,0
+57,Ukraine,Kharkiv,1,Female,1,154,232,0,0,164,0,0.0,2,1,2,Negative,0
+54,Brazil,São Paulo,1,Female,0,140,239,0,1,160,0,1.2,2,0,2,Positive,1
+46,India,Goa,0,Male,2,142,177,0,0,160,1,1.4,0,0,2,Positive,1
+71,United Kingdom,Wales,0,Male,0,112,149,0,1,125,0,1.6,1,0,2,Positive,1
+35,Russia,Krasnodar,0,Male,0,138,183,0,1,182,0,1.4,2,0,2,Positive,1
+46,China,Beijing,0,Male,2,142,177,0,0,160,1,1.4,0,0,2,Positive,1
+45,Brazil,Bahia,0,Male,1,130,234,0,0,175,0,0.6,1,0,2,Positive,1
+47,South Africa,KwaZulu-Natal,1,Female,2,108,243,0,1,152,0,0.0,2,0,2,Negative,0
+44,Brazil,Bahia,0,Male,2,118,242,0,1,149,0,0.3,1,1,2,Positive,1
+61,Germany,Bavaria,1,Female,0,120,260,0,1,140,1,3.6,1,1,3,Negative,0
+41,China,Shanghai,0,Male,1,130,204,0,0,172,0,1.4,2,0,2,Positive,1
+56,Brazil,São Paulo,0,Male,0,200,288,1,0,133,1,4.0,0,2,3,Negative,0
+55,United Kingdom,England,0,Male,0,180,327,0,2,117,1,3.4,1,0,2,Negative,0
+54,Germany,Bavaria,0,Male,1,132,288,1,0,159,1,0.0,2,1,2,Positive,1
+43,India,Kerala,1,Female,0,120,177,0,0,120,1,2.5,1,0,3,Negative,0
+44,South Africa,Gauteng,1,Female,0,112,290,0,0,153,0,0.0,2,1,2,Negative,0
+54,Germany,Saxony,1,Female,0,110,206,0,0,108,1,0.0,1,1,2,Negative,0
+44,Mexico,Mexico City,1,Female,1,120,220,0,1,170,0,0.0,2,0,2,Positive,1
+49,United Kingdom,England,1,Female,2,120,188,0,1,139,0,2.0,1,3,3,Negative,0
+60,Mexico,Jalisco,1,Female,0,130,206,0,0,132,1,2.4,1,2,3,Negative,0
+41,South Africa,KwaZulu-Natal,0,Male,1,105,198,0,1,168,0,0.0,2,1,2,Positive,1
+49,India,Kerala,1,Female,2,120,188,0,1,139,0,2.0,1,3,3,Negative,0
+61,Ukraine,Dnipro,1,Female,0,148,203,0,1,161,0,0.0,2,1,3,Negative,0
+59,Mexico,Mexico City,1,Female,0,140,177,0,1,162,1,0.0,2,1,3,Negative,0
+58,United Kingdom,Wales,1,Female,1,125,220,0,1,144,0,0.4,1,4,3,Positive,1
+67,Germany,Bavaria,0,Male,2,152,277,0,1,172,0,0.0,2,1,2,Positive,1
+61,United States,West Virginia,1,Female,0,148,203,0,1,161,0,0.0,2,1,3,Negative,0
+58,United Kingdom,Scotland,1,Female,2,112,230,0,0,165,0,2.5,1,1,3,Negative,0
+51,South Africa,KwaZulu-Natal,0,Male,2,130,256,0,0,149,0,0.5,2,0,2,Positive,1
+62,United States,West Virginia,0,Male,0,160,164,0,0,145,0,6.2,0,3,3,Negative,0
+62,Mexico,Jalisco,0,Male,0,124,209,0,1,163,0,0.0,2,0,2,Positive,1
+59,Germany,North Rhine-Westphalia,1,Female,3,178,270,0,0,145,0,4.2,0,0,3,Positive,1
+69,United Kingdom,England,1,Female,3,160,234,1,0,131,0,0.1,1,1,2,Positive,1
+60,South Africa,KwaZulu-Natal,0,Male,0,150,258,0,0,157,0,2.6,1,2,3,Negative,0
+65,United States,Alabama,0,Male,2,155,269,0,1,148,0,0.8,2,0,2,Positive,1
+63,Ukraine,Kyiv,0,Male,0,124,197,0,1,136,1,0.0,1,0,2,Negative,0
+53,India,Kerala,0,Male,0,138,234,0,0,160,0,0.0,2,0,2,Positive,1
+54,India,Tamil Nadu,0,Male,2,108,267,0,0,167,0,0.0,2,0,2,Positive,1
+76,Russia,Saint Petersburg,0,Male,2,140,197,0,2,116,0,1.1,1,0,2,Positive,1
+50,Germany,Bavaria,0,Male,2,120,219,0,1,158,0,1.6,1,0,2,Positive,1
+52,India,Kerala,1,Female,1,120,325,0,1,172,0,0.2,2,0,2,Positive,1
+46,Germany,Saxony,1,Female,0,120,249,0,0,144,0,0.8,2,0,3,Negative,0
+64,Ukraine,Kyiv,1,Female,3,170,227,0,0,155,0,0.6,1,0,3,Positive,1
+58,India,Goa,1,Female,0,128,259,0,0,130,1,3.0,1,2,3,Negative,0
+44,China,Guangdong,1,Female,2,140,235,0,0,180,0,0.0,2,0,2,Positive,1
+62,India,Goa,0,Male,0,140,394,0,0,157,0,1.2,1,0,2,Positive,1
+59,China,Shanghai,1,Female,3,134,204,0,1,162,0,0.8,2,2,2,Negative,0
+54,Russia,Saint Petersburg,1,Female,2,125,273,0,0,152,0,0.5,0,1,2,Positive,1
+48,China,Guangdong,1,Female,1,110,229,0,1,168,0,1.0,0,0,3,Negative,0
+70,India,Kerala,1,Female,0,130,322,0,0,109,0,2.4,1,3,2,Negative,0
+67,United States,Mississippi,0,Male,0,106,223,0,1,142,0,0.3,2,2,2,Positive,1
+51,South Africa,Eastern Cape,0,Male,2,120,295,0,0,157,0,0.6,2,0,2,Positive,1
+68,Brazil,São Paulo,1,Female,2,118,277,0,1,151,0,1.0,2,1,3,Positive,1
+69,South Africa,Eastern Cape,1,Female,2,140,254,0,0,146,0,2.0,1,3,3,Negative,0
+54,Ukraine,Dnipro,1,Female,0,122,286,0,0,116,1,3.2,1,2,2,Negative,0
+43,Germany,North Rhine-Westphalia,0,Male,0,132,341,1,0,136,1,3.0,1,0,3,Negative,0
+53,United States,Mississippi,1,Female,2,130,197,1,0,152,0,1.2,0,0,2,Positive,1
+58,Ukraine,Kharkiv,1,Female,0,100,234,0,1,156,0,0.1,2,1,3,Negative,0
+67,United States,West Virginia,1,Female,0,125,254,1,1,163,0,0.2,1,2,3,Negative,0
+59,Russia,Saint Petersburg,1,Female,0,140,177,0,1,162,1,0.0,2,1,3,Negative,0
+48,Mexico,Nuevo León,1,Female,0,122,222,0,0,186,0,0.0,2,0,2,Positive,1
+39,Russia,Saint Petersburg,0,Male,2,94,199,0,1,179,0,0.0,2,0,2,Positive,1
+67,Russia,Saint Petersburg,1,Female,0,120,237,0,1,71,0,1.0,1,0,2,Negative,0
+58,United Kingdom,Wales,0,Male,0,130,197,0,1,131,0,0.6,1,0,2,Positive,1
+65,United States,Mississippi,0,Male,2,155,269,0,1,148,0,0.8,2,0,2,Positive,1
+42,United Kingdom,Wales,0,Male,2,120,209,0,1,173,0,0.0,1,0,2,Positive,1
+44,Germany,North Rhine-Westphalia,1,Female,0,112,290,0,0,153,0,0.0,2,1,2,Negative,0
+56,Ukraine,Kharkiv,1,Female,0,132,184,0,0,105,1,2.1,1,1,1,Negative,0
+53,Germany,Saxony,0,Male,0,138,234,0,0,160,0,0.0,2,0,2,Positive,1
+50,Germany,North Rhine-Westphalia,0,Male,0,110,254,0,0,159,0,0.0,2,0,2,Positive,1
+41,South Africa,KwaZulu-Natal,1,Female,2,130,214,0,0,168,0,2.0,1,0,2,Positive,1
+54,India,Kerala,0,Male,2,160,201,0,1,163,0,0.0,2,1,2,Positive,1
+42,South Africa,Eastern Cape,1,Female,2,120,240,1,1,194,0,0.8,0,0,3,Positive,1
+54,Brazil,Bahia,0,Male,2,135,304,1,1,170,0,0.0,2,0,2,Positive,1
+60,South Africa,Gauteng,1,Female,0,145,282,0,0,142,1,2.8,1,2,3,Negative,0
+34,United Kingdom,Wales,1,Female,3,118,182,0,0,174,0,0.0,2,0,2,Positive,1
+44,United Kingdom,Wales,1,Female,0,112,290,0,0,153,0,0.0,2,1,2,Negative,0
+60,China,Beijing,1,Female,0,125,258,0,0,141,1,2.8,1,1,3,Negative,0
+43,United Kingdom,England,1,Female,0,150,247,0,1,171,0,1.5,2,0,2,Positive,1
+52,Brazil,Rio de Janeiro,1,Female,3,152,298,1,1,178,0,1.2,1,0,3,Positive,1
+70,Mexico,Nuevo León,1,Female,0,130,322,0,0,109,0,2.4,1,3,2,Negative,0
+62,India,Kerala,0,Male,0,140,394,0,0,157,0,1.2,1,0,2,Positive,1
+58,United States,West Virginia,1,Female,0,146,218,0,1,105,0,2.0,1,1,3,Negative,0
+46,Ukraine,Kharkiv,1,Female,1,101,197,1,1,156,0,0.0,2,0,3,Positive,1
+44,China,Shanghai,1,Female,2,140,235,0,0,180,0,0.0,2,0,2,Positive,1
+55,Germany,Saxony,1,Female,1,130,262,0,1,155,0,0.0,2,0,2,Positive,1
+43,United States,West Virginia,1,Female,0,120,177,0,0,120,1,2.5,1,0,3,Negative,0
+55,United Kingdom,Wales,1,Female,0,132,353,0,1,132,1,1.2,1,1,3,Negative,0
+40,Germany,Bavaria,1,Female,3,140,199,0,1,178,1,1.4,2,0,3,Positive,1
+64,Brazil,Rio de Janeiro,1,Female,2,125,309,0,1,131,1,1.8,1,0,3,Negative,0
+59,United States,Alabama,1,Female,0,164,176,1,0,90,0,1.0,1,2,1,Negative,0
+61,Brazil,Bahia,0,Male,0,145,307,0,0,146,1,1.0,1,0,3,Negative,0
+54,South Africa,KwaZulu-Natal,1,Female,0,122,286,0,0,116,1,3.2,1,2,2,Negative,0
+74,Brazil,Rio de Janeiro,0,Male,1,120,269,0,0,121,1,0.2,2,1,2,Positive,1
+63,India,Tamil Nadu,0,Male,0,108,269,0,1,169,1,1.8,1,2,2,Negative,0
+70,South Africa,Eastern Cape,1,Female,2,160,269,0,1,112,1,2.9,1,1,3,Negative,0
+63,Ukraine,Kharkiv,0,Male,0,108,269,0,1,169,1,1.8,1,2,2,Negative,0
+64,Ukraine,Dnipro,1,Female,0,145,212,0,0,132,0,2.0,1,2,1,Negative,0
+61,South Africa,Gauteng,1,Female,0,148,203,0,1,161,0,0.0,2,1,3,Negative,0
+59,United States,Mississippi,1,Female,1,140,221,0,1,164,1,0.0,2,0,2,Positive,1
+38,India,Tamil Nadu,1,Female,2,138,175,0,1,173,0,0.0,2,4,2,Positive,1
+58,Mexico,Jalisco,1,Female,1,120,284,0,0,160,0,1.8,1,0,2,Negative,0
+63,Germany,North Rhine-Westphalia,0,Male,1,140,195,0,1,179,0,0.0,2,2,2,Positive,1
+62,China,Shanghai,0,Male,2,130,263,0,1,97,0,1.2,1,1,3,Negative,0
+46,Germany,Saxony,1,Female,0,140,311,0,1,120,1,1.8,1,2,3,Negative,0
+58,Mexico,Mexico City,0,Male,2,120,340,0,1,172,0,0.0,2,0,2,Positive,1
+63,Mexico,Nuevo León,0,Male,1,140,195,0,1,179,0,0.0,2,2,2,Positive,1
+47,Russia,Saint Petersburg,1,Female,2,130,253,0,1,179,0,0.0,2,0,2,Positive,1
+71,United States,Alabama,0,Male,2,110,265,1,0,130,0,0.0,2,1,2,Positive,1
+66,Mexico,Nuevo León,1,Female,0,112,212,0,0,132,1,0.1,2,1,2,Negative,0
+42,India,Goa,1,Female,0,136,315,0,1,125,1,1.8,1,0,1,Negative,0
+64,India,Kerala,1,Female,0,145,212,0,0,132,0,2.0,1,2,1,Negative,0
+55,India,Kerala,0,Male,0,180,327,0,2,117,1,3.4,1,0,2,Negative,0
+43,United Kingdom,Wales,0,Male,0,132,341,1,0,136,1,3.0,1,0,3,Negative,0
+55,United Kingdom,England,0,Male,0,128,205,0,2,130,1,2.0,1,1,3,Negative,0
+58,South Africa,KwaZulu-Natal,0,Male,0,170,225,1,0,146,1,2.8,1,2,1,Negative,0
+55,Russia,Krasnodar,1,Female,0,140,217,0,1,111,1,5.6,0,0,3,Negative,0
+51,Ukraine,Kyiv,0,Male,0,130,305,0,1,142,1,1.2,1,0,3,Negative,0
+50,Russia,Moscow Oblast,0,Male,2,120,219,0,1,158,0,1.6,1,0,2,Positive,1
+43,India,Kerala,1,Female,0,115,303,0,1,181,0,1.2,1,0,2,Positive,1
+41,China,Guangdong,0,Male,1,126,306,0,1,163,0,0.0,2,0,2,Positive,1
+49,Russia,Krasnodar,1,Female,1,130,266,0,1,171,0,0.6,2,0,2,Positive,1
+65,South Africa,KwaZulu-Natal,1,Female,0,110,248,0,0,158,0,0.6,2,2,1,Negative,0
+57,United States,West Virginia,1,Female,0,152,274,0,1,88,1,1.2,1,1,3,Negative,0
+48,India,Goa,1,Female,0,130,256,1,0,150,1,0.0,2,2,3,Negative,0
+62,China,Guangdong,0,Male,0,138,294,1,1,106,0,1.9,1,3,2,Negative,0
+61,South Africa,Gauteng,1,Female,3,134,234,0,1,145,0,2.6,1,2,2,Negative,0
+59,Mexico,Jalisco,1,Female,3,178,270,0,0,145,0,4.2,0,0,3,Positive,1
+69,Russia,Moscow Oblast,1,Female,2,140,254,0,0,146,0,2.0,1,3,3,Negative,0
+58,United States,West Virginia,1,Female,2,132,224,0,0,173,0,3.2,2,2,3,Negative,0
+38,Russia,Krasnodar,1,Female,3,120,231,0,1,182,1,3.8,1,0,3,Negative,0
+69,United Kingdom,Wales,0,Male,3,140,239,0,1,151,0,1.8,2,2,2,Positive,1
+65,Russia,Moscow Oblast,1,Female,3,138,282,1,0,174,0,1.4,1,1,2,Negative,0
+45,United Kingdom,Scotland,1,Female,3,110,264,0,1,132,0,1.2,1,0,3,Negative,0
+49,Brazil,Rio de Janeiro,1,Female,1,130,266,0,1,171,0,0.6,2,0,2,Positive,1
+45,Ukraine,Kyiv,0,Male,1,130,234,0,0,175,0,0.6,1,0,2,Positive,1
+61,Ukraine,Kharkiv,1,Female,0,138,166,0,0,125,1,3.6,1,1,2,Negative,0
+52,Ukraine,Kyiv,1,Female,0,125,212,0,1,168,0,1.0,2,2,3,Negative,0
+53,Russia,Moscow Oblast,0,Male,0,130,264,0,0,143,0,0.4,1,0,2,Positive,1
+59,Russia,Moscow Oblast,0,Male,0,174,249,0,1,143,1,0.0,1,0,2,Negative,0
+58,China,Guangdong,0,Male,2,120,340,0,1,172,0,0.0,2,0,2,Positive,1
+65,Mexico,Mexico City,1,Female,3,138,282,1,0,174,0,1.4,1,1,2,Negative,0
+58,India,Kerala,0,Male,0,130,197,0,1,131,0,0.6,1,0,2,Positive,1
+46,Brazil,Bahia,0,Male,0,138,243,0,0,152,1,0.0,1,0,2,Positive,1
+56,Brazil,Bahia,0,Male,0,134,409,0,0,150,1,1.9,1,2,3,Negative,0
+64,India,Goa,1,Female,0,128,263,0,1,105,1,0.2,1,1,3,Positive,1
+65,Mexico,Nuevo León,1,Female,0,120,177,0,1,140,0,0.4,2,0,3,Positive,1
+44,Mexico,Jalisco,1,Female,2,120,226,0,1,169,0,0.0,2,0,2,Positive,1
+50,China,Guangdong,1,Female,0,150,243,0,0,128,0,2.6,1,0,3,Negative,0
+47,South Africa,Gauteng,1,Female,2,108,243,0,1,152,0,0.0,2,0,2,Negative,0
+64,Russia,Krasnodar,0,Male,0,130,303,0,1,122,0,2.0,1,2,2,Positive,1
+71,Brazil,São Paulo,0,Male,0,112,149,0,1,125,0,1.6,1,0,2,Positive,1
+45,Russia,Krasnodar,0,Male,1,130,234,0,0,175,0,0.6,1,0,2,Positive,1
+62,South Africa,Gauteng,1,Female,0,120,267,0,1,99,1,1.8,1,2,3,Negative,0
+41,Germany,Saxony,1,Female,1,120,157,0,1,182,0,0.0,2,0,2,Positive,1
+66,China,Beijing,0,Male,3,150,226,0,1,114,0,2.6,0,0,2,Positive,1
+56,Germany,Saxony,1,Female,0,130,283,1,0,103,1,1.6,0,0,3,Negative,0
+41,China,Shanghai,0,Male,1,126,306,0,1,163,0,0.0,2,0,2,Positive,1
+41,United Kingdom,England,1,Female,1,110,235,0,1,153,0,0.0,2,0,2,Positive,1
+57,Mexico,Jalisco,0,Male,1,130,236,0,0,174,0,0.0,1,1,2,Negative,0
+39,Mexico,Nuevo León,0,Male,2,138,220,0,1,152,0,0.0,1,0,2,Positive,1
+64,Mexico,Mexico City,1,Female,2,125,309,0,1,131,1,1.8,1,0,3,Negative,0
+59,Germany,Bavaria,1,Female,0,138,271,0,0,182,0,0.0,2,0,2,Positive,1
+61,Brazil,São Paulo,1,Female,0,138,166,0,0,125,1,3.6,1,1,2,Negative,0
+58,Russia,Moscow Oblast,1,Female,0,114,318,0,2,140,0,4.4,0,3,1,Negative,0
+47,Russia,Moscow Oblast,1,Female,0,112,204,0,1,143,0,0.1,2,0,2,Positive,1
+58,India,Kerala,0,Male,0,100,248,0,0,122,0,1.0,1,0,2,Positive,1
+66,Mexico,Mexico City,0,Male,3,150,226,0,1,114,0,2.6,0,0,2,Positive,1
+65,United States,Alabama,0,Male,2,140,417,1,0,157,0,0.8,2,1,2,Positive,1
+35,India,Tamil Nadu,1,Female,1,122,192,0,1,174,0,0.0,2,0,2,Positive,1
+57,China,Shanghai,1,Female,1,124,261,0,1,141,0,0.3,2,0,3,Negative,0
+29,South Africa,Gauteng,1,Female,1,130,204,0,0,202,0,0.0,2,0,2,Positive,1
+66,United States,West Virginia,1,Female,1,160,246,0,1,120,1,0.0,1,3,1,Negative,0
+61,Ukraine,Kyiv,0,Male,0,130,330,0,0,169,0,0.0,2,0,2,Negative,0
+52,Mexico,Nuevo León,1,Female,0,125,212,0,1,168,0,1.0,2,2,3,Negative,0
+68,China,Guangdong,1,Female,2,118,277,0,1,151,0,1.0,2,1,3,Positive,1
+54,Ukraine,Kyiv,1,Female,2,120,258,0,0,147,0,0.4,1,0,3,Positive,1
+63,Brazil,Bahia,1,Female,0,130,330,1,0,132,1,1.8,2,3,3,Negative,0
+58,India,Goa,1,Female,0,100,234,0,1,156,0,0.1,2,1,3,Negative,0
+60,Russia,Moscow Oblast,1,Female,0,130,253,0,1,144,1,1.4,2,1,3,Negative,0
+63,South Africa,Gauteng,1,Female,0,130,254,0,0,147,0,1.4,1,1,3,Negative,0
+41,South Africa,Eastern Cape,0,Male,2,112,268,0,0,172,1,0.0,2,0,2,Positive,1
+68,United States,Alabama,1,Female,2,180,274,1,0,150,1,1.6,1,0,3,Negative,0
+42,Mexico,Nuevo León,1,Female,1,120,295,0,1,162,0,0.0,2,0,2,Positive,1
+59,Russia,Krasnodar,1,Female,0,170,326,0,0,140,1,3.4,0,0,3,Negative,0
+59,Russia,Saint Petersburg,1,Female,0,164,176,1,0,90,0,1.0,1,2,1,Negative,0
+43,Russia,Saint Petersburg,1,Female,0,120,177,0,0,120,1,2.5,1,0,3,Negative,0
+60,United Kingdom,England,1,Female,2,140,185,0,0,155,0,3.0,1,0,2,Negative,0
+63,United States,West Virginia,0,Male,0,150,407,0,0,154,0,4.0,1,3,3,Negative,0
+52,Mexico,Mexico City,1,Female,0,128,204,1,1,156,1,1.0,1,0,0,Negative,0
+58,Brazil,Rio de Janeiro,1,Female,0,125,300,0,0,171,0,0.0,2,2,3,Negative,0
+56,Russia,Krasnodar,0,Male,0,200,288,1,0,133,1,4.0,0,2,3,Negative,0
+54,Mexico,Mexico City,0,Male,2,135,304,1,1,170,0,0.0,2,0,2,Positive,1
+58,China,Shanghai,1,Female,2,105,240,0,0,154,1,0.6,1,0,3,Positive,1
+55,United Kingdom,Scotland,0,Male,1,135,250,0,0,161,0,1.4,1,0,2,Positive,1
+53,United States,West Virginia,1,Female,0,140,203,1,0,155,1,3.1,0,0,3,Negative,0
+63,Mexico,Mexico City,0,Male,1,140,195,0,1,179,0,0.0,2,2,2,Positive,1
+39,China,Beijing,1,Female,0,118,219,0,1,140,0,1.2,1,0,3,Negative,0
+35,Brazil,Bahia,1,Female,0,126,282,0,0,156,1,0.0,2,0,3,Negative,0
+50,United Kingdom,Scotland,0,Male,2,120,219,0,1,158,0,1.6,1,0,2,Positive,1
+67,United States,Alabama,1,Female,2,152,212,0,0,150,0,0.8,1,0,3,Negative,0
+66,Ukraine,Dnipro,1,Female,0,112,212,0,0,132,1,0.1,2,1,2,Negative,0
+35,Mexico,Nuevo León,1,Female,0,126,282,0,0,156,1,0.0,2,0,3,Negative,0
+41,Germany,Saxony,1,Female,2,130,214,0,0,168,0,2.0,1,0,2,Positive,1
+35,Ukraine,Kharkiv,1,Female,0,120,198,0,1,130,1,1.6,1,0,3,Negative,0
+71,Germany,Saxony,0,Male,1,160,302,0,1,162,0,0.4,2,2,2,Positive,1
+57,Ukraine,Kyiv,1,Female,0,110,201,0,1,126,1,1.5,1,0,1,Positive,1
+51,United States,Alabama,1,Female,2,94,227,0,1,154,1,0.0,2,1,3,Positive,1
+58,Germany,North Rhine-Westphalia,1,Female,0,128,216,0,0,131,1,2.2,1,3,3,Negative,0
+57,India,Kerala,1,Female,2,128,229,0,0,150,0,0.4,1,1,3,Negative,0
+56,United States,West Virginia,0,Male,1,140,294,0,0,153,0,1.3,1,0,2,Positive,1
+60,Germany,Bavaria,0,Male,2,120,178,1,1,96,0,0.0,2,0,2,Positive,1
+45,South Africa,Eastern Cape,1,Female,3,110,264,0,1,132,0,1.2,1,0,3,Negative,0
+56,United States,Alabama,1,Female,1,130,221,0,0,163,0,0.0,2,0,3,Positive,1
+35,Ukraine,Dnipro,1,Female,0,120,198,0,1,130,1,1.6,1,0,3,Negative,0
+45,India,Goa,0,Male,1,112,160,0,1,138,0,0.0,1,0,2,Positive,1
+66,Germany,Bavaria,0,Male,3,150,226,0,1,114,0,2.6,0,0,2,Positive,1
+51,United Kingdom,Wales,1,Female,3,125,213,0,0,125,1,1.4,2,1,2,Positive,1
+70,Russia,Moscow Oblast,1,Female,1,156,245,0,0,143,0,0.0,2,0,2,Positive,1
+55,China,Beijing,0,Male,0,128,205,0,2,130,1,2.0,1,1,3,Negative,0
+56,United Kingdom,England,1,Female,2,130,256,1,0,142,1,0.6,1,1,1,Negative,0
+55,Ukraine,Kharkiv,0,Male,1,135,250,0,0,161,0,1.4,1,0,2,Positive,1
+52,United Kingdom,Wales,1,Female,0,108,233,1,1,147,0,0.1,2,3,3,Positive,1
+64,United Kingdom,Wales,1,Female,2,140,335,0,1,158,0,0.0,2,0,2,Negative,0
+45,China,Shanghai,1,Female,0,115,260,0,0,185,0,0.0,2,0,2,Positive,1
+67,China,Beijing,0,Male,2,152,277,0,1,172,0,0.0,2,1,2,Positive,1
+68,Mexico,Nuevo León,0,Male,2,120,211,0,0,115,0,1.5,1,0,2,Positive,1
+74,Russia,Krasnodar,0,Male,1,120,269,0,0,121,1,0.2,2,1,2,Positive,1
+60,Brazil,São Paulo,0,Male,0,150,258,0,0,157,0,2.6,1,2,3,Negative,0
+48,Russia,Krasnodar,1,Female,0,124,274,0,0,166,0,0.5,1,0,3,Negative,0
+56,Brazil,Rio de Janeiro,1,Female,1,130,221,0,0,163,0,0.0,2,0,3,Positive,1
+46,Brazil,Rio de Janeiro,1,Female,0,140,311,0,1,120,1,1.8,1,2,3,Negative,0
+55,Germany,North Rhine-Westphalia,0,Male,1,135,250,0,0,161,0,1.4,1,0,2,Positive,1
+44,Brazil,Bahia,1,Female,1,120,220,0,1,170,0,0.0,2,0,2,Positive,1
+52,Ukraine,Kharkiv,1,Female,0,112,230,0,1,160,0,0.0,2,1,2,Negative,0
+51,Russia,Moscow Oblast,1,Female,2,94,227,0,1,154,1,0.0,2,1,3,Positive,1
+44,India,Kerala,0,Male,2,108,141,0,1,175,0,0.6,1,0,2,Positive,1
+52,Russia,Saint Petersburg,1,Female,0,128,204,1,1,156,1,1.0,1,0,0,Negative,0
+50,Germany,Bavaria,1,Female,2,129,196,0,1,163,0,0.0,2,0,2,Positive,1
+59,Russia,Krasnodar,1,Female,0,110,239,0,0,142,1,1.2,1,1,3,Negative,0
+67,Brazil,Bahia,1,Female,0,120,229,0,0,129,1,2.6,1,2,3,Negative,0
+58,Brazil,São Paulo,1,Female,0,125,300,0,0,171,0,0.0,2,2,3,Negative,0
+52,India,Kerala,1,Female,0,128,255,0,1,161,1,0.0,2,1,3,Negative,0
+44,Brazil,Rio de Janeiro,1,Female,2,140,235,0,0,180,0,0.0,2,0,2,Positive,1
+41,Ukraine,Kharkiv,0,Male,2,112,268,0,0,172,1,0.0,2,0,2,Positive,1
+63,India,Tamil Nadu,1,Female,0,130,330,1,0,132,1,1.8,2,3,3,Negative,0
+58,China,Shanghai,1,Female,1,125,220,0,1,144,0,0.4,1,4,3,Positive,1
+60,United States,West Virginia,0,Male,2,102,318,0,1,160,0,0.0,2,1,2,Positive,1
+51,South Africa,KwaZulu-Natal,1,Female,2,100,222,0,1,143,1,1.2,1,0,2,Positive,1
+64,Ukraine,Dnipro,1,Female,2,140,335,0,1,158,0,0.0,2,0,2,Negative,0
+60,United Kingdom,Wales,1,Female,0,117,230,1,1,160,1,1.4,2,2,3,Negative,0
+44,China,Shanghai,1,Female,2,120,226,0,1,169,0,0.0,2,0,2,Positive,1
+58,United Kingdom,England,1,Female,1,125,220,0,1,144,0,0.4,1,4,3,Positive,1
+55,United Kingdom,Wales,1,Female,1,130,262,0,1,155,0,0.0,2,0,2,Positive,1
+65,United States,West Virginia,0,Male,2,160,360,0,0,151,0,0.8,2,0,2,Positive,1
+48,United States,West Virginia,1,Female,1,130,245,0,0,180,0,0.2,1,0,2,Positive,1
+65,South Africa,Gauteng,1,Female,0,120,177,0,1,140,0,0.4,2,0,3,Positive,1
+51,Brazil,Bahia,0,Male,2,130,256,0,0,149,0,0.5,2,0,2,Positive,1
+48,Ukraine,Kharkiv,1,Female,2,124,255,1,1,175,0,0.0,2,2,2,Positive,1
+64,Germany,North Rhine-Westphalia,1,Female,0,120,246,0,0,96,1,2.2,0,1,2,Negative,0
+66,Ukraine,Kyiv,1,Female,0,160,228,0,0,138,0,2.3,2,0,1,Positive,1
+46,United States,Mississippi,0,Male,1,105,204,0,1,172,0,0.0,2,0,2,Positive,1
+61,South Africa,Eastern Cape,0,Male,0,130,330,0,0,169,0,0.0,2,0,2,Negative,0
+57,Ukraine,Kharkiv,1,Female,0,150,276,0,0,112,1,0.6,1,1,1,Negative,0
+49,Russia,Moscow Oblast,0,Male,0,130,269,0,1,163,0,0.0,2,0,2,Positive,1
+56,Germany,Saxony,1,Female,1,130,221,0,0,163,0,0.0,2,0,3,Positive,1
+58,Russia,Moscow Oblast,0,Male,3,150,283,1,0,162,0,1.0,2,0,2,Positive,1
+63,Brazil,Bahia,1,Female,0,140,187,0,0,144,1,4.0,2,2,3,Negative,0
+57,Germany,Saxony,1,Female,0,110,335,0,1,143,1,3.0,1,1,3,Negative,0
+57,Ukraine,Kyiv,1,Female,0,110,335,0,1,143,1,3.0,1,1,3,Negative,0
+68,United States,West Virginia,1,Female,0,144,193,1,1,141,0,3.4,1,2,3,Negative,0
+46,Germany,Bavaria,1,Female,1,101,197,1,1,156,0,0.0,2,0,3,Positive,1
+71,United Kingdom,Wales,0,Male,2,110,265,1,0,130,0,0.0,2,1,2,Positive,1
+41,Russia,Saint Petersburg,1,Female,1,135,203,0,1,132,0,0.0,1,0,1,Positive,1
+45,United States,Alabama,0,Male,0,138,236,0,0,152,1,0.2,1,0,2,Positive,1
+62,Brazil,São Paulo,0,Male,0,150,244,0,1,154,1,1.4,1,0,2,Negative,0
+65,Ukraine,Kharkiv,0,Male,0,150,225,0,0,114,0,1.0,1,3,3,Negative,0
+48,China,Guangdong,0,Male,2,130,275,0,1,139,0,0.2,2,0,2,Positive,1
+51,United States,Mississippi,1,Female,2,100,222,0,1,143,1,1.2,1,0,2,Positive,1
+61,South Africa,Gauteng,0,Male,0,145,307,0,0,146,1,1.0,1,0,3,Negative,0
+53,Brazil,Rio de Janeiro,1,Female,0,123,282,0,1,95,1,2.0,1,2,3,Negative,0
+59,Russia,Krasnodar,1,Female,3,134,204,0,1,162,0,0.8,2,2,2,Negative,0
+34,United States,West Virginia,0,Male,1,118,210,0,1,192,0,0.7,2,0,2,Positive,1
+44,United Kingdom,Wales,1,Female,0,120,169,0,1,144,1,2.8,0,0,1,Negative,0
+58,India,Goa,1,Female,0,146,218,0,1,105,0,2.0,1,1,3,Negative,0
+64,China,Beijing,0,Male,0,130,303,0,1,122,0,2.0,1,2,2,Positive,1
+56,Mexico,Nuevo León,1,Female,1,120,240,0,1,169,0,0.0,0,0,2,Positive,1
+54,Russia,Moscow Oblast,1,Female,2,150,232,0,0,165,0,1.6,2,0,3,Positive,1
+55,Mexico,Mexico City,1,Female,0,160,289,0,0,145,1,0.8,1,1,3,Negative,0
+67,Germany,North Rhine-Westphalia,1,Female,0,125,254,1,1,163,0,0.2,1,2,3,Negative,0
+51,Germany,Saxony,1,Female,0,140,298,0,1,122,1,4.2,1,3,3,Negative,0
+62,India,Kerala,0,Male,0,138,294,1,1,106,0,1.9,1,3,2,Negative,0
+62,United States,Mississippi,1,Female,1,120,281,0,0,103,0,1.4,1,1,3,Negative,0
+54,Ukraine,Dnipro,1,Female,0,110,239,0,1,126,1,2.8,1,1,3,Negative,0
+54,Germany,Saxony,1,Female,0,110,239,0,1,126,1,2.8,1,1,3,Negative,0
+68,Germany,Bavaria,1,Female,0,144,193,1,1,141,0,3.4,1,2,3,Negative,0
+60,South Africa,KwaZulu-Natal,0,Male,2,120,178,1,1,96,0,0.0,2,0,2,Positive,1
+61,Ukraine,Kharkiv,1,Female,3,134,234,0,1,145,0,2.6,1,2,2,Negative,0
+62,Germany,Bavaria,1,Female,1,128,208,1,0,140,0,0.0,2,0,2,Positive,1
+41,China,Shanghai,1,Female,1,135,203,0,1,132,0,0.0,1,0,1,Positive,1
+65,United Kingdom,Wales,0,Male,0,150,225,0,0,114,0,1.0,1,3,3,Negative,0
+59,South Africa,Eastern Cape,1,Female,3,170,288,0,0,159,0,0.2,1,0,3,Negative,0
+43,Germany,Bavaria,1,Female,0,115,303,0,1,181,0,1.2,1,0,2,Positive,1
+67,United Kingdom,Scotland,1,Female,0,120,229,0,0,129,1,2.6,1,2,3,Negative,0
+63,Ukraine,Kyiv,1,Female,3,145,233,1,0,150,0,2.3,0,0,1,Positive,1
+63,Brazil,São Paulo,0,Male,0,124,197,0,1,136,1,0.0,1,0,2,Negative,0
+52,South Africa,KwaZulu-Natal,1,Female,0,112,230,0,1,160,0,0.0,2,1,2,Negative,0
+58,United Kingdom,Wales,0,Male,0,130,197,0,1,131,0,0.6,1,0,2,Positive,1
+53,United Kingdom,England,1,Female,0,142,226,0,0,111,1,0.0,2,0,3,Positive,1
+57,United Kingdom,England,1,Female,0,150,276,0,0,112,1,0.6,1,1,1,Negative,0
+44,Germany,Bavaria,1,Female,2,130,233,0,1,179,1,0.4,2,0,2,Positive,1
+51,South Africa,KwaZulu-Natal,1,Female,2,94,227,0,1,154,1,0.0,2,1,3,Positive,1
+54,Mexico,Nuevo León,0,Male,2,110,214,0,1,158,0,1.6,1,0,2,Positive,1
+40,United States,West Virginia,1,Female,0,110,167,0,0,114,1,2.0,1,0,3,Negative,0
+57,Germany,Saxony,1,Female,1,124,261,0,1,141,0,0.3,2,0,3,Negative,0
+62,United States,Mississippi,0,Male,0,140,268,0,0,160,0,3.6,0,2,2,Negative,0
+53,India,Goa,1,Female,0,140,203,1,0,155,1,3.1,0,0,3,Negative,0
+62,United Kingdom,Wales,1,Female,1,128,208,1,0,140,0,0.0,2,0,2,Positive,1
+58,United Kingdom,Scotland,1,Female,2,105,240,0,0,154,1,0.6,1,0,3,Positive,1
+70,Russia,Krasnodar,1,Female,1,156,245,0,0,143,0,0.0,2,0,2,Positive,1
+45,United Kingdom,Scotland,1,Female,0,115,260,0,0,185,0,0.0,2,0,2,Positive,1
+42,Mexico,Nuevo León,1,Female,3,148,244,0,0,178,0,0.8,2,2,2,Positive,1
+58,Germany,Bavaria,0,Male,0,170,225,1,0,146,1,2.8,1,2,1,Negative,0
+61,United Kingdom,England,1,Female,0,140,207,0,0,138,1,1.9,2,1,3,Negative,0
+62,Mexico,Nuevo León,0,Male,0,140,268,0,0,160,0,3.6,0,2,2,Negative,0
+60,South Africa,Gauteng,1,Female,0,130,253,0,1,144,1,1.4,2,1,3,Negative,0
+54,Ukraine,Kharkiv,1,Female,0,140,239,0,1,160,0,1.2,2,0,2,Positive,1
+61,Ukraine,Kyiv,1,Female,0,138,166,0,0,125,1,3.6,1,1,2,Negative,0
+63,Brazil,Rio de Janeiro,0,Male,2,135,252,0,0,172,0,0.0,2,0,2,Positive,1
+42,China,Shanghai,1,Female,2,130,180,0,1,150,0,0.0,2,0,2,Positive,1
+57,Russia,Saint Petersburg,1,Female,2,128,229,0,0,150,0,0.4,1,1,3,Negative,0
+44,Russia,Saint Petersburg,1,Female,2,130,233,0,1,179,1,0.4,2,0,2,Positive,1
+54,United Kingdom,England,1,Female,0,124,266,0,0,109,1,2.2,1,1,3,Negative,0
+51,Germany,Saxony,1,Female,2,100,222,0,1,143,1,1.2,1,0,2,Positive,1
+58,United Kingdom,England,1,Female,1,125,220,0,1,144,0,0.4,1,4,3,Positive,1
+68,South Africa,Eastern Cape,1,Female,2,118,277,0,1,151,0,1.0,2,1,3,Positive,1
+55,Ukraine,Kyiv,1,Female,0,140,217,0,1,111,1,5.6,0,0,3,Negative,0
+42,China,Shanghai,1,Female,0,136,315,0,1,125,1,1.8,1,0,1,Negative,0
+49,United Kingdom,Wales,1,Female,2,118,149,0,0,126,0,0.8,2,3,2,Negative,0
+53,Brazil,Bahia,0,Male,0,138,234,0,0,160,0,0.0,2,0,2,Positive,1
+52,United States,West Virginia,1,Female,2,172,199,1,1,162,0,0.5,2,0,3,Positive,1
+51,Ukraine,Dnipro,1,Female,3,125,213,0,0,125,1,1.4,2,1,2,Positive,1
+51,Mexico,Mexico City,1,Female,0,140,261,0,0,186,1,0.0,2,0,2,Positive,1
+70,South Africa,Gauteng,1,Female,0,145,174,0,1,125,1,2.6,0,0,3,Negative,0
+35,South Africa,KwaZulu-Natal,0,Male,0,138,183,0,1,182,0,1.4,2,0,2,Positive,1
+58,China,Beijing,1,Female,2,112,230,0,0,165,0,2.5,1,1,3,Negative,0
+59,Germany,Saxony,1,Female,3,160,273,0,0,125,0,0.0,2,0,2,Negative,0
+60,Germany,Saxony,1,Female,0,140,293,0,0,170,0,1.2,1,2,3,Negative,0
+56,United Kingdom,Wales,1,Female,0,132,184,0,0,105,1,2.1,1,1,1,Negative,0
+35,United Kingdom,Scotland,0,Male,0,138,183,0,1,182,0,1.4,2,0,2,Positive,1
+61,Mexico,Jalisco,1,Female,0,138,166,0,0,125,1,3.6,1,1,2,Negative,0
+58,United States,Mississippi,0,Male,3,150,283,1,0,162,0,1.0,2,0,2,Positive,1
+52,China,Beijing,1,Female,0,128,255,0,1,161,1,0.0,2,1,3,Negative,0
+58,Mexico,Nuevo León,1,Female,1,120,284,0,0,160,0,1.8,1,0,2,Negative,0
+37,India,Kerala,1,Female,2,130,250,0,1,187,0,3.5,0,0,2,Positive,1
+52,Germany,Saxony,1,Female,0,128,255,0,1,161,1,0.0,2,1,3,Negative,0
+67,India,Goa,1,Female,0,120,229,0,0,129,1,2.6,1,2,3,Negative,0
+65,Brazil,Rio de Janeiro,1,Female,3,138,282,1,0,174,0,1.4,1,1,2,Negative,0
+46,China,Shanghai,1,Female,1,101,197,1,1,156,0,0.0,2,0,3,Positive,1
+68,United States,West Virginia,0,Male,2,120,211,0,0,115,0,1.5,1,0,2,Positive,1
+43,Ukraine,Dnipro,1,Female,0,115,303,0,1,181,0,1.2,1,0,2,Positive,1
+68,United States,Mississippi,0,Male,2,120,211,0,0,115,0,1.5,1,0,2,Positive,1
+51,Russia,Krasnodar,1,Female,0,140,299,0,1,173,1,1.6,2,0,3,Negative,0
+52,China,Shanghai,1,Female,0,112,230,0,1,160,0,0.0,2,1,2,Negative,0
+64,United Kingdom,Scotland,1,Female,2,140,335,0,1,158,0,0.0,2,0,2,Negative,0
+59,Ukraine,Kharkiv,1,Female,3,170,288,0,0,159,0,0.2,1,0,3,Negative,0
+52,Mexico,Mexico City,1,Female,0,125,212,0,1,168,0,1.0,2,2,3,Negative,0
+59,United Kingdom,Scotland,1,Female,3,160,273,0,0,125,0,0.0,2,0,2,Negative,0
+60,China,Shanghai,0,Male,3,150,240,0,1,171,0,0.9,2,0,2,Positive,1
+41,United States,Alabama,1,Female,2,112,250,0,1,179,0,0.0,2,0,2,Positive,1
+41,Brazil,Bahia,1,Female,1,110,235,0,1,153,0,0.0,2,0,2,Positive,1
+56,India,Kerala,1,Female,1,120,240,0,1,169,0,0.0,0,0,2,Positive,1
+56,China,Shanghai,1,Female,1,120,236,0,1,178,0,0.8,2,0,2,Positive,1
+48,Brazil,Rio de Janeiro,0,Male,2,130,275,0,1,139,0,0.2,2,0,2,Positive,1
+39,Ukraine,Kyiv,1,Female,2,140,321,0,0,182,0,0.0,2,0,2,Positive,1
+64,United States,West Virginia,1,Female,3,170,227,0,0,155,0,0.6,1,0,3,Positive,1
+57,India,Kerala,1,Female,0,140,192,0,1,148,0,0.4,1,0,1,Positive,1
+59,South Africa,Eastern Cape,1,Female,3,160,273,0,0,125,0,0.0,2,0,2,Negative,0
+60,South Africa,Gauteng,1,Female,0,130,206,0,0,132,1,2.4,1,2,3,Negative,0
+61,Brazil,Rio de Janeiro,1,Female,0,140,207,0,0,138,1,1.9,2,1,3,Negative,0
+43,Brazil,Rio de Janeiro,0,Male,2,122,213,0,1,165,0,0.2,1,0,2,Positive,1
+54,China,Beijing,1,Female,0,120,188,0,1,113,0,1.4,1,1,3,Negative,0
+59,Mexico,Jalisco,1,Female,0,138,271,0,0,182,0,0.0,2,0,2,Positive,1
+57,Brazil,Bahia,1,Female,0,132,207,0,1,168,1,0.0,2,0,3,Positive,1
+57,Brazil,São Paulo,1,Female,1,154,232,0,0,164,0,0.0,2,1,2,Negative,0
+57,South Africa,Gauteng,1,Female,0,130,131,0,1,115,1,1.2,1,1,3,Negative,0
+48,Russia,Moscow Oblast,1,Female,0,124,274,0,0,166,0,0.5,1,0,3,Negative,0
+70,Ukraine,Dnipro,1,Female,0,145,174,0,1,125,1,2.6,0,0,3,Negative,0
+57,India,Tamil Nadu,1,Female,0,165,289,1,0,124,0,1.0,1,3,3,Negative,0
+61,South Africa,Eastern Cape,1,Female,0,120,260,0,1,140,1,3.6,1,1,3,Negative,0
+57,United States,West Virginia,1,Female,0,110,201,0,1,126,1,1.5,1,0,1,Positive,1
+60,Ukraine,Kharkiv,0,Male,0,150,258,0,0,157,0,2.6,1,2,3,Negative,0
+63,United States,West Virginia,0,Male,0,150,407,0,0,154,0,4.0,1,3,3,Negative,0
+55,South Africa,KwaZulu-Natal,0,Male,0,128,205,0,2,130,1,2.0,1,1,3,Negative,0
+64,South Africa,Eastern Cape,0,Male,0,180,325,0,1,154,1,0.0,2,0,2,Positive,1
+54,United States,Mississippi,1,Female,0,110,239,0,1,126,1,2.8,1,1,3,Negative,0
+52,United States,Alabama,1,Female,0,128,204,1,1,156,1,1.0,1,0,0,Negative,0
+51,India,Kerala,1,Female,0,140,299,0,1,173,1,1.6,2,0,3,Negative,0
+62,Mexico,Nuevo León,0,Male,2,130,263,0,1,97,0,1.2,1,1,3,Negative,0
+59,Russia,Krasnodar,1,Female,3,178,270,0,0,145,0,4.2,0,0,3,Positive,1
+52,Brazil,São Paulo,1,Female,1,134,201,0,1,158,0,0.8,2,1,2,Positive,1
+42,Brazil,São Paulo,0,Male,0,102,265,0,0,122,0,0.6,1,0,2,Positive,1
+59,India,Kerala,1,Female,0,135,234,0,1,161,0,0.5,1,0,3,Positive,1
+61,United States,Mississippi,1,Female,3,134,234,0,1,145,0,2.6,1,2,2,Negative,0
+42,Brazil,Rio de Janeiro,0,Male,0,102,265,0,0,122,0,0.6,1,0,2,Positive,1
+62,South Africa,Eastern Cape,0,Male,0,140,268,0,0,160,0,3.6,0,2,2,Negative,0
+59,Ukraine,Dnipro,1,Female,2,126,218,1,1,134,0,2.2,1,1,1,Negative,0
+55,India,Kerala,1,Female,1,130,262,0,1,155,0,0.0,2,0,2,Positive,1
+64,South Africa,KwaZulu-Natal,1,Female,0,120,246,0,0,96,1,2.2,0,1,2,Negative,0
+42,Brazil,Bahia,1,Female,0,140,226,0,1,178,0,0.0,2,0,2,Positive,1
+50,Brazil,São Paulo,0,Male,1,120,244,0,1,162,0,1.1,2,0,2,Positive,1
+62,Russia,Krasnodar,1,Female,0,120,267,0,1,99,1,1.8,1,2,3,Negative,0
+50,Brazil,São Paulo,1,Female,0,144,200,0,0,126,1,0.9,1,0,3,Negative,0
+50,India,Tamil Nadu,1,Female,2,140,233,0,1,163,0,0.6,1,1,3,Negative,0
+58,Russia,Krasnodar,0,Male,1,136,319,1,0,152,0,0.0,2,2,2,Negative,0
+35,Brazil,Rio de Janeiro,1,Female,0,120,198,0,1,130,1,1.6,1,0,3,Negative,0
+45,Germany,Bavaria,1,Female,0,104,208,0,0,148,1,3.0,1,0,2,Positive,1
+66,South Africa,KwaZulu-Natal,1,Female,0,112,212,0,0,132,1,0.1,2,1,2,Negative,0
+46,United States,West Virginia,1,Female,0,120,249,0,0,144,0,0.8,2,0,3,Negative,0
+65,Germany,Saxony,1,Female,0,135,254,0,0,127,0,2.8,1,1,3,Negative,0
+47,Ukraine,Kyiv,1,Female,2,130,253,0,1,179,0,0.0,2,0,2,Positive,1
+59,United States,Mississippi,1,Female,3,134,204,0,1,162,0,0.8,2,2,2,Negative,0
+38,India,Kerala,1,Female,3,120,231,0,1,182,1,3.8,1,0,3,Negative,0
+39,United States,West Virginia,1,Female,0,118,219,0,1,140,0,1.2,1,0,3,Negative,0
+58,Germany,North Rhine-Westphalia,1,Female,0,146,218,0,1,105,0,2.0,1,1,3,Negative,0
+44,India,Goa,1,Female,1,120,263,0,1,173,0,0.0,2,0,3,Positive,1
+54,Brazil,Bahia,1,Female,0,140,239,0,1,160,0,1.2,2,0,2,Positive,1
+61,Germany,North Rhine-Westphalia,0,Male,0,130,330,0,0,169,0,0.0,2,0,2,Negative,0
+57,United States,West Virginia,1,Female,0,130,131,0,1,115,1,1.2,1,1,3,Negative,0
+54,Russia,Saint Petersburg,1,Female,0,110,206,0,0,108,1,0.0,1,1,2,Negative,0
+42,United Kingdom,Wales,1,Female,2,120,240,1,1,194,0,0.8,0,0,3,Positive,1
+54,Ukraine,Kharkiv,1,Female,0,124,266,0,0,109,1,2.2,1,1,3,Negative,0
+60,Russia,Krasnodar,1,Female,0,130,206,0,0,132,1,2.4,1,2,3,Negative,0
+65,India,Goa,1,Female,0,135,254,0,0,127,0,2.8,1,1,3,Negative,0
+40,Russia,Saint Petersburg,1,Female,0,152,223,0,1,181,0,0.0,2,0,3,Negative,0
+51,Brazil,São Paulo,0,Male,2,140,308,0,0,142,0,1.5,2,1,2,Positive,1
+38,South Africa,Eastern Cape,1,Female,3,120,231,0,1,182,1,3.8,1,0,3,Negative,0
+42,Germany,North Rhine-Westphalia,1,Female,2,130,180,0,1,150,0,0.0,2,0,2,Positive,1
+56,Mexico,Jalisco,1,Female,1,120,240,0,1,169,0,0.0,0,0,2,Positive,1
+43,Ukraine,Kyiv,1,Female,2,130,315,0,1,162,0,1.9,2,1,2,Positive,1
+64,United States,West Virginia,1,Female,2,140,335,0,1,158,0,0.0,2,0,2,Negative,0
+53,Ukraine,Kyiv,1,Female,0,142,226,0,0,111,1,0.0,2,0,3,Positive,1
+49,India,Tamil Nadu,0,Male,1,134,271,0,1,162,0,0.0,1,0,2,Positive,1
+57,South Africa,KwaZulu-Natal,0,Male,0,140,241,0,1,123,1,0.2,1,0,3,Negative,0
+52,Brazil,Bahia,0,Male,2,136,196,0,0,169,0,0.1,1,0,2,Positive,1
+69,Ukraine,Kharkiv,0,Male,3,140,239,0,1,151,0,1.8,2,2,2,Positive,1
+65,United States,Alabama,1,Female,0,120,177,0,1,140,0,0.4,2,0,3,Positive,1
+66,Germany,Bavaria,0,Male,0,178,228,1,1,165,1,1.0,1,2,3,Negative,0
+56,India,Kerala,1,Female,3,120,193,0,0,162,0,1.9,1,0,3,Positive,1
+67,China,Guangdong,0,Male,2,152,277,0,1,172,0,0.0,2,1,2,Positive,1
+54,India,Kerala,0,Male,2,160,201,0,1,163,0,0.0,2,1,2,Positive,1
+70,South Africa,Eastern Cape,1,Female,0,145,174,0,1,125,1,2.6,0,0,3,Negative,0
+57,China,Shanghai,1,Female,0,132,207,0,1,168,1,0.0,2,0,3,Positive,1
+67,Ukraine,Dnipro,1,Female,0,160,286,0,0,108,1,1.5,1,3,2,Negative,0
+62,Ukraine,Kharkiv,0,Male,2,130,263,0,1,97,0,1.2,1,1,3,Negative,0
+54,Mexico,Mexico City,0,Male,2,135,304,1,1,170,0,0.0,2,0,2,Positive,1
+45,Brazil,São Paulo,0,Male,0,138,236,0,0,152,1,0.2,1,0,2,Positive,1
+53,Mexico,Jalisco,0,Male,0,130,264,0,0,143,0,0.4,1,0,2,Positive,1
+62,India,Goa,1,Female,2,130,231,0,1,146,0,1.8,1,3,3,Positive,1
+49,Russia,Krasnodar,0,Male,0,130,269,0,1,163,0,0.0,2,0,2,Positive,1
+50,South Africa,Eastern Cape,1,Female,2,140,233,0,1,163,0,0.6,1,1,3,Negative,0
+65,Germany,Bavaria,0,Male,2,140,417,1,0,157,0,0.8,2,1,2,Positive,1
+69,Mexico,Nuevo León,0,Male,3,140,239,0,1,151,0,1.8,2,2,2,Positive,1
+52,Russia,Krasnodar,0,Male,2,136,196,0,0,169,0,0.1,1,0,2,Positive,1
+58,China,Guangdong,0,Male,0,100,248,0,0,122,0,1.0,1,0,2,Positive,1
+52,Ukraine,Kyiv,1,Female,0,108,233,1,1,147,0,0.1,2,3,3,Positive,1
+57,Mexico,Nuevo León,0,Male,0,140,241,0,1,123,1,0.2,1,0,3,Negative,0
+44,Germany,Bavaria,0,Male,2,108,141,0,1,175,0,0.6,1,0,2,Positive,1
+76,Ukraine,Kharkiv,0,Male,2,140,197,0,2,116,0,1.1,1,0,2,Positive,1
+58,United States,West Virginia,1,Female,0,128,259,0,0,130,1,3.0,1,2,3,Negative,0
+60,South Africa,Eastern Cape,0,Male,2,120,178,1,1,96,0,0.0,2,0,2,Positive,1
+53,Ukraine,Kyiv,1,Female,0,140,203,1,0,155,1,3.1,0,0,3,Negative,0
+52,Mexico,Jalisco,1,Female,1,120,325,0,1,172,0,0.2,2,0,2,Positive,1
+38,Brazil,Bahia,1,Female,2,138,175,0,1,173,0,0.0,2,4,2,Positive,1
+52,Russia,Saint Petersburg,1,Female,2,172,199,1,1,162,0,0.5,2,0,3,Positive,1
+52,South Africa,KwaZulu-Natal,1,Female,3,118,186,0,0,190,0,0.0,1,0,1,Positive,1
+51,South Africa,KwaZulu-Natal,1,Female,2,125,245,1,0,166,0,2.4,1,0,2,Positive,1
+43,South Africa,Eastern Cape,1,Female,0,110,211,0,1,161,0,0.0,2,0,3,Positive,1
+39,China,Shanghai,1,Female,0,118,219,0,1,140,0,1.2,1,0,3,Negative,0
+63,South Africa,Gauteng,0,Male,0,108,269,0,1,169,1,1.8,1,2,2,Negative,0
+52,Brazil,Bahia,1,Female,1,128,205,1,1,184,0,0.0,2,0,2,Positive,1
+44,India,Tamil Nadu,1,Female,0,110,197,0,0,177,0,0.0,2,1,2,Negative,0
+45,China,Shanghai,1,Female,0,142,309,0,0,147,1,0.0,1,3,3,Negative,0
+57,Russia,Moscow Oblast,1,Female,0,140,192,0,1,148,0,0.4,1,0,1,Positive,1
+39,Ukraine,Kharkiv,1,Female,0,118,219,0,1,140,0,1.2,1,0,3,Negative,0
+67,Brazil,São Paulo,0,Male,0,106,223,0,1,142,0,0.3,2,2,2,Positive,1
+64,United Kingdom,Wales,1,Female,0,128,263,0,1,105,1,0.2,1,1,3,Positive,1
+59,China,Shanghai,1,Female,0,135,234,0,1,161,0,0.5,1,0,3,Positive,1
+62,Germany,Saxony,1,Female,2,130,231,0,1,146,0,1.8,1,3,3,Positive,1
+55,South Africa,KwaZulu-Natal,0,Male,0,180,327,0,2,117,1,3.4,1,0,2,Negative,0
+57,China,Beijing,1,Female,1,154,232,0,0,164,0,0.0,2,1,2,Negative,0
+60,Russia,Moscow Oblast,1,Female,0,140,293,0,0,170,0,1.2,1,2,3,Negative,0
+71,United Kingdom,England,0,Male,1,160,302,0,1,162,0,0.4,2,2,2,Positive,1
+56,Ukraine,Kharkiv,1,Female,1,120,236,0,1,178,0,0.8,2,0,2,Positive,1
+60,United Kingdom,England,1,Female,0,117,230,1,1,160,1,1.4,2,2,3,Negative,0
+50,India,Kerala,0,Male,0,110,254,0,0,159,0,0.0,2,0,2,Positive,1
+43,Brazil,São Paulo,1,Female,0,132,247,1,0,143,1,0.1,1,4,3,Negative,0
+59,Mexico,Jalisco,1,Female,0,110,239,0,0,142,1,1.2,1,1,3,Negative,0
+44,Mexico,Nuevo León,1,Female,1,120,263,0,1,173,0,0.0,2,0,3,Positive,1
+56,Ukraine,Dnipro,0,Male,0,134,409,0,0,150,1,1.9,1,2,3,Negative,0
+54,Brazil,São Paulo,1,Female,0,120,188,0,1,113,0,1.4,1,1,3,Negative,0
+42,Russia,Moscow Oblast,1,Female,0,136,315,0,1,125,1,1.8,1,0,1,Negative,0
+67,Mexico,Nuevo León,1,Female,0,125,254,1,1,163,0,0.2,1,2,3,Negative,0
+64,Ukraine,Kyiv,1,Female,0,145,212,0,0,132,0,2.0,1,2,1,Negative,0
+42,China,Beijing,1,Female,0,140,226,0,1,178,0,0.0,2,0,2,Positive,1
+66,Brazil,São Paulo,1,Female,0,112,212,0,0,132,1,0.1,2,1,2,Negative,0
+52,Russia,Moscow Oblast,1,Female,0,108,233,1,1,147,0,0.1,2,3,3,Positive,1
+51,United States,Alabama,0,Male,2,140,308,0,0,142,0,1.5,2,1,2,Positive,1
+55,Germany,North Rhine-Westphalia,0,Male,0,128,205,0,2,130,1,2.0,1,1,3,Negative,0
+58,Mexico,Nuevo León,1,Female,2,140,211,1,0,165,0,0.0,2,0,2,Positive,1
+56,Germany,Saxony,1,Female,3,120,193,0,0,162,0,1.9,1,0,3,Positive,1
+42,Russia,Saint Petersburg,1,Female,1,120,295,0,1,162,0,0.0,2,0,2,Positive,1
+40,Germany,North Rhine-Westphalia,1,Female,0,152,223,0,1,181,0,0.0,2,0,3,Negative,0
+51,Ukraine,Kyiv,1,Female,0,140,299,0,1,173,1,1.6,2,0,3,Negative,0
+45,India,Tamil Nadu,1,Female,1,128,308,0,0,170,0,0.0,2,0,2,Positive,1
+48,China,Shanghai,1,Female,1,110,229,0,1,168,0,1.0,0,0,3,Negative,0
+58,United Kingdom,Scotland,1,Female,0,114,318,0,2,140,0,4.4,0,3,1,Negative,0
+44,United States,Alabama,0,Male,2,108,141,0,1,175,0,0.6,1,0,2,Positive,1
+58,Brazil,São Paulo,1,Female,0,128,216,0,0,131,1,2.2,1,3,3,Negative,0
+65,China,Beijing,1,Female,3,138,282,1,0,174,0,1.4,1,1,2,Negative,0
+53,Mexico,Mexico City,1,Female,0,123,282,0,1,95,1,2.0,1,2,3,Negative,0
+41,Russia,Krasnodar,1,Female,0,110,172,0,0,158,0,0.0,2,0,3,Negative,0
+47,China,Shanghai,1,Female,0,112,204,0,1,143,0,0.1,2,0,2,Positive,1
+59,South Africa,Eastern Cape,1,Female,1,140,221,0,1,164,1,0.0,2,0,2,Positive,1
+60,South Africa,KwaZulu-Natal,1,Female,0,125,258,0,0,141,1,2.8,1,1,3,Negative,0
+47,Ukraine,Kharkiv,1,Female,0,110,275,0,0,118,1,1.0,1,1,2,Negative,0
+50,India,Tamil Nadu,0,Male,0,110,254,0,0,159,0,0.0,2,0,2,Positive,1
+54,Russia,Saint Petersburg,1,Female,0,120,188,0,1,113,0,1.4,1,1,3,Negative,0
+28,United Kingdom,England,1,Female,1,130,132,0,2,185,0,0.0,?,?,?,Negative,0
+29,India,Goa,1,Female,1,120,243,0,0,160,0,0.0,?,?,?,Negative,0
+29,Russia,Saint Petersburg,1,Female,1,140,?,0,0,170,0,0.0,?,?,?,Negative,0
+30,South Africa,Gauteng,0,Male,0,170,237,0,1,170,0,0.0,?,?,6,Negative,0
+31,India,Kerala,0,Male,1,100,219,0,1,150,0,0.0,?,?,?,Negative,0
+32,Russia,Krasnodar,0,Male,1,105,198,0,0,165,0,0.0,?,?,?,Negative,0
+32,South Africa,Gauteng,1,Female,1,110,225,0,0,184,0,0.0,?,?,?,Negative,0
+32,Brazil,Rio de Janeiro,1,Female,1,125,254,0,0,155,0,0.0,?,?,?,Negative,0
+33,United States,Alabama,1,Female,2,120,298,0,0,185,0,0.0,?,?,?,Negative,0
+34,Mexico,Mexico City,0,Male,1,130,161,0,0,190,0,0.0,?,?,?,Negative,0
+34,Ukraine,Kyiv,1,Female,1,150,214,0,1,168,0,0.0,?,?,?,Negative,0
+34,Russia,Moscow Oblast,1,Female,1,98,220,0,0,150,0,0.0,?,?,?,Negative,0
+35,Ukraine,Kharkiv,0,Male,0,120,160,0,1,185,0,0.0,?,?,?,Negative,0
+35,Russia,Moscow Oblast,0,Male,3,140,167,0,0,150,0,0.0,?,?,?,Negative,0
+35,India,Tamil Nadu,1,Female,1,120,308,0,2,180,0,0.0,?,?,?,Negative,0
+35,Mexico,Mexico City,1,Female,1,150,264,0,0,168,0,0.0,?,?,?,Negative,0
+36,United Kingdom,England,1,Female,1,120,166,0,0,180,0,0.0,?,?,?,Negative,0
+36,Germany,Saxony,1,Female,2,112,340,0,0,184,0,1.0,2,?,3,Negative,0
+36,India,Kerala,1,Female,2,130,209,0,0,178,0,0.0,?,?,?,Negative,0
+36,Ukraine,Kyiv,1,Female,2,150,160,0,0,172,0,0.0,?,?,?,Negative,0
+37,Ukraine,Dnipro,0,Male,1,120,260,0,0,130,0,0.0,?,?,?,Negative,0
+37,China,Beijing,0,Male,2,130,211,0,0,142,0,0.0,?,?,?,Negative,0
+37,Germany,North Rhine-Westphalia,0,Male,3,130,173,0,1,184,0,0.0,?,?,?,Negative,0
+37,China,Beijing,1,Female,1,130,283,0,1,98,0,0.0,?,?,?,Negative,0
+37,India,Goa,1,Female,2,130,194,0,0,150,0,0.0,?,?,?,Negative,0
+37,Germany,Saxony,1,Female,3,120,223,0,0,168,0,0.0,?,?,3,Negative,0
+37,India,Kerala,1,Female,3,130,315,0,0,158,0,0.0,?,?,?,Negative,0
+38,Brazil,Rio de Janeiro,0,Male,1,120,275,?,0,129,0,0.0,?,?,?,Negative,0
+38,Russia,Moscow Oblast,1,Female,1,140,297,0,0,150,0,0.0,?,?,?,Negative,0
+38,China,Guangdong,1,Female,2,145,292,0,0,130,0,0.0,?,?,?,Negative,0
+39,Brazil,Bahia,0,Male,2,110,182,0,1,180,0,0.0,?,?,?,Negative,0
+39,India,Kerala,1,Female,1,120,?,0,1,146,0,2.0,1,?,?,Negative,0
+39,India,Tamil Nadu,1,Female,1,120,200,0,0,160,1,1.0,2,?,?,Negative,0
+39,Germany,Bavaria,1,Female,1,120,204,0,0,145,0,0.0,?,?,?,Negative,0
+39,Brazil,Rio de Janeiro,1,Female,1,130,?,0,0,120,0,0.0,?,?,?,Negative,0
+39,United States,Alabama,1,Female,1,190,241,0,0,106,0,0.0,?,?,?,Negative,0
+39,United Kingdom,England,1,Female,2,120,339,0,0,170,0,0.0,?,?,?,Negative,0
+39,Russia,Krasnodar,1,Female,2,160,147,1,0,160,0,0.0,?,?,?,Negative,0
+39,Mexico,Mexico City,1,Female,3,110,273,0,0,132,0,0.0,?,?,?,Negative,0
+39,United Kingdom,Scotland,1,Female,3,130,307,0,0,140,0,0.0,?,?,?,Negative,0
+40,Germany,Saxony,1,Female,1,130,275,0,0,150,0,0.0,?,?,?,Negative,0
+40,South Africa,KwaZulu-Natal,1,Female,1,140,289,0,0,172,0,0.0,?,?,?,Negative,0
+40,Russia,Moscow Oblast,1,Female,2,130,215,0,0,138,0,0.0,?,?,?,Negative,0
+40,South Africa,Gauteng,1,Female,2,130,281,0,0,167,0,0.0,?,?,?,Negative,0
+40,Germany,Bavaria,1,Female,2,140,?,0,0,188,0,0.0,?,?,?,Negative,0
+41,Brazil,São Paulo,0,Male,1,110,250,0,1,142,0,0.0,?,?,?,Negative,0
+41,Brazil,Bahia,0,Male,1,125,184,0,0,180,0,0.0,?,?,?,Negative,0
+41,India,Kerala,0,Male,1,130,245,0,0,150,0,0.0,?,?,?,Negative,0
+41,China,Shanghai,1,Female,1,120,291,0,1,160,0,0.0,?,?,?,Negative,0
+41,Germany,Saxony,1,Female,1,120,295,0,0,170,0,0.0,?,?,?,Negative,0
+41,Mexico,Jalisco,1,Female,1,125,269,0,0,144,0,0.0,?,?,?,Negative,0
+41,Russia,Moscow Oblast,1,Female,3,112,250,0,0,142,0,0.0,?,?,?,Negative,0
+42,United Kingdom,Scotland,0,Male,2,115,211,0,1,137,0,0.0,?,?,?,Negative,0
+42,India,Goa,1,Female,1,120,196,0,0,150,0,0.0,?,?,?,Negative,0
+42,United States,Alabama,1,Female,1,120,198,0,0,155,0,0.0,?,?,?,Negative,0
+42,Germany,Bavaria,1,Female,1,150,268,0,0,136,0,0.0,?,?,?,Negative,0
+42,China,Guangdong,1,Female,2,120,228,0,0,152,1,1.5,2,?,?,Negative,0
+42,Germany,Saxony,1,Female,2,160,147,0,0,146,0,0.0,?,?,?,Negative,0
+42,South Africa,Gauteng,1,Female,3,140,358,0,0,170,0,0.0,?,?,?,Negative,0
+43,South Africa,Eastern Cape,0,Male,0,100,223,0,0,142,0,0.0,?,?,?,Negative,0
+43,South Africa,KwaZulu-Natal,0,Male,1,120,201,0,0,165,0,0.0,?,?,?,Negative,0
+43,Germany,Bavaria,0,Male,1,120,215,0,1,175,0,0.0,?,?,?,Negative,0
+43,United States,West Virginia,0,Male,1,120,249,0,1,176,0,0.0,?,?,?,Negative,0
+43,United Kingdom,Wales,0,Male,1,120,266,0,0,118,0,0.0,?,?,?,Negative,0
+43,United Kingdom,England,0,Male,1,150,186,0,0,154,0,0.0,?,?,?,Negative,0
+43,United Kingdom,England,0,Male,2,150,?,0,0,175,0,0.0,?,?,3,Negative,0
+43,India,Kerala,1,Female,1,142,207,0,0,138,0,0.0,?,?,?,Negative,0
+44,Brazil,Bahia,0,Male,3,120,218,0,1,115,0,0.0,?,?,?,Negative,0
+44,Russia,Moscow Oblast,1,Female,1,120,184,0,0,142,0,1.0,2,?,?,Negative,0
+44,Germany,Saxony,1,Female,1,130,215,0,0,135,0,0.0,?,?,?,Negative,0
+44,Ukraine,Kharkiv,1,Female,3,150,412,0,0,170,0,0.0,?,?,?,Negative,0
+45,United Kingdom,Scotland,0,Male,1,130,237,0,0,170,0,0.0,?,?,?,Negative,0
+45,Ukraine,Dnipro,0,Male,1,180,?,0,0,180,0,0.0,?,?,?,Negative,0
+45,United Kingdom,Wales,0,Male,3,132,297,0,0,144,0,0.0,?,?,?,Negative,0
+45,United States,West Virginia,1,Female,1,140,224,1,0,122,0,0.0,?,?,?,Negative,0
+45,United States,Mississippi,1,Female,2,135,?,0,0,110,0,0.0,?,?,?,Negative,0
+45,Ukraine,Kharkiv,1,Female,3,120,225,0,0,140,0,0.0,?,?,?,Negative,0
+45,United Kingdom,England,1,Female,3,140,224,0,0,144,0,0.0,?,?,?,Negative,0
+46,Russia,Moscow Oblast,0,Male,3,130,238,0,0,90,0,0.0,?,?,?,Negative,0
+46,United States,West Virginia,1,Female,1,140,275,0,0,165,1,0.0,?,?,?,Negative,0
+46,Mexico,Nuevo León,1,Female,2,120,230,0,0,150,0,0.0,?,?,?,Negative,0
+46,Russia,Moscow Oblast,1,Female,2,150,163,?,0,116,0,0.0,?,?,?,Negative,0
+46,Mexico,Nuevo León,1,Female,3,110,238,0,1,140,1,1.0,2,?,3,Negative,0
+46,Ukraine,Dnipro,1,Female,3,110,240,0,1,140,0,0.0,?,?,3,Negative,0
+46,United States,Mississippi,1,Female,3,180,280,0,1,120,0,0.0,?,?,?,Negative,0
+47,Brazil,Rio de Janeiro,0,Male,1,140,257,0,0,135,0,1.0,1,?,?,Negative,0
+47,United Kingdom,Wales,0,Male,2,130,?,0,0,145,0,2.0,2,?,?,Negative,0
+47,Mexico,Mexico City,1,Female,0,110,249,0,0,150,0,0.0,?,?,?,Negative,0
+47,China,Guangdong,1,Female,1,160,263,0,0,174,0,0.0,?,?,?,Negative,0
+47,Germany,Saxony,1,Female,3,140,276,1,0,125,1,0.0,?,?,?,Negative,0
+48,Russia,Krasnodar,0,Male,1,?,308,0,1,?,?,2.0,1,?,?,Negative,0
+48,United States,Mississippi,0,Male,1,120,?,1,1,148,0,0.0,?,?,?,Negative,0
+48,China,Guangdong,0,Male,1,120,284,0,0,120,0,0.0,?,?,?,Negative,0
+48,China,Beijing,0,Male,2,120,195,0,0,125,0,0.0,?,?,?,Negative,0
+48,Mexico,Nuevo León,0,Male,3,108,163,0,0,175,0,2.0,1,?,?,Negative,0
+48,Mexico,Mexico City,0,Male,3,120,254,0,1,110,0,0.0,?,?,?,Negative,0
+48,Ukraine,Kyiv,0,Male,3,150,227,0,0,130,1,1.0,2,?,?,Negative,0
+48,South Africa,KwaZulu-Natal,1,Female,1,100,?,0,0,100,0,0.0,?,?,?,Negative,0
+48,Germany,North Rhine-Westphalia,1,Female,1,130,245,0,0,160,0,0.0,?,?,?,Negative,0
+48,Ukraine,Kharkiv,1,Female,1,140,238,0,0,118,0,0.0,?,?,?,Negative,0
+48,India,Kerala,1,Female,2,110,211,0,0,138,0,0.0,?,?,6,Negative,0
+49,India,Kerala,0,Male,1,110,?,0,0,160,0,0.0,?,?,?,Negative,0
+49,South Africa,Gauteng,0,Male,1,110,?,0,0,160,0,0.0,?,?,?,Negative,0
+49,United States,Mississippi,0,Male,1,124,201,0,0,164,0,0.0,?,?,?,Negative,0
+49,Ukraine,Dnipro,0,Male,2,130,207,0,1,135,0,0.0,?,?,?,Negative,0
+49,Mexico,Mexico City,1,Female,1,100,253,0,0,174,0,0.0,?,?,?,Negative,0
+49,India,Tamil Nadu,1,Female,2,140,187,0,0,172,0,0.0,?,?,?,Negative,0
+49,United Kingdom,England,1,Female,3,120,297,?,0,132,0,1.0,2,?,?,Negative,0
+49,United Kingdom,Scotland,1,Female,3,140,?,0,0,130,0,0.0,?,?,?,Negative,0
+50,Mexico,Nuevo León,0,Male,1,110,202,0,0,145,0,0.0,?,?,?,Negative,0
+50,Brazil,São Paulo,0,Male,3,120,328,0,0,110,1,1.0,2,?,?,Negative,0
+50,South Africa,Gauteng,1,Female,1,120,168,0,0,160,0,0.0,?,0,?,Negative,0
+50,South Africa,Gauteng,1,Female,1,140,216,0,0,170,0,0.0,?,?,3,Negative,0
+50,China,Beijing,1,Female,1,170,209,0,1,116,0,0.0,?,?,?,Negative,0
+50,India,Tamil Nadu,1,Female,3,140,129,0,0,135,0,0.0,?,?,?,Negative,0
+50,China,Guangdong,1,Female,3,150,215,0,0,140,1,0.0,?,?,?,Negative,0
+51,Ukraine,Kharkiv,0,Male,1,160,194,0,0,170,0,0.0,?,?,?,Negative,0
+51,United States,Mississippi,0,Male,2,110,190,0,0,120,0,0.0,?,?,?,Negative,0
+51,South Africa,Gauteng,0,Male,2,130,220,0,0,160,1,2.0,1,?,?,Negative,0
+51,Russia,Moscow Oblast,0,Male,2,150,200,0,0,120,0,0.5,1,?,?,Negative,0
+51,Russia,Moscow Oblast,1,Female,1,125,188,0,0,145,0,0.0,?,?,?,Negative,0
+51,Brazil,Rio de Janeiro,1,Female,1,130,224,0,0,150,0,0.0,?,?,?,Negative,0
+51,United States,Mississippi,1,Female,3,130,179,0,0,100,0,0.0,?,?,7,Negative,0
+52,China,Guangdong,0,Male,1,120,210,0,0,148,0,0.0,?,?,?,Negative,0
+52,Russia,Krasnodar,0,Male,1,140,?,0,0,140,0,0.0,?,?,?,Negative,0
+52,Russia,Krasnodar,0,Male,2,125,272,0,0,139,0,0.0,?,?,?,Negative,0
+52,South Africa,KwaZulu-Natal,0,Male,3,130,180,0,0,140,1,1.5,2,?,?,Negative,0
+52,Russia,Saint Petersburg,1,Female,1,120,284,0,0,118,0,0.0,?,?,?,Negative,0
+52,South Africa,Eastern Cape,1,Female,1,140,100,0,0,138,1,0.0,?,?,?,Negative,0
+52,Germany,North Rhine-Westphalia,1,Female,1,160,196,0,0,165,0,0.0,?,?,?,Negative,0
+52,South Africa,Gauteng,1,Female,2,140,259,0,1,170,0,0.0,?,?,?,Negative,0
+53,Russia,Krasnodar,0,Male,1,113,468,?,0,127,0,0.0,?,?,?,Negative,0
+53,United Kingdom,England,0,Male,1,140,216,0,0,142,1,2.0,2,?,?,Negative,0
+53,United States,Alabama,0,Male,2,120,274,0,0,130,0,0.0,?,?,?,Negative,0
+53,Mexico,Nuevo León,1,Female,1,120,?,0,0,132,0,0.0,?,?,?,Negative,0
+53,Mexico,Jalisco,1,Female,1,140,320,0,0,162,0,0.0,?,?,?,Negative,0
+53,India,Goa,1,Female,2,120,195,0,0,140,0,0.0,?,?,?,Negative,0
+53,Mexico,Nuevo León,1,Female,3,124,260,0,1,112,1,3.0,2,?,?,Negative,0
+53,South Africa,Gauteng,1,Female,3,130,182,0,0,148,0,0.0,?,?,?,Negative,0
+53,Ukraine,Kyiv,1,Female,3,140,243,0,0,155,0,0.0,?,?,?,Negative,0
+54,South Africa,KwaZulu-Natal,0,Male,1,120,221,0,0,138,0,1.0,1,?,?,Negative,0
+54,Ukraine,Kyiv,0,Male,1,120,230,1,0,140,0,0.0,?,?,?,Negative,0
+54,Mexico,Nuevo León,0,Male,1,120,273,0,0,150,0,1.5,2,?,?,Negative,0
+54,Brazil,Bahia,0,Male,1,130,253,0,1,155,0,0.0,?,?,?,Negative,0
+54,Brazil,São Paulo,0,Male,1,140,309,?,1,140,0,0.0,?,?,?,Negative,0
+54,Russia,Saint Petersburg,0,Male,1,150,230,0,0,130,0,0.0,?,?,?,Negative,0
+54,India,Kerala,0,Male,1,160,312,0,0,130,0,0.0,?,?,?,Negative,0
+54,Ukraine,Dnipro,1,Female,0,120,171,0,0,137,0,2.0,1,?,?,Negative,0
+54,Germany,Bavaria,1,Female,1,110,208,0,0,142,0,0.0,?,?,?,Negative,0
+54,India,Goa,1,Female,1,120,238,0,0,154,0,0.0,?,?,?,Negative,0
+54,United States,Mississippi,1,Female,1,120,246,0,0,110,0,0.0,?,?,?,Negative,0
+54,United Kingdom,Scotland,1,Female,1,160,195,0,1,130,0,1.0,1,?,?,Negative,0
+54,Russia,Krasnodar,1,Female,1,160,305,0,0,175,0,0.0,?,?,?,Negative,0
+54,South Africa,KwaZulu-Natal,1,Female,2,120,217,0,0,137,0,0.0,?,?,?,Negative,0
+54,South Africa,Gauteng,1,Female,2,150,?,0,0,122,0,0.0,?,?,?,Negative,0
+54,United Kingdom,Scotland,1,Female,3,150,365,0,1,134,0,1.0,1,?,?,Negative,0
+55,South Africa,KwaZulu-Natal,0,Male,1,110,344,0,1,160,0,0.0,?,?,?,Negative,0
+55,Russia,Krasnodar,0,Male,1,122,320,0,0,155,0,0.0,?,?,?,Negative,0
+55,United States,West Virginia,0,Male,1,130,394,0,2,150,0,0.0,?,?,?,Negative,0
+55,Ukraine,Kharkiv,1,Female,1,120,256,1,0,137,0,0.0,?,?,7,Negative,0
+55,Ukraine,Dnipro,1,Female,1,140,196,0,0,150,0,0.0,?,?,7,Negative,0
+55,Mexico,Jalisco,1,Female,1,145,326,0,0,155,0,0.0,?,?,?,Negative,0
+55,Ukraine,Dnipro,1,Female,2,110,277,0,0,160,0,0.0,?,?,?,Negative,0
+55,Germany,North Rhine-Westphalia,1,Female,2,120,220,0,2,134,0,0.0,?,?,?,Negative,0
+55,United States,West Virginia,1,Female,3,120,270,0,0,140,0,0.0,?,?,?,Negative,0
+55,United States,West Virginia,1,Female,3,140,229,0,0,110,1,0.5,2,?,?,Negative,0
+56,Mexico,Mexico City,0,Male,2,130,219,?,1,164,0,0.0,?,?,7,Negative,0
+56,Ukraine,Kyiv,1,Female,1,130,184,0,0,100,0,0.0,?,?,?,Negative,0
+56,South Africa,Gauteng,1,Female,2,130,?,0,0,114,0,0.0,?,?,?,Negative,0
+56,India,Tamil Nadu,1,Female,2,130,276,0,0,128,1,1.0,1,?,6,Negative,0
+56,China,Shanghai,1,Female,3,120,85,0,0,140,0,0.0,?,?,?,Negative,0
+57,United States,Mississippi,0,Male,0,130,308,0,0,98,0,1.0,2,?,?,Negative,0
+57,Mexico,Mexico City,0,Male,3,180,347,0,1,126,1,0.8,2,?,?,Negative,0
+57,Ukraine,Dnipro,1,Female,1,140,260,1,0,140,0,0.0,?,?,6,Negative,0
+58,South Africa,Gauteng,1,Female,1,130,230,0,0,150,0,0.0,?,?,?,Negative,0
+58,South Africa,Eastern Cape,1,Female,1,130,251,0,0,110,0,0.0,?,?,?,Negative,0
+58,India,Kerala,1,Female,2,140,179,0,0,160,0,0.0,?,?,?,Negative,0
+58,Germany,North Rhine-Westphalia,1,Female,3,135,222,0,0,100,0,0.0,?,?,?,Negative,0
+59,Germany,North Rhine-Westphalia,0,Male,1,130,188,0,0,124,0,1.0,2,?,?,Negative,0
+59,United States,West Virginia,1,Female,1,140,287,0,0,150,0,0.0,?,?,?,Negative,0
+59,India,Goa,1,Female,2,130,318,0,0,120,1,1.0,2,?,3,Negative,0
+59,Ukraine,Kharkiv,1,Female,2,180,213,0,0,100,0,0.0,?,?,?,Negative,0
+59,Germany,Saxony,1,Female,3,140,?,0,0,140,0,0.0,?,0,?,Negative,0
+60,Ukraine,Dnipro,1,Female,2,120,246,0,2,135,0,0.0,?,?,?,Negative,0
+61,South Africa,Eastern Cape,0,Male,3,130,294,0,1,120,1,1.0,2,?,?,Negative,0
+61,Ukraine,Kharkiv,1,Female,3,125,292,0,1,115,1,0.0,?,?,?,Negative,0
+62,China,Beijing,0,Male,0,160,193,0,0,116,0,0.0,?,?,?,Negative,0
+62,Russia,Moscow Oblast,1,Female,1,140,271,0,0,152,0,1.0,1,?,?,Negative,0
+31,Russia,Moscow Oblast,1,Female,3,120,270,0,0,153,1,1.5,2,?,?,Positive,1
+33,United Kingdom,England,0,Male,3,100,246,0,0,150,1,1.0,2,?,?,Positive,1
+34,Ukraine,Dnipro,1,Female,0,140,156,0,0,180,0,0.0,?,?,?,Positive,1
+35,Ukraine,Kyiv,1,Female,1,110,257,0,0,140,0,0.0,?,?,?,Positive,1
+36,United States,Alabama,1,Female,1,120,267,0,0,160,0,3.0,2,?,?,Positive,1
+37,United Kingdom,Scotland,1,Female,3,140,207,0,0,130,1,1.5,2,?,?,Positive,1
+38,India,Goa,1,Female,3,110,196,0,0,166,0,0.0,?,?,?,Positive,1
+38,Brazil,Bahia,1,Female,3,120,282,0,0,170,0,0.0,?,?,?,Positive,1
+38,United States,Mississippi,1,Female,3,92,117,0,0,134,1,2.5,2,?,?,Positive,1
+40,Russia,Moscow Oblast,1,Female,3,120,466,?,0,152,1,1.0,2,?,6,Positive,1
+41,South Africa,KwaZulu-Natal,1,Female,3,110,289,0,0,170,0,0.0,?,?,6,Positive,1
+41,United Kingdom,Scotland,1,Female,3,120,237,?,0,138,1,1.0,2,?,?,Positive,1
+43,Brazil,Bahia,1,Female,3,150,247,0,0,130,1,2.0,2,?,?,Positive,1
+46,Germany,North Rhine-Westphalia,1,Female,3,110,202,0,0,150,1,0.0,?,?,?,Positive,1
+46,United States,Mississippi,1,Female,3,118,186,0,0,124,0,0.0,?,?,7,Positive,1
+46,South Africa,KwaZulu-Natal,1,Female,3,120,277,0,0,125,1,1.0,2,?,?,Positive,1
+47,Germany,Saxony,1,Female,2,140,193,0,0,145,1,1.0,2,?,?,Positive,1
+47,South Africa,Gauteng,1,Female,3,150,226,0,0,98,1,1.5,2,0,7,Positive,1
+48,Ukraine,Kharkiv,1,Female,3,106,263,1,0,110,0,0.0,?,?,?,Positive,1
+48,China,Guangdong,1,Female,3,120,260,0,0,115,0,2.0,2,?,?,Positive,1
+48,Germany,Saxony,1,Female,3,160,268,0,0,103,1,1.0,2,?,?,Positive,1
+49,Russia,Moscow Oblast,0,Male,2,160,180,0,0,156,0,1.0,2,?,?,Positive,1
+49,United States,Mississippi,1,Female,2,115,265,0,0,175,0,0.0,?,?,?,Positive,1
+49,United Kingdom,Scotland,1,Female,3,130,206,0,0,170,0,0.0,?,?,?,Positive,1
+50,Brazil,Rio de Janeiro,0,Male,2,140,288,0,0,140,1,0.0,?,?,7,Positive,1
+50,United Kingdom,Wales,1,Female,3,145,264,0,0,150,0,0.0,?,?,?,Positive,1
+51,China,Shanghai,0,Male,3,160,303,0,0,150,1,1.0,2,?,?,Positive,1
+52,Germany,North Rhine-Westphalia,1,Female,3,130,225,0,0,120,1,2.0,2,?,?,Positive,1
+54,Ukraine,Kharkiv,1,Female,3,125,216,0,0,140,0,0.0,?,?,?,Positive,1
+54,Germany,Bavaria,1,Female,3,125,224,0,0,122,0,2.0,2,?,?,Positive,1
+55,Russia,Moscow Oblast,1,Female,3,140,201,0,0,130,1,3.0,2,?,?,Positive,1
+57,China,Shanghai,1,Female,1,140,265,0,1,145,1,1.0,2,?,?,Positive,1
+58,Mexico,Nuevo León,1,Female,2,130,213,0,1,140,0,0.0,?,?,6,Positive,1
+59,Russia,Saint Petersburg,0,Male,3,130,338,1,1,130,1,1.5,2,?,?,Positive,1
+60,China,Beijing,1,Female,3,100,248,0,0,125,0,1.0,2,?,?,Positive,1
+63,India,Kerala,1,Female,3,150,223,0,0,115,0,0.0,?,?,?,Positive,1
+65,United Kingdom,Scotland,1,Female,3,140,306,1,0,87,1,1.5,2,?,?,Positive,1
+32,Ukraine,Dnipro,1,Female,3,118,529,0,0,130,0,0.0,?,?,?,Positive,1
+38,United States,Mississippi,1,Female,3,110,?,0,0,150,1,1.0,2,?,?,Positive,1
+39,United Kingdom,Wales,1,Female,3,110,280,0,0,150,0,0.0,?,?,6,Positive,1
+40,China,Beijing,0,Male,3,150,392,0,0,130,0,2.0,2,?,6,Positive,1
+43,Mexico,Nuevo León,1,Female,0,120,291,0,1,155,0,0.0,?,?,?,Positive,1
+45,United Kingdom,Wales,1,Female,3,130,219,0,1,130,1,1.0,2,?,?,Positive,1
+46,Mexico,Mexico City,1,Female,3,120,231,0,0,115,1,0.0,?,?,?,Positive,1
+46,Germany,Bavaria,1,Female,3,130,222,0,0,112,0,0.0,?,?,?,Positive,1
+48,United States,Alabama,1,Female,3,122,275,1,1,150,1,2.0,3,?,?,Positive,1
+48,Mexico,Mexico City,1,Female,3,160,193,0,0,102,1,3.0,2,?,?,Positive,1
+48,China,Shanghai,1,Female,3,160,329,0,0,92,1,1.5,2,?,?,Positive,1
+48,Ukraine,Dnipro,1,Female,3,160,355,0,0,99,1,2.0,2,?,?,Positive,1
+50,Brazil,Bahia,1,Female,3,130,233,0,0,121,1,2.0,2,?,7,Positive,1
+52,United States,Alabama,1,Female,3,120,182,0,0,150,0,0.0,?,?,?,Positive,1
+52,South Africa,Eastern Cape,1,Female,3,170,?,0,0,126,1,1.5,2,?,?,Positive,1
+53,India,Kerala,1,Female,3,120,246,0,0,116,1,0.0,?,?,?,Positive,1
+54,United Kingdom,England,1,Female,2,120,237,0,0,150,1,1.5,?,?,7,Positive,1
+54,Ukraine,Dnipro,1,Female,3,130,242,0,0,91,1,1.0,2,?,?,Positive,1
+54,United States,Alabama,1,Female,3,130,603,1,0,125,1,1.0,2,?,?,Positive,1
+54,United States,West Virginia,1,Female,3,140,?,0,0,118,1,0.0,?,?,?,Positive,1
+54,Brazil,São Paulo,1,Female,3,200,198,0,0,142,1,2.0,2,?,?,Positive,1
+55,United Kingdom,England,1,Female,3,140,268,0,0,128,1,1.5,2,?,?,Positive,1
+56,Mexico,Jalisco,1,Female,3,150,213,1,0,125,1,1.0,2,?,?,Positive,1
+57,India,Goa,1,Female,3,150,255,0,0,92,1,3.0,2,?,?,Positive,1
+58,Germany,Saxony,1,Female,2,160,211,1,1,92,0,0.0,?,?,?,Positive,1
+58,Ukraine,Dnipro,1,Female,3,130,263,0,0,140,1,2.0,2,?,?,Positive,1
+41,Ukraine,Dnipro,1,Female,3,130,172,0,1,130,0,2.0,2,?,?,Positive,1
+43,Russia,Krasnodar,1,Female,3,120,175,0,0,120,1,1.0,2,?,7,Positive,1
+44,United Kingdom,Scotland,1,Female,1,150,288,0,0,150,1,3.0,2,?,?,Positive,1
+44,South Africa,Gauteng,1,Female,3,130,290,0,0,100,1,2.0,2,?,?,Positive,1
+46,Ukraine,Kharkiv,1,Female,0,140,272,1,0,175,0,2.0,2,?,?,Positive,1
+47,India,Goa,0,Male,2,135,248,1,0,170,0,0.0,?,?,?,Positive,1
+48,Brazil,Rio de Janeiro,0,Male,3,138,214,0,0,108,1,1.5,2,?,?,Positive,1
+49,India,Kerala,1,Female,3,130,341,0,0,120,1,1.0,2,?,?,Positive,1
+49,United States,West Virginia,1,Female,3,140,234,0,0,140,1,1.0,2,?,?,Positive,1
+51,Ukraine,Kharkiv,1,Female,2,135,160,0,0,150,0,2.0,2,?,?,Positive,1
+52,Mexico,Jalisco,1,Female,3,112,342,0,1,96,1,1.0,2,?,?,Positive,1
+52,Brazil,Rio de Janeiro,1,Female,3,130,298,0,0,110,1,1.0,2,?,?,Positive,1
+52,Brazil,Rio de Janeiro,1,Female,3,140,404,0,0,124,1,2.0,2,?,?,Positive,1
+52,Germany,Saxony,1,Female,3,160,246,0,1,82,1,4.0,2,?,?,Positive,1
+53,India,Kerala,1,Female,2,145,518,0,0,130,0,0.0,?,?,?,Positive,1
+53,Brazil,Rio de Janeiro,1,Female,3,180,285,0,1,120,1,1.5,2,?,?,Positive,1
+54,Russia,Saint Petersburg,1,Female,3,140,216,0,0,105,0,1.5,2,?,?,Positive,1
+55,Ukraine,Dnipro,1,Female,0,140,295,0,?,136,0,0.0,?,?,?,Positive,1
+55,India,Tamil Nadu,1,Female,1,160,292,1,0,143,1,2.0,2,?,?,Positive,1
+55,Russia,Krasnodar,1,Female,3,145,248,0,0,96,1,2.0,2,?,?,Positive,1
+56,South Africa,Eastern Cape,0,Male,1,120,279,0,0,150,0,1.0,2,?,?,Positive,1
+56,United States,Alabama,1,Female,3,150,230,0,1,124,1,1.5,2,?,?,Positive,1
+56,South Africa,KwaZulu-Natal,1,Female,3,170,388,0,1,122,1,2.0,2,?,?,Positive,1
+58,Germany,Saxony,1,Female,1,136,164,0,1,99,1,2.0,2,?,?,Positive,1
+59,United Kingdom,England,1,Female,3,130,?,0,0,125,0,0.0,?,?,?,Positive,1
+59,Germany,North Rhine-Westphalia,1,Female,3,140,264,1,2,119,1,0.0,?,?,?,Positive,1
+65,China,Beijing,1,Female,3,170,263,1,0,112,1,2.0,2,?,?,Positive,1
+66,Russia,Moscow Oblast,1,Female,3,140,?,0,0,94,1,1.0,2,?,?,Positive,1
+41,Russia,Saint Petersburg,1,Female,3,120,336,0,0,118,1,3.0,2,?,?,Positive,1
+43,India,Tamil Nadu,1,Female,3,140,288,0,0,135,1,2.0,2,?,?,Positive,1
+44,China,Beijing,1,Female,3,135,491,0,0,135,0,0.0,?,?,?,Positive,1
+47,China,Guangdong,0,Male,3,120,205,0,0,98,1,2.0,2,?,6,Positive,1
+47,Brazil,Bahia,1,Female,3,160,291,0,1,158,1,3.0,2,?,?,Positive,1
+49,Ukraine,Kyiv,1,Female,3,128,212,0,0,96,1,0.0,?,?,?,Positive,1
+49,United States,West Virginia,1,Female,3,150,222,0,0,122,0,2.0,2,?,?,Positive,1
+50,Russia,Saint Petersburg,1,Female,3,140,231,0,1,140,1,5.0,2,?,?,Positive,1
+50,India,Kerala,1,Female,3,140,341,0,1,125,1,2.5,2,?,?,Positive,1
+52,Russia,Krasnodar,1,Female,3,140,266,0,0,134,1,2.0,2,?,?,Positive,1
+52,Ukraine,Kyiv,1,Female,3,160,331,0,0,94,1,2.5,?,?,?,Positive,1
+54,Ukraine,Kharkiv,0,Male,2,130,294,0,1,100,1,0.0,2,?,?,Positive,1
+56,India,Tamil Nadu,1,Female,3,155,342,1,0,150,1,3.0,2,?,?,Positive,1
+58,India,Kerala,0,Male,1,180,393,0,0,110,1,1.0,2,?,7,Positive,1
+65,India,Goa,1,Female,3,130,275,0,1,115,1,1.0,2,?,?,Positive,1
+70,South Africa,Gauteng,1,Female,3,130,322,0,2,109,0,2.4,2,3,3,Positive,1
+67,Russia,Saint Petersburg,0,Male,2,115,564,0,2,160,0,1.6,2,0,7,Negative,0
+57,Germany,Bavaria,1,Female,1,124,261,0,0,141,0,0.3,1,0,7,Positive,1
+64,Russia,Krasnodar,1,Female,3,128,263,0,0,105,1,0.2,2,1,7,Negative,0
+74,Ukraine,Kharkiv,0,Male,1,120,269,0,2,121,1,0.2,1,1,3,Negative,0
+65,Russia,Saint Petersburg,1,Female,3,120,177,0,0,140,0,0.4,1,0,7,Negative,0
+56,Mexico,Jalisco,1,Female,2,130,256,1,2,142,1,0.6,2,1,6,Positive,1
+59,United States,Mississippi,1,Female,3,110,239,0,2,142,1,1.2,2,1,7,Positive,1
+60,Brazil,Bahia,1,Female,3,140,293,0,2,170,0,1.2,2,2,7,Positive,1
+63,Ukraine,Kharkiv,0,Male,3,150,407,0,2,154,0,4.0,2,3,7,Positive,1
+59,South Africa,Gauteng,1,Female,3,135,234,0,0,161,0,0.5,2,0,7,Negative,0
+53,Germany,Saxony,1,Female,3,142,226,0,2,111,1,0.0,1,0,7,Negative,0
+44,India,Tamil Nadu,1,Female,2,140,235,0,2,180,0,0.0,1,0,3,Negative,0
+61,Brazil,Bahia,1,Female,0,134,234,0,0,145,0,2.6,2,2,3,Positive,1
+57,United Kingdom,England,0,Male,3,128,303,0,2,159,0,0.0,1,1,3,Negative,0
+71,Russia,Saint Petersburg,0,Male,3,112,149,0,0,125,0,1.6,2,0,3,Negative,0
+46,United States,West Virginia,1,Female,3,140,311,0,0,120,1,1.8,2,2,7,Positive,1
+53,United States,Alabama,1,Female,3,140,203,1,2,155,1,3.1,3,0,7,Positive,1
+64,United Kingdom,England,1,Female,0,110,211,0,2,144,1,1.8,2,0,3,Negative,0
+40,Russia,Moscow Oblast,1,Female,0,140,199,0,0,178,1,1.4,1,0,7,Negative,0
+67,China,Shanghai,1,Female,3,120,229,0,2,129,1,2.6,2,2,7,Positive,1
+48,China,Beijing,1,Female,1,130,245,0,2,180,0,0.2,2,0,3,Negative,0
+43,United Kingdom,Scotland,1,Female,3,115,303,0,0,181,0,1.2,2,0,3,Negative,0
+47,United Kingdom,England,1,Female,3,112,204,0,0,143,0,0.1,1,0,3,Negative,0
+54,South Africa,Eastern Cape,0,Male,1,132,288,1,2,159,1,0.0,1,1,3,Negative,0
+48,Mexico,Nuevo León,0,Male,2,130,275,0,0,139,0,0.2,1,0,3,Negative,0
+46,Ukraine,Kyiv,0,Male,3,138,243,0,2,152,1,0.0,2,0,3,Negative,0
+51,Brazil,Rio de Janeiro,0,Male,2,120,295,0,2,157,0,0.6,1,0,3,Negative,0
+58,Russia,Krasnodar,1,Female,2,112,230,0,2,165,0,2.5,2,1,7,Positive,1
+71,Russia,Krasnodar,0,Male,2,110,265,1,2,130,0,0.0,1,1,3,Negative,0
+57,Russia,Moscow Oblast,1,Female,2,128,229,0,2,150,0,0.4,2,1,7,Positive,1
+66,United States,Alabama,1,Female,3,160,228,0,2,138,0,2.3,1,0,6,Negative,0
+37,Mexico,Nuevo León,0,Male,2,120,215,0,0,170,0,0.0,1,0,3,Negative,0
+59,South Africa,Gauteng,1,Female,3,170,326,0,2,140,1,3.4,3,0,7,Positive,1
+50,India,Kerala,1,Female,3,144,200,0,2,126,1,0.9,2,0,7,Positive,1
+48,India,Goa,1,Female,3,130,256,1,2,150,1,0.0,1,2,7,Positive,1
+61,United Kingdom,Wales,1,Female,3,140,207,0,2,138,1,1.9,1,1,7,Positive,1
+59,Germany,Saxony,1,Female,0,160,273,0,2,125,0,0.0,1,0,3,Positive,1
+42,Germany,Bavaria,1,Female,2,130,180,0,0,150,0,0.0,1,0,3,Negative,0
+48,Germany,Saxony,1,Female,3,122,222,0,2,186,0,0.0,1,0,3,Negative,0
+40,United States,West Virginia,1,Female,3,152,223,0,0,181,0,0.0,1,0,7,Positive,1
+62,Brazil,Rio de Janeiro,0,Male,3,124,209,0,0,163,0,0.0,1,0,3,Negative,0
+44,Ukraine,Kharkiv,1,Female,2,130,233,0,0,179,1,0.4,1,0,3,Negative,0
+46,United States,Alabama,1,Female,1,101,197,1,0,156,0,0.0,1,0,7,Negative,0
+59,Russia,Moscow Oblast,1,Female,2,126,218,1,0,134,0,2.2,2,1,6,Positive,1
+58,India,Goa,1,Female,2,140,211,1,2,165,0,0.0,1,0,3,Negative,0
+49,United States,Alabama,1,Female,2,118,149,0,2,126,0,0.8,1,3,3,Positive,1
+44,Mexico,Mexico City,1,Female,3,110,197,0,2,177,0,0.0,1,1,3,Positive,1
+66,Russia,Moscow Oblast,1,Female,1,160,246,0,0,120,1,0.0,2,3,6,Positive,1
+65,Mexico,Mexico City,0,Male,3,150,225,0,2,114,0,1.0,2,3,7,Positive,1
+42,Russia,Krasnodar,1,Female,3,136,315,0,0,125,1,1.8,2,0,6,Positive,1
+52,United Kingdom,Wales,1,Female,1,128,205,1,0,184,0,0.0,1,0,3,Negative,0
+65,Germany,North Rhine-Westphalia,0,Male,2,140,417,1,2,157,0,0.8,1,1,3,Negative,0
+63,Ukraine,Dnipro,0,Male,1,140,195,0,0,179,0,0.0,1,2,3,Negative,0
+45,Ukraine,Kyiv,0,Male,1,130,234,0,2,175,0,0.6,2,0,3,Negative,0
+41,Germany,North Rhine-Westphalia,0,Male,1,105,198,0,0,168,0,0.0,1,1,3,Negative,0
+61,Mexico,Mexico City,1,Female,3,138,166,0,2,125,1,3.6,2,1,3,Positive,1
+60,United States,Mississippi,0,Male,2,120,178,1,0,96,0,0.0,1,0,3,Negative,0
+59,Ukraine,Dnipro,0,Male,3,174,249,0,0,143,1,0.0,2,0,3,Positive,1
+62,Mexico,Mexico City,1,Female,1,120,281,0,2,103,0,1.4,2,1,7,Positive,1
+57,India,Kerala,1,Female,2,150,126,1,0,173,0,0.2,1,1,7,Negative,0
+51,India,Goa,0,Male,3,130,305,0,0,142,1,1.2,2,0,7,Positive,1
+44,United States,West Virginia,1,Female,2,120,226,0,0,169,0,0.0,1,0,3,Negative,0
+60,Brazil,Rio de Janeiro,0,Male,0,150,240,0,0,171,0,0.9,1,0,3,Negative,0
+63,Germany,North Rhine-Westphalia,1,Female,0,145,233,1,2,150,0,2.3,3,0,6,Negative,0
+57,Russia,Krasnodar,1,Female,3,150,276,0,2,112,1,0.6,2,1,6,Positive,1
+51,United Kingdom,Scotland,1,Female,3,140,261,0,2,186,1,0.0,1,0,3,Negative,0
+58,India,Kerala,0,Male,1,136,319,1,2,152,0,0.0,1,2,3,Positive,1
+44,United Kingdom,Wales,0,Male,2,118,242,0,0,149,0,0.3,2,1,3,Negative,0
+47,United States,Alabama,1,Female,2,108,243,0,0,152,0,0.0,1,0,3,Positive,1
+61,Ukraine,Kharkiv,1,Female,3,120,260,0,0,140,1,3.6,2,1,7,Positive,1
+57,United Kingdom,Wales,0,Male,3,120,354,0,0,163,1,0.6,1,0,3,Negative,0
+70,United Kingdom,England,1,Female,1,156,245,0,2,143,0,0.0,1,0,3,Negative,0
+76,Russia,Saint Petersburg,0,Male,2,140,197,0,1,116,0,1.1,2,0,3,Negative,0
+67,United Kingdom,Wales,0,Male,3,106,223,0,0,142,0,0.3,1,2,3,Negative,0
+45,Ukraine,Kyiv,1,Female,3,142,309,0,2,147,1,0.0,2,3,7,Positive,1
+45,United Kingdom,Wales,1,Female,3,104,208,0,2,148,1,3.0,2,0,3,Negative,0
+39,Mexico,Jalisco,0,Male,2,94,199,0,0,179,0,0.0,1,0,3,Negative,0
+42,Ukraine,Kharkiv,0,Male,2,120,209,0,0,173,0,0.0,2,0,3,Negative,0
+56,Mexico,Mexico City,1,Female,1,120,236,0,0,178,0,0.8,1,0,3,Negative,0
+58,Ukraine,Dnipro,1,Female,3,146,218,0,0,105,0,2.0,2,1,7,Positive,1
+35,United Kingdom,England,1,Female,3,120,198,0,0,130,1,1.6,2,0,7,Positive,1
+58,Russia,Krasnodar,1,Female,3,150,270,0,2,111,1,0.8,1,0,7,Positive,1
+41,Mexico,Jalisco,1,Female,2,130,214,0,2,168,0,2.0,2,0,3,Negative,0
+57,United Kingdom,Wales,1,Female,3,110,201,0,0,126,1,1.5,2,0,6,Negative,0
+42,United States,West Virginia,1,Female,0,148,244,0,2,178,0,0.8,1,2,3,Negative,0
+62,United States,West Virginia,1,Female,1,128,208,1,2,140,0,0.0,1,0,3,Negative,0
+59,South Africa,Eastern Cape,1,Female,0,178,270,0,2,145,0,4.2,3,0,7,Negative,0
+41,Brazil,Bahia,0,Male,1,126,306,0,0,163,0,0.0,1,0,3,Negative,0
+50,India,Kerala,1,Female,3,150,243,0,2,128,0,2.6,2,0,7,Positive,1
+59,United States,Mississippi,1,Female,1,140,221,0,0,164,1,0.0,1,0,3,Negative,0
+61,Russia,Saint Petersburg,0,Male,3,130,330,0,2,169,0,0.0,1,0,3,Positive,1
+54,United Kingdom,Wales,1,Female,3,124,266,0,2,109,1,2.2,2,1,7,Positive,1
+54,South Africa,Gauteng,1,Female,3,110,206,0,2,108,1,0.0,2,1,3,Positive,1
+52,United States,Alabama,1,Female,3,125,212,0,0,168,0,1.0,1,2,7,Positive,1
+47,Ukraine,Kyiv,1,Female,3,110,275,0,2,118,1,1.0,2,1,3,Positive,1
+66,China,Shanghai,1,Female,3,120,302,0,2,151,0,0.4,2,0,3,Negative,0
+58,United Kingdom,England,1,Female,3,100,234,0,0,156,0,0.1,1,1,7,Positive,1
+64,China,Beijing,0,Male,2,140,313,0,0,133,0,0.2,1,0,7,Negative,0
+50,Ukraine,Kharkiv,0,Male,1,120,244,0,0,162,0,1.1,1,0,3,Negative,0
+44,South Africa,Gauteng,0,Male,2,108,141,0,0,175,0,0.6,2,0,3,Negative,0
+67,Russia,Saint Petersburg,1,Female,3,120,237,0,0,71,0,1.0,2,0,3,Positive,1
+49,China,Shanghai,0,Male,3,130,269,0,0,163,0,0.0,1,0,3,Negative,0
+57,Brazil,Rio de Janeiro,1,Female,3,165,289,1,2,124,0,1.0,2,3,7,Positive,1
+63,South Africa,KwaZulu-Natal,1,Female,3,130,254,0,2,147,0,1.4,2,1,7,Positive,1
+48,Germany,Bavaria,1,Female,3,124,274,0,2,166,0,0.5,2,0,7,Positive,1
+51,Germany,Saxony,1,Female,2,100,222,0,0,143,1,1.2,2,0,3,Negative,0
+60,Russia,Moscow Oblast,0,Male,3,150,258,0,2,157,0,2.6,2,2,7,Positive,1
+59,India,Kerala,1,Female,3,140,177,0,0,162,1,0.0,1,1,7,Positive,1
+45,Russia,Moscow Oblast,0,Male,1,112,160,0,0,138,0,0.0,2,0,3,Negative,0
+55,United Kingdom,Scotland,0,Male,3,180,327,0,1,117,1,3.4,2,0,3,Positive,1
+41,Brazil,São Paulo,1,Female,1,110,235,0,0,153,0,0.0,1,0,3,Negative,0
+60,Mexico,Mexico City,0,Male,3,158,305,0,2,161,0,0.0,1,0,3,Positive,1
+54,Russia,Moscow Oblast,0,Male,2,135,304,1,0,170,0,0.0,1,0,3,Negative,0
+42,China,Shanghai,1,Female,1,120,295,0,0,162,0,0.0,1,0,3,Negative,0
+49,India,Goa,0,Male,1,134,271,0,0,162,0,0.0,2,0,3,Negative,0
+46,Brazil,São Paulo,1,Female,3,120,249,0,2,144,0,0.8,1,0,7,Positive,1
+56,Germany,Saxony,0,Male,3,200,288,1,2,133,1,4.0,3,2,7,Positive,1
+66,United States,West Virginia,0,Male,0,150,226,0,0,114,0,2.6,3,0,3,Negative,0
+56,United States,West Virginia,1,Female,3,130,283,1,2,103,1,1.6,3,0,7,Positive,1
+49,Brazil,Bahia,1,Female,2,120,188,0,0,139,0,2.0,2,3,7,Positive,1
+54,Brazil,Bahia,1,Female,3,122,286,0,2,116,1,3.2,2,2,3,Positive,1
+57,South Africa,Eastern Cape,1,Female,3,152,274,0,0,88,1,1.2,2,1,7,Positive,1
+65,China,Guangdong,0,Male,2,160,360,0,2,151,0,0.8,1,0,3,Negative,0
+54,South Africa,KwaZulu-Natal,1,Female,2,125,273,0,2,152,0,0.5,3,1,3,Negative,0
+54,Germany,Bavaria,0,Male,2,160,201,0,0,163,0,0.0,1,1,3,Negative,0
+62,United Kingdom,England,1,Female,3,120,267,0,0,99,1,1.8,2,2,7,Positive,1
+52,India,Goa,0,Male,2,136,196,0,2,169,0,0.1,2,0,3,Negative,0
+52,Germany,Saxony,1,Female,1,134,201,0,0,158,0,0.8,1,1,3,Negative,0
+60,South Africa,Eastern Cape,1,Female,3,117,230,1,0,160,1,1.4,1,2,7,Positive,1
+63,China,Guangdong,0,Male,3,108,269,0,0,169,1,1.8,2,2,3,Positive,1
+66,Russia,Moscow Oblast,1,Female,3,112,212,0,2,132,1,0.1,1,1,3,Positive,1
+42,Germany,Bavaria,1,Female,3,140,226,0,0,178,0,0.0,1,0,3,Negative,0
+64,United States,West Virginia,1,Female,3,120,246,0,2,96,1,2.2,3,1,3,Positive,1
+54,China,Shanghai,1,Female,2,150,232,0,2,165,0,1.6,1,0,7,Negative,0
+46,India,Tamil Nadu,0,Male,2,142,177,0,2,160,1,1.4,3,0,3,Negative,0
+67,India,Kerala,0,Male,2,152,277,0,0,172,0,0.0,1,1,3,Negative,0
+56,Germany,North Rhine-Westphalia,1,Female,3,125,249,1,2,144,1,1.2,2,1,3,Positive,1
+34,Mexico,Nuevo León,0,Male,1,118,210,0,0,192,0,0.7,1,0,3,Negative,0
+57,South Africa,Eastern Cape,1,Female,3,132,207,0,0,168,1,0.0,1,0,7,Negative,0
+64,United Kingdom,Wales,1,Female,3,145,212,0,2,132,0,2.0,2,2,6,Positive,1
+59,Mexico,Jalisco,1,Female,3,138,271,0,2,182,0,0.0,1,0,3,Negative,0
+50,China,Beijing,1,Female,2,140,233,0,0,163,0,0.6,2,1,7,Positive,1
+51,China,Guangdong,1,Female,0,125,213,0,2,125,1,1.4,1,1,3,Negative,0
+54,United States,Alabama,1,Female,1,192,283,0,2,195,0,0.0,1,1,7,Positive,1
+53,United Kingdom,Wales,1,Female,3,123,282,0,0,95,1,2.0,2,2,7,Positive,1
+52,India,Goa,1,Female,3,112,230,0,0,160,0,0.0,1,1,3,Positive,1
+40,Germany,Saxony,1,Female,3,110,167,0,2,114,1,2.0,2,0,7,Positive,1
+58,South Africa,Eastern Cape,1,Female,2,132,224,0,2,173,0,3.2,1,2,7,Positive,1
+41,United Kingdom,Scotland,0,Male,2,112,268,0,2,172,1,0.0,1,0,3,Negative,0
+41,Brazil,Bahia,1,Female,2,112,250,0,0,179,0,0.0,1,0,3,Negative,0
+50,China,Guangdong,0,Male,2,120,219,0,0,158,0,1.6,2,0,3,Negative,0
+54,Ukraine,Dnipro,0,Male,2,108,267,0,2,167,0,0.0,1,0,3,Negative,0
+64,Mexico,Jalisco,0,Male,3,130,303,0,0,122,0,2.0,2,2,3,Negative,0
+51,South Africa,Eastern Cape,0,Male,2,130,256,0,2,149,0,0.5,1,0,3,Negative,0
+46,India,Tamil Nadu,0,Male,1,105,204,0,0,172,0,0.0,1,0,3,Negative,0
+55,Ukraine,Dnipro,1,Female,3,140,217,0,0,111,1,5.6,3,0,7,Positive,1
+45,United States,West Virginia,1,Female,1,128,308,0,2,170,0,0.0,1,0,3,Negative,0
+56,United Kingdom,Wales,1,Female,0,120,193,0,2,162,0,1.9,2,0,7,Negative,0
+66,China,Guangdong,0,Male,3,178,228,1,0,165,1,1.0,2,2,7,Positive,1
+38,South Africa,KwaZulu-Natal,1,Female,0,120,231,0,0,182,1,3.8,2,0,7,Positive,1
+62,Germany,North Rhine-Westphalia,0,Male,3,150,244,0,0,154,1,1.4,2,0,3,Positive,1
+55,Brazil,Rio de Janeiro,1,Female,1,130,262,0,0,155,0,0.0,1,0,3,Negative,0
+58,United Kingdom,England,1,Female,3,128,259,0,2,130,1,3.0,2,2,7,Positive,1
+43,Germany,Bavaria,1,Female,3,110,211,0,0,161,0,0.0,1,0,7,Negative,0
+64,Germany,Bavaria,0,Male,3,180,325,0,0,154,1,0.0,1,0,3,Negative,0
+50,India,Tamil Nadu,0,Male,3,110,254,0,2,159,0,0.0,1,0,3,Negative,0
+53,Ukraine,Kyiv,1,Female,2,130,197,1,2,152,0,1.2,3,0,3,Negative,0
+45,India,Kerala,0,Male,3,138,236,0,2,152,1,0.2,2,0,3,Negative,0
+65,India,Tamil Nadu,1,Female,0,138,282,1,2,174,0,1.4,2,1,3,Positive,1
+69,India,Tamil Nadu,1,Female,0,160,234,1,2,131,0,0.1,2,1,3,Negative,0
+69,Ukraine,Kharkiv,1,Female,2,140,254,0,2,146,0,2.0,2,3,7,Positive,1
+67,Germany,Saxony,1,Female,3,100,299,0,2,125,1,0.9,2,2,3,Positive,1
+68,India,Tamil Nadu,0,Male,2,120,211,0,2,115,0,1.5,2,0,3,Negative,0
+34,Mexico,Mexico City,1,Female,0,118,182,0,2,174,0,0.0,1,0,3,Negative,0
+62,India,Kerala,0,Male,3,138,294,1,0,106,0,1.9,2,3,3,Positive,1
+51,Ukraine,Kyiv,1,Female,3,140,298,0,0,122,1,4.2,2,3,7,Positive,1
+46,Mexico,Mexico City,1,Female,2,150,231,0,0,147,0,3.6,2,0,3,Positive,1
+67,India,Goa,1,Female,3,125,254,1,0,163,0,0.2,2,2,7,Positive,1
+50,Germany,North Rhine-Westphalia,1,Female,2,129,196,0,0,163,0,0.0,1,0,3,Negative,0
+42,Mexico,Nuevo León,1,Female,2,120,240,1,0,194,0,0.8,3,0,7,Negative,0
+56,United States,Alabama,0,Male,3,134,409,0,2,150,1,1.9,2,2,7,Positive,1
+41,United States,West Virginia,1,Female,3,110,172,0,2,158,0,0.0,1,0,7,Positive,1
+42,Brazil,Bahia,0,Male,3,102,265,0,2,122,0,0.6,2,0,3,Negative,0
+53,India,Goa,1,Female,2,130,246,1,2,173,0,0.0,1,3,3,Negative,0
+43,United States,West Virginia,1,Female,2,130,315,0,0,162,0,1.9,1,1,3,Negative,0
+56,Mexico,Nuevo León,1,Female,3,132,184,0,2,105,1,2.1,2,1,6,Positive,1
+52,United States,Alabama,1,Female,3,108,233,1,0,147,0,0.1,1,3,7,Negative,0
+62,United States,West Virginia,0,Male,3,140,394,0,2,157,0,1.2,2,0,3,Negative,0
+70,China,Beijing,1,Female,2,160,269,0,0,112,1,2.9,2,1,7,Positive,1
+54,Germany,Saxony,1,Female,3,140,239,0,0,160,0,1.2,1,0,3,Negative,0
+70,India,Kerala,1,Female,3,145,174,0,0,125,1,2.6,3,0,7,Positive,1
+54,Mexico,Mexico City,1,Female,1,108,309,0,0,156,0,0.0,1,0,7,Negative,0
+35,Ukraine,Dnipro,1,Female,3,126,282,0,2,156,1,0.0,1,0,7,Positive,1
+48,South Africa,Eastern Cape,1,Female,2,124,255,1,0,175,0,0.0,1,2,3,Negative,0
+55,United States,Mississippi,0,Male,1,135,250,0,2,161,0,1.4,2,0,3,Negative,0
+58,India,Tamil Nadu,0,Male,3,100,248,0,2,122,0,1.0,2,0,3,Negative,0
+54,China,Guangdong,0,Male,2,110,214,0,0,158,0,1.6,2,0,3,Negative,0
+69,United Kingdom,England,0,Male,0,140,239,0,0,151,0,1.8,1,2,3,Negative,0
+77,China,Shanghai,1,Female,3,125,304,0,2,162,1,0.0,1,3,3,Positive,1
+68,Mexico,Nuevo León,1,Female,2,118,277,0,0,151,0,1.0,1,1,7,Negative,0
+58,Germany,North Rhine-Westphalia,1,Female,3,125,300,0,2,171,0,0.0,1,2,7,Positive,1
+60,Mexico,Jalisco,1,Female,3,125,258,0,2,141,1,2.8,2,1,7,Positive,1
+51,Germany,Saxony,1,Female,3,140,299,0,0,173,1,1.6,1,0,7,Positive,1
+55,Ukraine,Kharkiv,1,Female,3,160,289,0,2,145,1,0.8,2,1,7,Positive,1
+52,Germany,North Rhine-Westphalia,1,Female,0,152,298,1,0,178,0,1.2,2,0,7,Negative,0
+60,United Kingdom,England,0,Male,2,102,318,0,0,160,0,0.0,1,1,3,Negative,0
+58,Mexico,Mexico City,1,Female,2,105,240,0,2,154,1,0.6,2,0,7,Negative,0
+64,South Africa,Gauteng,1,Female,2,125,309,0,0,131,1,1.8,2,0,7,Positive,1
+37,Russia,Saint Petersburg,1,Female,2,130,250,0,0,187,0,3.5,3,0,3,Negative,0
+59,Russia,Moscow Oblast,1,Female,0,170,288,0,2,159,0,0.2,2,0,7,Positive,1
+51,China,Guangdong,1,Female,2,125,245,1,2,166,0,2.4,2,0,3,Negative,0
+43,India,Kerala,0,Male,2,122,213,0,0,165,0,0.2,2,0,3,Negative,0
+58,Russia,Moscow Oblast,1,Female,3,128,216,0,2,131,1,2.2,2,3,7,Positive,1
+29,Russia,Saint Petersburg,1,Female,1,130,204,0,2,202,0,0.0,1,0,3,Negative,0
+41,China,Beijing,0,Male,1,130,204,0,2,172,0,1.4,1,0,3,Negative,0
+63,Brazil,São Paulo,0,Male,2,135,252,0,2,172,0,0.0,1,0,3,Negative,0
+51,Brazil,Rio de Janeiro,1,Female,2,94,227,0,0,154,1,0.0,1,1,7,Negative,0
+54,China,Beijing,1,Female,2,120,258,0,2,147,0,0.4,2,0,7,Negative,0
+44,Russia,Saint Petersburg,1,Female,1,120,220,0,0,170,0,0.0,1,0,3,Negative,0
+54,Russia,Saint Petersburg,1,Female,3,110,239,0,0,126,1,2.8,2,1,7,Positive,1
+65,China,Guangdong,1,Female,3,135,254,0,2,127,0,2.8,2,1,7,Positive,1
+57,Russia,Saint Petersburg,1,Female,2,150,168,0,0,174,0,1.6,1,0,3,Negative,0
+63,Mexico,Jalisco,1,Female,3,130,330,1,2,132,1,1.8,1,3,7,Positive,1
+35,Ukraine,Kharkiv,0,Male,3,138,183,0,0,182,0,1.4,1,0,3,Negative,0
+41,China,Beijing,1,Female,1,135,203,0,0,132,0,0.0,2,0,6,Negative,0
+62,China,Beijing,0,Male,2,130,263,0,0,97,0,1.2,2,1,7,Positive,1
+43,Brazil,Bahia,0,Male,3,132,341,1,2,136,1,3.0,2,0,7,Positive,1
+58,Germany,Bavaria,0,Male,0,150,283,1,2,162,0,1.0,1,0,3,Negative,0
+52,China,Beijing,1,Female,0,118,186,0,2,190,0,0.0,2,0,6,Negative,0
+61,United States,Alabama,0,Male,3,145,307,0,2,146,1,1.0,2,0,7,Positive,1
+39,South Africa,Gauteng,1,Female,3,118,219,0,0,140,0,1.2,2,0,7,Positive,1
+45,Mexico,Jalisco,1,Female,3,115,260,0,2,185,0,0.0,1,0,3,Negative,0
+52,Brazil,Bahia,1,Female,3,128,255,0,0,161,1,0.0,1,1,7,Positive,1
+62,United Kingdom,Scotland,1,Female,2,130,231,0,0,146,0,1.8,2,3,7,Negative,0
+62,China,Shanghai,0,Male,3,160,164,0,2,145,0,6.2,3,3,7,Positive,1
+53,United States,Alabama,0,Male,3,138,234,0,2,160,0,0.0,1,0,3,Negative,0
+43,Mexico,Mexico City,1,Female,3,120,177,0,2,120,1,2.5,2,0,7,Positive,1
+47,South Africa,Gauteng,1,Female,2,138,257,0,2,156,0,0.0,1,0,3,Negative,0
+52,Germany,Saxony,1,Female,1,120,325,0,0,172,0,0.2,1,0,3,Negative,0
+68,India,Kerala,1,Female,2,180,274,1,2,150,1,1.6,2,0,7,Positive,1
+39,China,Shanghai,1,Female,2,140,321,0,2,182,0,0.0,1,0,3,Negative,0
+53,India,Kerala,0,Male,3,130,264,0,2,143,0,0.4,2,0,3,Negative,0
+62,South Africa,KwaZulu-Natal,0,Male,3,140,268,0,2,160,0,3.6,3,2,3,Positive,1
+51,United States,Alabama,0,Male,2,140,308,0,2,142,0,1.5,1,1,3,Negative,0
+60,South Africa,KwaZulu-Natal,1,Female,3,130,253,0,0,144,1,1.4,1,1,7,Positive,1
+65,Russia,Saint Petersburg,1,Female,3,110,248,0,2,158,0,0.6,1,2,6,Positive,1
+65,Ukraine,Dnipro,0,Male,2,155,269,0,0,148,0,0.8,1,0,3,Negative,0
+60,South Africa,KwaZulu-Natal,1,Female,2,140,185,0,2,155,0,3.0,2,0,3,Positive,1
+60,Russia,Moscow Oblast,1,Female,3,145,282,0,2,142,1,2.8,2,2,7,Positive,1
+54,Russia,Krasnodar,1,Female,3,120,188,0,0,113,0,1.4,2,1,7,Positive,1
+44,South Africa,KwaZulu-Natal,1,Female,1,130,219,0,2,188,0,0.0,1,0,3,Negative,0
+44,South Africa,Gauteng,1,Female,3,112,290,0,2,153,0,0.0,1,1,3,Positive,1
+51,India,Goa,1,Female,2,110,175,0,0,123,0,0.6,1,0,3,Negative,0
+59,India,Kerala,1,Female,2,150,212,1,0,157,0,1.6,1,0,3,Negative,0
+71,Mexico,Mexico City,0,Male,1,160,302,0,0,162,0,0.4,1,2,3,Negative,0
+61,India,Goa,1,Female,2,150,243,1,0,137,1,1.0,2,0,3,Negative,0
+55,United Kingdom,England,1,Female,3,132,353,0,0,132,1,1.2,2,1,7,Positive,1
+64,Russia,Moscow Oblast,1,Female,2,140,335,0,0,158,0,0.0,1,0,3,Positive,1
+43,South Africa,Eastern Cape,1,Female,3,150,247,0,0,171,0,1.5,1,0,3,Negative,0
+58,South Africa,Gauteng,0,Male,2,120,340,0,0,172,0,0.0,1,0,3,Negative,0
+60,Brazil,São Paulo,1,Female,3,130,206,0,2,132,1,2.4,2,2,7,Positive,1
+58,China,Beijing,1,Female,1,120,284,0,2,160,0,1.8,2,0,3,Positive,1
+49,Russia,Krasnodar,1,Female,1,130,266,0,0,171,0,0.6,1,0,3,Negative,0
+48,United States,Mississippi,1,Female,1,110,229,0,0,168,0,1.0,3,0,7,Positive,1
+52,Germany,Saxony,1,Female,2,172,199,1,0,162,0,0.5,1,0,7,Negative,0
+44,Russia,Saint Petersburg,1,Female,1,120,263,0,0,173,0,0.0,1,0,7,Negative,0
+56,United Kingdom,Wales,0,Male,1,140,294,0,2,153,0,1.3,2,0,3,Negative,0
+57,Ukraine,Kharkiv,1,Female,3,140,192,0,0,148,0,0.4,2,0,6,Negative,0
+67,Russia,Moscow Oblast,1,Female,3,160,286,0,2,108,1,1.5,2,3,3,Positive,1
+60,South Africa,Gauteng,1,Female,3,145,233,1,0,150,0,2.3,0,0,1,Positive,1
+35,United States,Alabama,1,Female,2,130,250,0,1,187,0,3.5,0,0,2,Positive,1
+41,China,Shanghai,0,Male,1,130,204,0,0,172,0,1.4,2,0,2,Positive,1
+55,United Kingdom,Scotland,1,Female,1,120,236,0,1,178,0,0.8,2,0,2,Positive,1
+56,Mexico,Nuevo León,0,Male,0,120,354,0,1,163,1,0.6,2,0,2,Positive,1
+55,India,Tamil Nadu,1,Female,0,140,192,0,1,148,0,0.4,1,0,1,Positive,1
+56,Germany,Bavaria,0,Male,1,140,294,0,0,153,0,1.3,1,0,2,Positive,1
+44,Ukraine,Kharkiv,1,Female,1,120,263,0,1,173,0,0.0,2,0,3,Positive,1
+52,South Africa,KwaZulu-Natal,1,Female,2,172,199,1,1,162,0,0.5,2,0,3,Positive,1
+57,United States,West Virginia,1,Female,2,150,168,0,1,174,0,1.6,2,0,2,Positive,1
+54,United Kingdom,Scotland,1,Female,0,140,239,0,1,160,0,1.2,2,0,2,Positive,1
+48,South Africa,Eastern Cape,0,Male,2,130,275,0,1,139,0,0.2,2,0,2,Positive,1
+49,India,Goa,1,Female,1,130,266,0,1,171,0,0.6,2,0,2,Positive,1
+64,Mexico,Jalisco,1,Female,3,110,211,0,0,144,1,1.8,1,0,2,Positive,1
+55,China,Beijing,0,Male,3,150,283,1,0,162,0,1.0,2,0,2,Positive,1
+50,United Kingdom,Wales,0,Male,2,120,219,0,1,158,0,1.6,1,0,2,Positive,1
+58,South Africa,Gauteng,0,Male,2,120,340,0,1,172,0,0.0,2,0,2,Positive,1
+66,South Africa,Gauteng,0,Male,3,150,226,0,1,114,0,2.6,0,0,2,Positive,1
+40,South Africa,KwaZulu-Natal,1,Female,0,150,247,0,1,171,0,1.5,2,0,2,Positive,1
+69,United States,Alabama,0,Male,3,140,239,0,1,151,0,1.8,2,2,2,Positive,1
+59,Mexico,Mexico City,1,Female,0,135,234,0,1,161,0,0.5,1,0,3,Positive,1
+44,South Africa,KwaZulu-Natal,1,Female,2,130,233,0,1,179,1,0.4,2,0,2,Positive,1
+42,Ukraine,Kharkiv,1,Female,0,140,226,0,1,178,0,0.0,2,0,2,Positive,1
+61,China,Shanghai,1,Female,2,150,243,1,1,137,1,1.0,1,0,2,Positive,1
+40,United States,Mississippi,1,Female,3,140,199,0,1,178,1,1.4,2,0,3,Positive,1
+71,United States,West Virginia,0,Male,1,160,302,0,1,162,0,0.4,2,2,2,Positive,1
+59,South Africa,Gauteng,1,Female,2,150,212,1,1,157,0,1.6,2,0,2,Positive,1
+51,Russia,Krasnodar,1,Female,2,110,175,0,1,123,0,0.6,2,0,2,Positive,1
+65,Brazil,São Paulo,0,Male,2,140,417,1,0,157,0,0.8,2,1,2,Positive,1
+53,South Africa,KwaZulu-Natal,1,Female,2,130,197,1,0,152,0,1.2,0,0,2,Positive,1
+41,China,Shanghai,0,Male,1,105,198,0,1,168,0,0.0,2,1,2,Positive,1
+65,China,Guangdong,1,Female,0,120,177,0,1,140,0,0.4,2,0,3,Positive,1
+44,Russia,Saint Petersburg,1,Female,1,130,219,0,0,188,0,0.0,2,0,2,Positive,1
+54,Russia,Saint Petersburg,1,Female,2,125,273,0,0,152,0,0.5,0,1,2,Positive,1
+51,United States,Mississippi,1,Female,3,125,213,0,0,125,1,1.4,2,1,2,Positive,1
+46,Ukraine,Dnipro,0,Male,2,142,177,0,0,160,1,1.4,0,0,2,Positive,1
+54,India,Goa,0,Male,2,135,304,1,1,170,0,0.0,2,0,2,Positive,1
+54,Germany,Bavaria,1,Female,2,150,232,0,0,165,0,1.6,2,0,3,Positive,1
+65,Ukraine,Dnipro,0,Male,2,155,269,0,1,148,0,0.8,2,0,2,Positive,1
+65,Brazil,Rio de Janeiro,0,Male,2,160,360,0,0,151,0,0.8,2,0,2,Positive,1
+51,Ukraine,Dnipro,0,Male,2,140,308,0,0,142,0,1.5,2,1,2,Positive,1
+48,Ukraine,Dnipro,1,Female,1,130,245,0,0,180,0,0.2,1,0,2,Positive,1
+45,United Kingdom,Scotland,1,Female,0,104,208,0,0,148,1,3.0,1,0,2,Positive,1
+53,India,Goa,0,Male,0,130,264,0,0,143,0,0.4,1,0,2,Positive,1
+39,South Africa,KwaZulu-Natal,1,Female,2,140,321,0,0,182,0,0.0,2,0,2,Positive,1
+52,India,Kerala,1,Female,1,120,325,0,1,172,0,0.2,2,0,2,Positive,1
+44,Russia,Moscow Oblast,1,Female,2,140,235,0,0,180,0,0.0,2,0,2,Positive,1
+47,Germany,Bavaria,1,Female,2,138,257,0,0,156,0,0.0,2,0,2,Positive,1
+53,Mexico,Jalisco,0,Male,2,128,216,0,0,115,0,0.0,2,0,0,Positive,1
+53,United States,Mississippi,0,Male,0,138,234,0,0,160,0,0.0,2,0,2,Positive,1
+51,China,Shanghai,0,Male,2,130,256,0,0,149,0,0.5,2,0,2,Positive,1
+66,Germany,Saxony,1,Female,0,120,302,0,0,151,0,0.4,1,0,2,Positive,1
+62,United States,Alabama,1,Female,2,130,231,0,1,146,0,1.8,1,3,3,Positive,1
+44,Russia,Moscow Oblast,0,Male,2,108,141,0,1,175,0,0.6,1,0,2,Positive,1
+63,South Africa,KwaZulu-Natal,0,Male,2,135,252,0,0,172,0,0.0,2,0,2,Positive,1
+52,Germany,Bavaria,1,Female,1,134,201,0,1,158,0,0.8,2,1,2,Positive,1
+48,India,Tamil Nadu,1,Female,0,122,222,0,0,186,0,0.0,2,0,2,Positive,1
+45,Brazil,São Paulo,1,Female,0,115,260,0,0,185,0,0.0,2,0,2,Positive,1
+34,United Kingdom,Wales,1,Female,3,118,182,0,0,174,0,0.0,2,0,2,Positive,1
+57,Ukraine,Kyiv,0,Male,0,128,303,0,0,159,0,0.0,2,1,2,Positive,1
+71,China,Shanghai,0,Male,2,110,265,1,0,130,0,0.0,2,1,2,Positive,1
+54,United Kingdom,Scotland,1,Female,1,108,309,0,1,156,0,0.0,2,0,3,Positive,1
+52,Germany,Bavaria,1,Female,3,118,186,0,0,190,0,0.0,1,0,1,Positive,1
+41,Brazil,Bahia,1,Female,1,135,203,0,1,132,0,0.0,1,0,1,Positive,1
+58,United States,West Virginia,1,Female,2,140,211,1,0,165,0,0.0,2,0,2,Positive,1
+35,China,Guangdong,0,Male,0,138,183,0,1,182,0,1.4,2,0,2,Positive,1
+51,Russia,Saint Petersburg,1,Female,2,100,222,0,1,143,1,1.2,1,0,2,Positive,1
+45,India,Kerala,0,Male,1,130,234,0,0,175,0,0.6,1,0,2,Positive,1
+44,Germany,Saxony,1,Female,1,120,220,0,1,170,0,0.0,2,0,2,Positive,1
+62,Brazil,Bahia,0,Male,0,124,209,0,1,163,0,0.0,2,0,2,Positive,1
+54,Germany,Saxony,1,Female,2,120,258,0,0,147,0,0.4,1,0,3,Positive,1
+51,China,Shanghai,1,Female,2,94,227,0,1,154,1,0.0,2,1,3,Positive,1
+29,China,Shanghai,1,Female,1,130,204,0,0,202,0,0.0,2,0,2,Positive,1
+51,Russia,Saint Petersburg,1,Female,0,140,261,0,0,186,1,0.0,2,0,2,Positive,1
+43,Germany,Saxony,0,Male,2,122,213,0,1,165,0,0.2,1,0,2,Positive,1
+55,Brazil,Rio de Janeiro,0,Male,1,135,250,0,0,161,0,1.4,1,0,2,Positive,1
+51,United Kingdom,England,1,Female,2,125,245,1,0,166,0,2.4,1,0,2,Positive,1
+59,South Africa,KwaZulu-Natal,1,Female,1,140,221,0,1,164,1,0.0,2,0,2,Positive,1
+52,Russia,Moscow Oblast,1,Female,1,128,205,1,1,184,0,0.0,2,0,2,Positive,1
+58,Brazil,São Paulo,1,Female,2,105,240,0,0,154,1,0.6,1,0,3,Positive,1
+41,Germany,Saxony,1,Female,2,112,250,0,1,179,0,0.0,2,0,2,Positive,1
+45,South Africa,Gauteng,1,Female,1,128,308,0,0,170,0,0.0,2,0,2,Positive,1
+60,Ukraine,Dnipro,0,Male,2,102,318,0,1,160,0,0.0,2,1,2,Positive,1
+52,United States,Alabama,1,Female,3,152,298,1,1,178,0,1.2,1,0,3,Positive,1
+42,India,Tamil Nadu,0,Male,0,102,265,0,0,122,0,0.6,1,0,2,Positive,1
+67,Russia,Saint Petersburg,0,Male,2,115,564,0,0,160,0,1.6,1,0,3,Positive,1
+68,Germany,Bavaria,1,Female,2,118,277,0,1,151,0,1.0,2,1,3,Positive,1
+46,South Africa,KwaZulu-Natal,1,Female,1,101,197,1,1,156,0,0.0,2,0,3,Positive,1
+54,Germany,Saxony,0,Male,2,110,214,0,1,158,0,1.6,1,0,2,Positive,1
+58,United Kingdom,Scotland,0,Male,0,100,248,0,0,122,0,1.0,1,0,2,Positive,1
+48,Germany,Saxony,1,Female,2,124,255,1,1,175,0,0.0,2,2,2,Positive,1
+57,India,Goa,1,Female,0,132,207,0,1,168,1,0.0,2,0,3,Positive,1
+52,Ukraine,Kharkiv,1,Female,2,138,223,0,1,169,0,0.0,2,4,2,Positive,1
+54,United States,West Virginia,0,Male,1,132,288,1,0,159,1,0.0,2,1,2,Positive,1
+45,Brazil,São Paulo,0,Male,1,112,160,0,1,138,0,0.0,1,0,2,Positive,1
+53,United States,Alabama,1,Female,0,142,226,0,0,111,1,0.0,2,0,3,Positive,1
+62,United Kingdom,England,0,Male,0,140,394,0,0,157,0,1.2,1,0,2,Positive,1
+52,India,Kerala,1,Female,0,108,233,1,1,147,0,0.1,2,3,3,Positive,1
+43,Mexico,Nuevo León,1,Female,2,130,315,0,1,162,0,1.9,2,1,2,Positive,1
+53,Germany,Bavaria,1,Female,2,130,246,1,0,173,0,0.0,2,3,2,Positive,1
+42,India,Kerala,1,Female,3,148,244,0,0,178,0,0.8,2,2,2,Positive,1
+59,India,Goa,1,Female,3,178,270,0,0,145,0,4.2,0,0,3,Positive,1
+63,China,Shanghai,0,Male,1,140,195,0,1,179,0,0.0,2,2,2,Positive,1
+42,United States,West Virginia,1,Female,2,120,240,1,1,194,0,0.8,0,0,3,Positive,1
+50,South Africa,Gauteng,1,Female,2,129,196,0,1,163,0,0.0,2,0,2,Positive,1
+68,Brazil,Rio de Janeiro,0,Male,2,120,211,0,0,115,0,1.5,1,0,2,Positive,1
+69,India,Kerala,1,Female,3,160,234,1,0,131,0,0.1,1,1,2,Positive,1
+45,Brazil,Rio de Janeiro,0,Male,0,138,236,0,0,152,1,0.2,1,0,2,Positive,1
+50,China,Shanghai,0,Male,1,120,244,0,1,162,0,1.1,2,0,2,Positive,1
+50,Mexico,Mexico City,0,Male,0,110,254,0,0,159,0,0.0,2,0,2,Positive,1
+64,South Africa,Eastern Cape,0,Male,0,180,325,0,1,154,1,0.0,2,0,2,Positive,1
+57,United Kingdom,England,1,Female,2,150,126,1,1,173,0,0.2,2,1,3,Positive,1
+64,United States,Alabama,0,Male,2,140,313,0,1,133,0,0.2,2,0,3,Positive,1
+43,South Africa,KwaZulu-Natal,1,Female,0,110,211,0,1,161,0,0.0,2,0,3,Positive,1
+55,Germany,Bavaria,1,Female,1,130,262,0,1,155,0,0.0,2,0,2,Positive,1
+37,United States,West Virginia,0,Male,2,120,215,0,1,170,0,0.0,2,0,2,Positive,1
+41,United States,Alabama,1,Female,2,130,214,0,0,168,0,2.0,1,0,2,Positive,1
+56,United Kingdom,Wales,1,Female,3,120,193,0,0,162,0,1.9,1,0,3,Positive,1
+46,China,Shanghai,0,Male,1,105,204,0,1,172,0,0.0,2,0,2,Positive,1
+46,China,Shanghai,0,Male,0,138,243,0,0,152,1,0.0,1,0,2,Positive,1
+64,United Kingdom,England,0,Male,0,130,303,0,1,122,0,2.0,1,2,2,Positive,1
+59,United States,Alabama,1,Female,0,138,271,0,0,182,0,0.0,2,0,2,Positive,1
+41,South Africa,KwaZulu-Natal,0,Male,2,112,268,0,0,172,1,0.0,2,0,2,Positive,1
+54,Mexico,Jalisco,0,Male,2,108,267,0,0,167,0,0.0,2,0,2,Positive,1
+39,Ukraine,Kharkiv,0,Male,2,94,199,0,1,179,0,0.0,2,0,2,Positive,1
+34,Mexico,Mexico City,0,Male,1,118,210,0,1,192,0,0.7,2,0,2,Positive,1
+47,Mexico,Jalisco,1,Female,0,112,204,0,1,143,0,0.1,2,0,2,Positive,1
+67,Mexico,Jalisco,0,Male,2,152,277,0,1,172,0,0.0,2,1,2,Positive,1
+52,Germany,North Rhine-Westphalia,0,Male,2,136,196,0,0,169,0,0.1,1,0,2,Positive,1
+74,United States,Mississippi,0,Male,1,120,269,0,0,121,1,0.2,2,1,2,Positive,1
+54,Germany,Bavaria,0,Male,2,160,201,0,1,163,0,0.0,2,1,2,Positive,1
+49,South Africa,KwaZulu-Natal,0,Male,1,134,271,0,1,162,0,0.0,1,0,2,Positive,1
+42,Mexico,Jalisco,1,Female,1,120,295,0,1,162,0,0.0,2,0,2,Positive,1
+41,China,Guangdong,1,Female,1,110,235,0,1,153,0,0.0,2,0,2,Positive,1
+41,Russia,Moscow Oblast,0,Male,1,126,306,0,1,163,0,0.0,2,0,2,Positive,1
+49,Brazil,Bahia,0,Male,0,130,269,0,1,163,0,0.0,2,0,2,Positive,1
+60,Russia,Moscow Oblast,0,Male,2,120,178,1,1,96,0,0.0,2,0,2,Positive,1
+62,Russia,Krasnodar,1,Female,1,128,208,1,0,140,0,0.0,2,0,2,Positive,1
+57,South Africa,Gauteng,1,Female,0,110,201,0,1,126,1,1.5,1,0,1,Positive,1
+64,Germany,North Rhine-Westphalia,1,Female,0,128,263,0,1,105,1,0.2,1,1,3,Positive,1
+51,China,Guangdong,0,Male,2,120,295,0,0,157,0,0.6,2,0,2,Positive,1
+43,Brazil,Bahia,1,Female,0,115,303,0,1,181,0,1.2,1,0,2,Positive,1
+42,Mexico,Jalisco,0,Male,2,120,209,0,1,173,0,0.0,1,0,2,Positive,1
+67,China,Guangdong,0,Male,0,106,223,0,1,142,0,0.3,2,2,2,Positive,1
+76,United States,West Virginia,0,Male,2,140,197,0,2,116,0,1.1,1,0,2,Positive,1
+70,United States,West Virginia,1,Female,1,156,245,0,0,143,0,0.0,2,0,2,Positive,1
+44,Germany,Bavaria,0,Male,2,118,242,0,1,149,0,0.3,1,1,2,Positive,1
+60,Ukraine,Dnipro,0,Male,3,150,240,0,1,171,0,0.9,2,0,2,Positive,1
+44,Germany,Saxony,1,Female,2,120,226,0,1,169,0,0.0,2,0,2,Positive,1
+42,Germany,Bavaria,1,Female,2,130,180,0,1,150,0,0.0,2,0,2,Positive,1
+66,China,Shanghai,1,Female,0,160,228,0,0,138,0,2.3,2,0,1,Positive,1
+71,India,Kerala,0,Male,0,112,149,0,1,125,0,1.6,1,0,2,Positive,1
+64,United Kingdom,Wales,1,Female,3,170,227,0,0,155,0,0.6,1,0,3,Positive,1
+66,United States,Alabama,0,Male,2,146,278,0,0,152,0,0.0,1,1,2,Positive,1
+39,Mexico,Jalisco,0,Male,2,138,220,0,1,152,0,0.0,1,0,2,Positive,1
+58,United Kingdom,England,0,Male,0,130,197,0,1,131,0,0.6,1,0,2,Positive,1
+47,Brazil,São Paulo,1,Female,2,130,253,0,1,179,0,0.0,2,0,2,Positive,1
+35,Mexico,Nuevo León,1,Female,1,122,192,0,1,174,0,0.0,2,0,2,Positive,1
+58,United States,West Virginia,1,Female,1,125,220,0,1,144,0,0.4,1,4,3,Positive,1
+56,Germany,Bavaria,1,Female,1,130,221,0,0,163,0,0.0,2,0,3,Positive,1
+56,Russia,Moscow Oblast,1,Female,1,120,240,0,1,169,0,0.0,0,0,2,Positive,1
+55,Ukraine,Kyiv,0,Male,1,132,342,0,1,166,0,1.2,2,0,2,Positive,1
+41,India,Kerala,1,Female,1,120,157,0,1,182,0,0.0,2,0,2,Positive,1
+38,Germany,North Rhine-Westphalia,1,Female,2,138,175,0,1,173,0,0.0,2,4,2,Positive,1
+38,Mexico,Nuevo León,1,Female,2,138,175,0,1,173,0,0.0,2,4,2,Positive,1
+67,Germany,Saxony,1,Female,0,160,286,0,0,108,1,1.5,1,3,2,Negative,0
+67,Ukraine,Kharkiv,1,Female,0,120,229,0,0,129,1,2.6,1,2,3,Negative,0
+62,China,Guangdong,0,Male,0,140,268,0,0,160,0,3.6,0,2,2,Negative,0
+63,United Kingdom,Scotland,1,Female,0,130,254,0,0,147,0,1.4,1,1,3,Negative,0
+53,India,Tamil Nadu,1,Female,0,140,203,1,0,155,1,3.1,0,0,3,Negative,0
+56,China,Shanghai,1,Female,2,130,256,1,0,142,1,0.6,1,1,1,Negative,0
+48,Ukraine,Dnipro,1,Female,1,110,229,0,1,168,0,1.0,0,0,3,Negative,0
+58,South Africa,Eastern Cape,1,Female,1,120,284,0,0,160,0,1.8,1,0,2,Negative,0
+58,Germany,North Rhine-Westphalia,1,Female,2,132,224,0,0,173,0,3.2,2,2,3,Negative,0
+60,South Africa,Gauteng,1,Female,0,130,206,0,0,132,1,2.4,1,2,3,Negative,0
+40,China,Beijing,1,Female,0,110,167,0,0,114,1,2.0,1,0,3,Negative,0
+60,Brazil,Rio de Janeiro,1,Female,0,117,230,1,1,160,1,1.4,2,2,3,Negative,0
+64,India,Kerala,1,Female,2,140,335,0,1,158,0,0.0,2,0,2,Negative,0
+43,Germany,Bavaria,1,Female,0,120,177,0,0,120,1,2.5,1,0,3,Negative,0
+57,United Kingdom,Wales,1,Female,0,150,276,0,0,112,1,0.6,1,1,1,Negative,0
+55,Germany,Saxony,1,Female,0,132,353,0,1,132,1,1.2,1,1,3,Negative,0
+65,Russia,Krasnodar,0,Male,0,150,225,0,0,114,0,1.0,1,3,3,Negative,0
+61,South Africa,KwaZulu-Natal,0,Male,0,130,330,0,0,169,0,0.0,2,0,2,Negative,0
+58,Brazil,Rio de Janeiro,1,Female,2,112,230,0,0,165,0,2.5,1,1,3,Negative,0
+50,Germany,Bavaria,1,Female,0,150,243,0,0,128,0,2.6,1,0,3,Negative,0
+44,United States,West Virginia,1,Female,0,112,290,0,0,153,0,0.0,2,1,2,Negative,0
+60,United Kingdom,Scotland,1,Female,0,130,253,0,1,144,1,1.4,2,1,3,Negative,0
+54,United States,West Virginia,1,Female,0,124,266,0,0,109,1,2.2,1,1,3,Negative,0
+50,United States,Alabama,1,Female,2,140,233,0,1,163,0,0.6,1,1,3,Negative,0
+41,South Africa,KwaZulu-Natal,1,Female,0,110,172,0,0,158,0,0.0,2,0,3,Negative,0
+51,South Africa,KwaZulu-Natal,0,Male,0,130,305,0,1,142,1,1.2,1,0,3,Negative,0
+58,Ukraine,Kharkiv,1,Female,0,128,216,0,0,131,1,2.2,1,3,3,Negative,0
+54,Ukraine,Kharkiv,1,Female,0,120,188,0,1,113,0,1.4,1,1,3,Negative,0
+60,China,Guangdong,1,Female,0,145,282,0,0,142,1,2.8,1,2,3,Negative,0
+60,United Kingdom,Wales,1,Female,2,140,185,0,0,155,0,3.0,1,0,2,Negative,0
+59,United States,Mississippi,1,Female,0,170,326,0,0,140,1,3.4,0,0,3,Negative,0
+46,China,Shanghai,1,Female,2,150,231,0,1,147,0,3.6,1,0,2,Negative,0
+67,United Kingdom,Scotland,1,Female,0,125,254,1,1,163,0,0.2,1,2,3,Negative,0
+62,Ukraine,Kharkiv,1,Female,0,120,267,0,1,99,1,1.8,1,2,3,Negative,0
+65,China,Shanghai,1,Female,0,110,248,0,0,158,0,0.6,2,2,1,Negative,0
+44,United States,West Virginia,1,Female,0,110,197,0,0,177,0,0.0,2,1,2,Negative,0
+60,Germany,Saxony,1,Female,0,125,258,0,0,141,1,2.8,1,1,3,Negative,0
+58,China,Beijing,1,Female,0,150,270,0,0,111,1,0.8,2,0,3,Negative,0
+68,India,Goa,1,Female,2,180,274,1,0,150,1,1.6,1,0,3,Negative,0
+62,United Kingdom,Scotland,0,Male,0,160,164,0,0,145,0,6.2,0,3,3,Negative,0
+52,Germany,North Rhine-Westphalia,1,Female,0,128,255,0,1,161,1,0.0,2,1,3,Negative,0
+59,Russia,Moscow Oblast,1,Female,0,110,239,0,0,142,1,1.2,1,1,3,Negative,0
+60,United States,Alabama,0,Male,0,150,258,0,0,157,0,2.6,1,2,3,Negative,0
+49,Ukraine,Kharkiv,1,Female,2,120,188,0,1,139,0,2.0,1,3,3,Negative,0
+59,Ukraine,Kharkiv,1,Female,0,140,177,0,1,162,1,0.0,2,1,3,Negative,0
+57,Brazil,Rio de Janeiro,1,Female,2,128,229,0,0,150,0,0.4,1,1,3,Negative,0
+61,Ukraine,Kyiv,1,Female,0,120,260,0,1,140,1,3.6,1,1,3,Negative,0
+39,Ukraine,Kyiv,1,Female,0,118,219,0,1,140,0,1.2,1,0,3,Negative,0
+61,Ukraine,Dnipro,0,Male,0,145,307,0,0,146,1,1.0,1,0,3,Negative,0
+56,South Africa,Gauteng,1,Female,0,125,249,1,0,144,1,1.2,1,1,2,Negative,0
+43,United States,Alabama,0,Male,0,132,341,1,0,136,1,3.0,1,0,3,Negative,0
+54,South Africa,KwaZulu-Natal,1,Female,2,130,263,0,1,97,0,1.2,1,1,3,Negative,0
+63,Mexico,Jalisco,1,Female,0,130,330,1,0,132,1,1.8,2,3,3,Negative,0
+60,United Kingdom,Scotland,1,Female,0,135,254,0,0,127,0,2.8,1,1,3,Negative,0
+48,Brazil,Rio de Janeiro,1,Female,0,130,256,1,0,150,1,0.0,2,2,3,Negative,0
+63,Russia,Saint Petersburg,1,Female,0,150,407,0,0,154,0,4.0,1,3,3,Negative,0
+55,China,Guangdong,1,Female,0,140,217,0,1,111,1,5.6,0,0,3,Negative,0
+64,Germany,North Rhine-Westphalia,1,Female,3,138,282,1,0,174,0,1.4,1,1,2,Negative,0
+56,Germany,Bavaria,0,Male,0,200,288,1,0,133,1,4.0,0,2,3,Negative,0
+50,Russia,Saint Petersburg,1,Female,0,110,239,0,1,126,1,2.8,1,1,3,Negative,0
+70,Russia,Krasnodar,1,Female,0,145,174,0,1,125,1,2.6,0,0,3,Negative,0
+62,United States,Alabama,1,Female,1,120,281,0,0,103,0,1.4,1,1,3,Negative,0
+35,Brazil,Rio de Janeiro,1,Female,0,120,198,0,1,130,1,1.6,1,0,3,Negative,0
+59,United States,West Virginia,1,Female,3,170,288,0,0,159,0,0.2,1,0,3,Negative,0
+64,Brazil,Rio de Janeiro,1,Female,2,125,309,0,1,131,1,1.8,1,0,3,Negative,0
+47,Germany,Bavaria,1,Female,2,108,243,0,1,152,0,0.0,2,0,2,Negative,0
+57,United States,Alabama,1,Female,0,165,289,1,0,124,0,1.0,1,3,3,Negative,0
+55,South Africa,Eastern Cape,1,Female,0,160,289,0,0,145,1,0.8,1,1,3,Negative,0
+64,Russia,Moscow Oblast,1,Female,0,120,246,0,0,96,1,2.2,0,1,2,Negative,0
+70,South Africa,Eastern Cape,1,Female,0,130,322,0,0,109,0,2.4,1,3,2,Negative,0
+51,Mexico,Nuevo León,1,Female,0,140,299,0,1,173,1,1.6,2,0,3,Negative,0
+58,Germany,North Rhine-Westphalia,0,Male,0,125,300,0,0,171,0,0.0,2,2,3,Negative,0
+60,United Kingdom,Scotland,1,Female,0,140,293,0,0,170,0,1.2,1,2,3,Negative,0
+77,United Kingdom,England,0,Male,0,125,304,0,0,162,1,0.0,2,3,2,Negative,0
+35,China,Guangdong,1,Female,0,126,282,0,0,156,1,0.0,2,0,3,Negative,0
+70,Germany,North Rhine-Westphalia,0,Male,2,160,269,0,1,112,1,2.9,1,1,3,Negative,0
+59,South Africa,Gauteng,0,Male,0,174,249,0,1,143,1,0.0,1,0,2,Negative,0
+64,Brazil,São Paulo,1,Female,1,145,212,0,0,132,0,2.0,1,2,1,Negative,0
+57,Ukraine,Kyiv,1,Female,0,152,274,0,1,88,1,1.2,1,1,3,Negative,0
+56,Germany,Bavaria,1,Female,1,132,184,0,0,105,1,2.1,1,1,1,Negative,0
+48,Germany,North Rhine-Westphalia,1,Female,0,124,274,0,0,166,0,0.5,1,0,3,Negative,0
+56,Mexico,Nuevo León,0,Male,0,134,409,0,0,150,1,1.9,1,2,3,Negative,0
+66,Russia,Moscow Oblast,1,Female,1,160,246,0,1,120,1,0.0,1,3,1,Negative,0
+54,China,Beijing,1,Female,1,192,283,0,0,195,0,0.0,2,1,3,Negative,0
+69,Ukraine,Kharkiv,1,Female,2,140,254,0,0,146,0,2.0,1,3,3,Negative,0
+51,Brazil,São Paulo,1,Female,0,140,298,0,1,122,1,4.2,1,3,3,Negative,0
+43,Russia,Moscow Oblast,0,Male,3,132,247,1,0,143,1,0.1,1,4,3,Negative,0
+62,China,Beijing,0,Male,0,138,294,1,1,106,0,1.9,1,3,2,Negative,0
+67,Brazil,Rio de Janeiro,1,Female,0,100,299,0,0,125,1,0.9,1,2,2,Negative,0
+59,China,Beijing,1,Female,3,160,273,0,0,125,0,0.0,2,0,2,Negative,0
+45,United Kingdom,Scotland,1,Female,0,142,309,0,0,147,1,0.0,1,3,3,Negative,0
+58,Russia,Saint Petersburg,1,Female,1,128,259,0,0,130,1,3.0,1,2,3,Negative,0
+50,Brazil,São Paulo,1,Female,1,144,200,0,0,126,1,0.9,1,0,3,Negative,0
+62,South Africa,KwaZulu-Natal,0,Male,1,150,244,0,1,154,1,1.4,1,0,2,Negative,0
+38,Germany,Saxony,1,Female,3,120,231,0,1,182,1,3.8,1,0,3,Negative,0
+66,India,Kerala,0,Male,0,178,228,1,1,165,1,1.0,1,2,3,Negative,0
+52,Russia,Saint Petersburg,1,Female,0,112,230,0,1,160,0,0.0,2,1,2,Negative,0
+53,South Africa,Gauteng,1,Female,0,123,282,0,1,95,1,2.0,1,2,3,Negative,0
+63,South Africa,KwaZulu-Natal,0,Male,0,108,269,0,1,169,1,1.8,1,2,2,Negative,0
+54,Brazil,Bahia,1,Female,0,110,206,0,0,108,1,0.0,1,1,2,Negative,0
+66,United States,West Virginia,1,Female,0,112,212,0,0,132,1,0.1,2,1,2,Negative,0
+55,Brazil,Rio de Janeiro,0,Male,0,180,327,0,2,117,1,3.4,1,0,2,Negative,0
+49,United Kingdom,Wales,1,Female,2,118,149,0,0,126,0,0.8,2,3,2,Negative,0
+54,India,Tamil Nadu,1,Female,0,122,286,0,0,116,1,3.2,1,2,2,Negative,0
+52,Russia,Moscow Oblast,1,Female,0,130,283,1,0,103,1,1.6,0,0,3,Negative,0
+46,Russia,Krasnodar,1,Female,0,120,249,0,0,144,0,0.8,2,0,3,Negative,0
+60,India,Kerala,1,Female,3,134,234,0,1,145,0,2.6,1,2,2,Negative,0
+67,United Kingdom,Wales,1,Female,0,120,237,0,1,71,0,1.0,1,0,2,Negative,0
+58,United States,Mississippi,1,Female,0,100,234,0,1,156,0,0.1,2,1,3,Negative,0
+45,United Kingdom,England,1,Female,0,110,275,0,0,118,1,1.0,1,1,2,Negative,0
+52,India,Tamil Nadu,1,Female,0,125,212,0,1,168,0,1.0,2,2,3,Negative,0
+58,Germany,Saxony,1,Female,0,146,218,0,1,105,0,2.0,1,1,3,Negative,0
+55,United States,West Virginia,1,Female,1,124,261,0,1,141,0,0.3,2,0,3,Negative,0
+58,Germany,Bavaria,0,Male,1,136,319,1,0,152,0,0.0,2,2,2,Negative,0
+61,United Kingdom,Wales,1,Female,0,138,166,0,0,125,1,3.6,1,1,2,Negative,0
+42,Germany,North Rhine-Westphalia,1,Female,0,136,315,0,1,125,1,1.8,1,0,1,Negative,0
+50,South Africa,Gauteng,1,Female,0,128,204,1,1,156,1,1.0,1,0,0,Negative,0
+59,China,Guangdong,1,Female,2,126,218,1,1,134,0,2.2,1,1,1,Negative,0
+40,Mexico,Jalisco,1,Female,0,152,223,0,1,181,0,0.0,2,0,3,Negative,0
+60,Ukraine,Kyiv,1,Female,0,140,207,0,0,138,1,1.9,2,1,3,Negative,0
+46,Brazil,São Paulo,1,Female,0,140,311,0,1,120,1,1.8,1,2,3,Negative,0
+59,Germany,North Rhine-Westphalia,1,Female,3,134,204,0,1,162,0,0.8,2,2,2,Negative,0
+54,China,Guangdong,1,Female,1,154,232,0,0,164,0,0.0,2,1,2,Negative,0
+53,Mexico,Nuevo León,1,Female,0,110,335,0,1,143,1,3.0,1,1,3,Negative,0
