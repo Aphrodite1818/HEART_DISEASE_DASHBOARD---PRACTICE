@@ -1,2 +1,4 @@
 Heart_Disease_Dashboard/
 __pycache__/
+tests/
+.pytest_cache/
