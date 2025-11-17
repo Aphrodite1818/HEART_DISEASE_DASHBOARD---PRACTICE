@@ -7,24 +7,19 @@ from plots import visualisations
 from map import map_visualisation
 
 
-
-
-def app():
-    # ------------- CONFIGURE PAGE -------------#
-    st.set_page_config(
-        page_title='Cardio Health Analysis',
-        page_icon=r'C:\Users\taiwo\OneDrive\Desktop\HEART DISEASE DASHBOARD\images and icons\page icon image.jpeg',
-        layout='wide',
-        initial_sidebar_state='auto'
+# ------------- CONFIGURE PAGE -------------#
+st.set_page_config(
+    page_title='Cardio Health Analysis',
+    page_icon=r'C:\Users\taiwo\OneDrive\Desktop\HEART DISEASE DASHBOARD\images and icons\page icon image.jpeg',
+    layout='wide',
+    initial_sidebar_state='auto'
     )
 
 
 
 
-
-
-
-    # ------------------PAGE TITLE -----------------------#
+def app():
+ # ------------------PAGE TITLE -----------------------#
     st.title("❤️ Global Cardio Health Analysis Dashboard")
     st.markdown('##')  # line break for spacing
 
@@ -92,3 +87,7 @@ def app():
 
     # Display the map in its own section
     map_col = map_column(fig_map)
+
+
+if __name__ == "__main__":
+    app()

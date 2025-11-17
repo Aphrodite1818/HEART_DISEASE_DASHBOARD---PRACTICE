@@ -5,7 +5,7 @@ import streamlit as st
 #You can adjust the visualisation functions as per your requirements here 
 
 
-
+@st.cache_data
 def visualisations(heart_df_filtered):
 #--------------------------------------------VISUALISATIONS----------------------------------------------------#
     #1. AGE DISTRIBUTION BAR CHART
