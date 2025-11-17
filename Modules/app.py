@@ -5,12 +5,14 @@ from queries import query
 from kpis import kpi
 from plots import visualisations
 from map import map_visualisation
+from utils import load_page_impage , load_sidebar_image_icon
 
-
+page_image = load_page_impage()
+side_bar_image = load_sidebar_image_icon()
 # ------------- CONFIGURE PAGE -------------#
 st.set_page_config(
     page_title='Cardio Health Analysis',
-    page_icon=r'C:\Users\taiwo\OneDrive\Desktop\HEART DISEASE DASHBOARD\images and icons\page icon image.jpeg',
+    page_icon=page_image,
     layout='wide',
     initial_sidebar_state='auto'
     )
@@ -35,8 +37,8 @@ def app():
     country, state, age, Gender_selection, diagnosis = sidebar()
 
     st.logo(
-    image = r"C:\Users\taiwo\OneDrive\Desktop\HEART DISEASE DASHBOARD\images and icons\sidebar icon image.png",  # Path to the logo image
-        icon_image=r"C:\Users\taiwo\OneDrive\Desktop\HEART DISEASE DASHBOARD\images and icons\sidebar icon image.png"  # Optional: icon for when sidebar is closed
+    image = side_bar_image,  # Path to the logo image
+        icon_image= side_bar_image  # Optional: icon for when sidebar is closed
     )
 
 
