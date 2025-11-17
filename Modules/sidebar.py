@@ -2,6 +2,13 @@
 import streamlit as st
 from utils import heart_df
 
+
+#---------YOUR SIDEBAR FUNCTION GO HERE---------#
+#You can edit your sidebar function as per your requirements here
+
+
+
+
 def sidebar():
     st.sidebar.header("CLICK HERE TO FILTER DATASET")
 
@@ -43,3 +50,8 @@ def sidebar():
     )
 
     return country, state, age, Gender_selection, diagnosis
+
+
+
+if __name__ == "__main__":
+    print("This is the sidebar module.")

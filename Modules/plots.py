@@ -1,7 +1,8 @@
 import plotly.express as px
 import streamlit as st
 
-
+#---------YOUR VISUALISATIONS FUNCTIONS GO HERE---------#
+#You can adjust the visualisation functions as per your requirements here 
 
 
 
@@ -24,7 +25,6 @@ def visualisations(heart_df_filtered):
         yaxis_title='Number of Patients'
     )
 
-    st.plotly_chart(fig_age_distribution, theme="streamlit", use_container_width=True)
 
 
 
@@ -42,7 +42,6 @@ def visualisations(heart_df_filtered):
         markers=True
     )
 
-    st.plotly_chart(fig_age_chol_gender, use_container_width=True)
 
 
 
@@ -69,7 +68,10 @@ def visualisations(heart_df_filtered):
                 color='positive_count',
                 color_continuous_scale='blues')
 
-    st.plotly_chart(fig_confirmed_case_count, use_container_width=True)
-
 
     return fig_age_distribution , fig_age_chol_gender , fig_confirmed_case_count
+
+
+
+if __name__ == "__main__":
+    pass

@@ -1,7 +1,8 @@
 import plotly.express as px
 import streamlit as st
 
-#Adding map
+#---------YOUR MAP VISUALISATION FUNCTION GO HERE---------#
+#You can edit the map visualisation function as per your requirements
 
 @st.cache_data
 def map_visualisation(heart_df_filtered):
@@ -25,6 +26,9 @@ def map_visualisation(heart_df_filtered):
         margin={"r":0,"t":0,"l":0,"b":0}
     )
 
-    st.plotly_chart(fig_map, use_container_width=True)
-
     return fig_map
+
+
+
+if __name__ == "__main__":
+    pass
